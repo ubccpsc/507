@@ -24,6 +24,9 @@ The course will be adjusted according to your feedback, interests, and experienc
 * software development tools and environments
 * quantitative &amp; qualitative evaluation of software engineering research
 
+Mindmap from the first lecture:
+
+<img src="slides/SE_MindMap.png" width="640px" alt="SE Mind Map">  
 						
 ## Contact
 
@@ -98,8 +101,7 @@ There are three deliverables for your project:
 
 * **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a> and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on March 24 @ 0800 via Easychair.**
 
-* **Project presentation.** Each group will have the opportunity to present their project in class on March 28/30. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the paper has been presented. <!--The talk will not count for marks.-->
-
+* **Project presentation.** Each group will have the opportunity to present their project in class on March 28/30. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the paper has been presented. 
 
 I have included a brief description of five of the projects from previous years.
 
