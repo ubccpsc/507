@@ -40,9 +40,9 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Week      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
 | Jan 3    	| Course Intro 			                       | Reid   |
-| Jan 5    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532) | Reid   |
-| Jan 10    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf)             | Reid   |
-| Jan 12    	| TBD 			                       | TBD   |
+| Jan 5    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532) | Reid Holmes  |
+| Jan 10    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf)             | Reid Holmes   |
+| Jan 12    	| 	Ko, DeLine, and Venolia. [Information needs in collocated software development teams](http://dl.acm.org/citation.cfm?id=1248867) 			                       | Te Zhao   |
 | Jan 17    	| TBD 			                       | TBD   |
 | Jan 19    	| TBD 			                       | TBD   |
 | Jan 24    	| TBD 			                       | TBD   |
