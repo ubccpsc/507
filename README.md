@@ -56,7 +56,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Feb 28    	| Herzig, Greiler, Czerwonka, and Murphy. [The Art of Testing Less without Sacrificing Quality](http://dl.acm.org/citation.cfm?id=2818754.2818815) | Itrat Akhter   |
 | Mar 2    	| Bird, Nagappan, Devanbu, Gall, and Murphy. [Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista](https://doi.org/10.1145/1536616.1536639) | Mohammad Bajammal   |
 | Mar 7    	| Bacchelli and Bird. [Expectations, Outcomes, and Challenges of Modern Code Review](http://dl.acm.org/citation.cfm?id=2486882) | Alistair Wick   |
-| Mar 9    	| TBD 			                       | TBD   |
+| Mar 9    	| Ko. [Asking and Answering Questions about the Causes of Software Behavior ](https://faculty.washington.edu/ajko/papers/Ko2008Dissertation.pdf) (JUST pages 24-33) 			                       | Felix Grund   |
 | Mar 14    	| Project Meetings 			          | TBD   |
 | Mar 16    	| Project Meetings 			          | TBD   |
 | Mar 21    	| Project Meetings                  | TBD   |
