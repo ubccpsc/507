@@ -35,27 +35,27 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 ## Schedule
 
-**Note: This is a tentative schedule that will firm up after the first week.**
+<!-- **Note: This is a tentative schedule that will firm up after the first week.** -->
 
 | Week      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
 | Jan 3    	| Course Intro 			                       | Reid   |
 | Jan 5    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532) | Reid Holmes  |
-| Jan 10    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf)             | Reid Holmes   |
-| Jan 12    	| 	Ko, DeLine, and Venolia. [Information needs in collocated software development teams](http://dl.acm.org/citation.cfm?id=1248867) 			                       | Te Zhao   |
-| Jan 17    	| TBD 			                       | TBD   |
-| Jan 19    	| TBD 			                       | TBD   |
-| Jan 24    	| TBD 			                       | TBD   |
-| Jan 26    	| TBD 			                       | TBD   |
-| Jan 31    	| TBD 			                       | TBD   |
-| Feb 2    	| TBD 			                       | TBD   |
-| Feb 14    	| TBD 			                       | TBD   |
-| Feb 16    	| TBD 			                       | TBD   |
+| Jan 10    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf)              | Reid Holmes   |
+| Jan 12    	| Ko, DeLine, and Venolia. [Information Needs in Collocated Software Development Teams](http://dl.acm.org/citation.cfm?id=1248867) | Te Zhao   |
+| Jan 17    	| Storey. [Theories, Tools and Research Methods in Program Comprehension: Past, Present and Future](http://dl.acm.org/citation.cfm?id=1147829) | Rodrigo Araujo  |
+| Jan 19    	| Wettel, Lanza, and Robbes. [Software Systems as Cities: A Controlled Experiment](https://doi.org/10.1145/1985793.1985868) | Dylan Dong   |
+| Jan 24    	| Subramanian, Inozemtseva, and Holmes. [Live API Documentation](http://dl.acm.org/citation.cfm?id=2568313&CFID=870606460&CFTOKEN=99225515) | Jodi Spacek  |
+| Jan 26    	| Endrikat, Hanenberg, Robbes, and Stefik. [How Do API Documentation and Static Typing Affect API Usability?](https://doi.org/10.1145/2568225.2568299) | Fabian Ruffy  |
+| Jan 31    	| Shamshiri, Just, Rojas, Fraser, McMinn, and Arcuri. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges](http://ieeexplore.ieee.org/document/7372009/) | Feng Gu   |
+| Feb 2    	| Artzi, Kim, and Ernst. [ReCrash: Making Software Failures Reproducible by Preserving Object States](http://homes.cs.washington.edu/%7Emernst/pubs/reproduce-failures-ecoop2008.pdf) | Joey Eremondi   |
+| Feb 14    	| Phillips, Zimmermann, and Bird. [Understanding and Improving Software Build Teams](https://doi.org/10.1145/2568225.2568274) | Nick Bradley   |
+| Feb 16    	| Seo, Sadowski, Elbaum, Aftandilian, and Bowdidge. [Programmers' Build Errors: A Case Study (at Google)](http://dl.acm.org/citation.cfm?id=2568255) | Arthur Marques   |
 | Feb 21    	| Reading Week 			             | *No Class*   |
 | Feb 23    	| Reading Week 			             | *No Class*   |
-| Feb 28    	| TBD 			                       | TBD   |
-| Mar 2    	| TBD 			                       | TBD   |
-| Mar 7    	| TBD 			                       | TBD   |
+| Feb 28    	| Herzig, Greiler, Czerwonka, and Murphy. [The Art of Testing Less without Sacrificing Quality](http://dl.acm.org/citation.cfm?id=2818754.2818815) | Itrat Akhter   |
+| Mar 2    	| Bird, Nagappan, Devanbu, Gall, and Murphy. [Does Distributed Development Affect Software Quality? An Empirical Case Study of Windows Vista](https://doi.org/10.1145/1536616.1536639) | Mohammad Bajammal   |
+| Mar 7    	| Bacchelli and Bird. [Expectations, Outcomes, and Challenges of Modern Code Review](http://dl.acm.org/citation.cfm?id=2486882) | Alistair Wick   |
 | Mar 9    	| TBD 			                       | TBD   |
 | Mar 14    	| Project Meetings 			          | TBD   |
 | Mar 16    	| Project Meetings 			          | TBD   |
