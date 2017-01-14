@@ -45,10 +45,10 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Jan 12    	| Ko, DeLine, and Venolia. [Information Needs in Collocated Software Development Teams](http://dl.acm.org/citation.cfm?id=1248867) | Te Zhao   |
 | Jan 17    	| Storey. [Theories, Tools and Research Methods in Program Comprehension: Past, Present and Future](http://dl.acm.org/citation.cfm?id=1147829) | Rodrigo Araujo  |
 | Jan 19    	| Wettel, Lanza, and Robbes. [Software Systems as Cities: A Controlled Experiment](https://doi.org/10.1145/1985793.1985868) | Dylan Dong   |
-| Jan 24    	| Subramanian, Inozemtseva, and Holmes. [Live API Documentation](http://dl.acm.org/citation.cfm?id=2568313&CFID=870606460&CFTOKEN=99225515) | Jodi Spacek  |
-| Jan 26    	| Endrikat, Hanenberg, Robbes, and Stefik. [How Do API Documentation and Static Typing Affect API Usability?](https://doi.org/10.1145/2568225.2568299) | Fabian Ruffy  |
-| Jan 31    	| Shamshiri, Just, Rojas, Fraser, McMinn, and Arcuri. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges](http://ieeexplore.ieee.org/document/7372009/) | Feng Gu   |
-| Feb 2    	| Artzi, Kim, and Ernst. [ReCrash: Making Software Failures Reproducible by Preserving Object States](http://homes.cs.washington.edu/%7Emernst/pubs/reproduce-failures-ecoop2008.pdf) | Joey Eremondi   |
+| Jan 24    	| Shamshiri, Just, Rojas, Fraser, McMinn, and Arcuri. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges](http://ieeexplore.ieee.org/document/7372009/) | Feng Gu   |
+| Jan 26   	| Artzi, Kim, and Ernst. [ReCrash: Making Software Failures Reproducible by Preserving Object States](http://homes.cs.washington.edu/%7Emernst/pubs/reproduce-failures-ecoop2008.pdf) | Joey Eremondi   |
+| Jan 31    	| Subramanian, Inozemtseva, and Holmes. [Live API Documentation](http://dl.acm.org/citation.cfm?id=2568313&CFID=870606460&CFTOKEN=99225515) | Jodi Spacek  |
+| Feb 2    	| Endrikat, Hanenberg, Robbes, and Stefik. [How Do API Documentation and Static Typing Affect API Usability?](https://doi.org/10.1145/2568225.2568299) | Fabian Ruffy  |
 | Feb 14    	| Phillips, Zimmermann, and Bird. [Understanding and Improving Software Build Teams](https://doi.org/10.1145/2568225.2568274) | Nick Bradley   |
 | Feb 16    	| Seo, Sadowski, Elbaum, Aftandilian, and Bowdidge. [Programmers' Build Errors: A Case Study (at Google)](http://dl.acm.org/citation.cfm?id=2568255) | Arthur Marques   |
 | Feb 21    	| Reading Week 			             | *No Class*   |
