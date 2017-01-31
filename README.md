@@ -49,6 +49,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Jan 26   	| Artzi, Kim, and Ernst. [ReCrash: Making Software Failures Reproducible by Preserving Object States](http://homes.cs.washington.edu/%7Emernst/pubs/reproduce-failures-ecoop2008.pdf) | Joey Eremondi   |
 | Jan 31    	| Subramanian, Inozemtseva, and Holmes. [Live API Documentation](http://dl.acm.org/citation.cfm?id=2568313&CFID=870606460&CFTOKEN=99225515) | Jodi Spacek  |
 | Feb 2    	| Endrikat, Hanenberg, Robbes, and Stefik. [How Do API Documentation and Static Typing Affect API Usability?](https://doi.org/10.1145/2568225.2568299) | Fabian Ruffy  |
+| Feb 7    	| TBD | TBD  |
+| Feb 9    	| TBD | TBD  |
 | Feb 14    	| Phillips, Zimmermann, and Bird. [Understanding and Improving Software Build Teams](https://doi.org/10.1145/2568225.2568274) | Nick Bradley   |
 | Feb 16    	| Seo, Sadowski, Elbaum, Aftandilian, and Bowdidge. [Programmers' Build Errors: A Case Study (at Google)](http://dl.acm.org/citation.cfm?id=2568255) | Arthur Marques   |
 | Feb 21    	| Reading Week 			             | *No Class*   |
