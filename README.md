@@ -1,5 +1,7 @@
 <img src="slides/507logoA.png" width="256px" alt="CPSC 507 Advanced Software Engineering">
 
+# NOTE: These are from last year and will be updated shortly.
+
 # UBC CPSC 507 - Advanced Software Engineering
 
 January 3, 2017 -> April 6, 2017 (```2016T2```).
