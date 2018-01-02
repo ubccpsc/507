@@ -4,13 +4,15 @@
 
 ## Current Term
 
-* [2017 January](https://github.com/ubccpsc/507/tree/2017jan)
+* Not ready yet
 
 ## Upcoming Term
 
 * Not yet scheduled
 
 ### Past Terms
+
+* [2017 January](https://github.com/ubccpsc/507/tree/2017jan)
 
 **To be completed**
 
