@@ -4,7 +4,7 @@
 
 ## Current Term
 
-* Not ready yet
+* [2018 January](https://github.com/ubccpsc/507/tree/2018jan)
 
 ## Upcoming Term
 
