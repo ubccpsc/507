@@ -85,7 +85,7 @@ Each week, you will also submit a review for each of the papers being presented 
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](https://docs.google.com/spreadsheets/d/1TJqM3I3lKDdOB2tF2Z0ZHO5Q4AyO7vcOGbT_78NSHMk/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by January 9 @ 1500.* 
+You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](https://docs.google.com/spreadsheets/d/1HgN_Y74c86UHrAThFiuxXs3EICRQsRsPtQfVTVXyvK0/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by January 12 @ 0800.* 
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
