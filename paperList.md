@@ -42,6 +42,7 @@ This list is a work in progress.
 
 ### Awareness
 
+* * Hataichanok Unphon, Yvonne Dittrich. Software architecture awareness in long-term software product evolution. In Journal of Systems and Software (JSS). 
 * Biehl, J. T., Czerwinski, M., Smith, G., and Robertson, G. G. 2007\. Fastdash: a visual dashboard for fostering awareness in software teams. In Proceedings of the SIGCHI conference on Human factors in computing systems. CHI '07.
 * A. Sarma, D. Redmiles, and A. van der Hoek, Empirical Evidence of the Benefits of Workspace Awareness in Software Configuration Management, ACM SIGSOFT International Symposium on the Foundations of Software Engineering, (FSE 16), Atlanta, Georgia, November 2008, pages 113-123.
 * Olga Baysal, Reid Holmes, and Mike Godfrey. No Issue Left Behind: Reducing Information Overload in Issue Tracking. FSE 2014\. [[DOI]](http://dx.doi.org/10.1145/2635868.2635887)
@@ -52,6 +53,7 @@ This list is a work in progress.
 
 ### Information needs
 
+* Silvia Breu, Rahul Premraj, Jonathan Sillito, and Thomas Zimmermann. Information needs in bug reports: Improving cooperation between developers and users. Computer Supported Cooperative Work (CSCW). 2010.
 * Ko, DeLine and Venolia. Information needs in collocated software development teams. in Proc. of ICSE 2007.
 * Sillito, Murphy and De Volder. Questions programmers ask during software evolution tasks. in Proc. of FSE, 2006.
 * Thomas Fritz and Gail C. Murphy. 2010\. Using information fragments to answer the questions developers ask. In Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1 (ICSE '10), Vol. 1\. ACM, New York, NY, USA, 175-184.
@@ -139,6 +141,7 @@ This list is a work in progress.
 
 ### Reporting and triaging bugs
 
+* Oscar Chaparro, Jing Lu, Fiorella Zampetti, Laura Moreno, Massimiliano Di Penta, Andrian Marcus, Gabriele Bavota, and Vincent Ng. Detecting missing information in bug descriptions. Foundations on Software Engineering (ESEC/FSE). 2017.
 * Ko, A. J. and Chilana P. (2010). How Power Users Help and Hinder Open Bug Reporting. ACM Conference on Human Factors in Computing Systems (CHI), Atlanta, GA, 1665-1674.
 * Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy. Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows. In ICSE, 2010.
 * Nicolas Bettenburg, Sascha Just, Adrian Schroter, Cathrin Weiss, Rahul Premraj, Thomas Zimmermann. What Makes a Good Bug Report?. In FSE, 2008.
@@ -154,9 +157,13 @@ This list is a work in progress.
 * Henry Lieberman and Christopher Fry. 1995\. Bridging the gulf between code and behavior in programming. In Proceedings of the SIGCHI conference on Human factors in computing systems (CHI '95), 480-486.
 * Bjoern Hartmann, Daniel MacDougall, Joel Brandt, Scott R. Klemmer. What Would Other Programmers Do? Suggesting Solutions to Error Messages. CHI: ACM Conference on Human Factors in Computing Systems, Atlanta, GA, 2010.
 * Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008\. [[PDF]](http://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf)
+* Andrew J. Ko and Brad A. Myers. Finding causes of program output with the Java Whyline. Human Factors in Computing Systems (CHI). 2009.
+
 
 ### Testing
 
+* Sainyam Galhotra, Yuriy Brun, and Alexandra Meliou. Fairness testing: testing software for discrimination. ESEC/FSE. 2017.
+* by Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE. 2015.
 * Hyunmin Seo, Caitlin Sadowski, Sebastian Elbaum, Edward Aftandilian, and Robert Bowdidge. Programmers' Build Errors: A Case Study (at Google). ICSE 2014.
 * Laura Inozemtseva and Reid Holmes. Coverage Is Not Strongly Correlated with Test Suite Effectiveness. ICSE 2014
 * Sebastian Elbaum, Gregg Rothermel, and John Penix. Techniques for Improving Regression Testing in Continuous Integration Development Environments. FSE 2014.
@@ -165,3 +172,10 @@ This list is a work in progress.
 * Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015.
 * Yucheng Zhang and Ali Mesbah. Assertions Are Strongly Correlated with Test Suite Effectiveness. FSE 2015.
 * Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE 2015
+
+<!--  DESIGN
+
+* Santiago Perez De Rosso and Daniel Jackson. Purposes, concepts, misfits, and a redesign of git. Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA). 2016.
+* D. L. Parnas. On the criteria to be used in decomposing systems into modules. CACM. 1972.
+
+-->
