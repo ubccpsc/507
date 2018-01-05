@@ -9,11 +9,11 @@ January 4, 2018 -> April 4, 2018 (```2017T2```).
 Software is a human product. Developers are intrinsic to software development; as systems scale in size and complexity, the challenges that developers must overcome rapidly increase. The theme of this Advanced Software Engineering course will be 'Human Aspects of Software Engineering'. We will examine why creating software is a hard problem and how these problems have been addressed and evaluated both in research and practice. We will focus on development-based activities (rather than planning or requirements-based activities). The course will be seminar-based and will involve weekly reading and discussion. The project will involve building a software development tool to address a problem you have faced writing software yourself; this will likely involve a large amount of programming. This course is offered by the [Department of Computer Science](http://www.cs.ubc.ca/) at the [University of British Columbia](http://ubc.ca).
 
 
-Lectures are held every Tuesday and Thursday from 11:00 to 12:20 in DMP 110. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in the [SSC entry](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=CPSC&course=507&section=201).
+Lectures are held every Tuesday and Thursday from 11:00 to 12:20 in ICCS 246. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in the [SSC entry](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=CPSC&course=507&section=201).
 						
-<!--
-Mindmap from the [first lecture](https://atlas.mindmup.com/2016/01/510bf7b0961a01335aad39f86ebdd48d/setopics/index.html).
--->						
+
+Mindmap from the [first lecture](mindmap.png).
+
 
 The course will be adjusted according to your feedback, interests, and experience. This is an overview of the kinds of topics we could cover:
 
@@ -37,13 +37,14 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 ## Schedule
 
-<!-- **Note: This is a tentative schedule that will firm up after the first week.** -->
+**Note: This is a tentative schedule that will firm up after the second week.**
 
-| Week      	| Paper						                    | Presenter |
+| Date      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
 | Jan 4   	| Course Intro 			                       | Reid   |
-| Jan 9    	| TBD | TBD |
-| Jan 16    	| TBD | TBD |
+| Jan 9    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532)  | Reid |
+| Jan 11 		| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf) | Reid |
+| Jan 16    	| TBD | Reid |
 | Jan 18    	| TBD | TBD |
 | Jan 23    	| TBD | TBD |
 | Jan 25    	| TBD | TBD |
