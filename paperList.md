@@ -103,7 +103,7 @@ This list is a work in progress.
 * Storey, Margaret-Anne (2005) Theories, Methods, and Tools in Program Comprehension: Past, Present, and Future. Proceedings of the 13th International Workshop on Program Comprehension, pp. 181-191
 * Mayrhauser, A. and Vans, A. (1993) From Program Comprehension to Tool Requirements for an Industrial Environment. IEEE Workshop on Program Comprehension
 * Brooks, R. (1983) Towards a theory of the comprehension of computer programs. International Journal of Man-Machine Studies
-* Mik Kersten and Gail C. Murphy. 2006\. Using task context to improve programmer productivity. In Proceedings of the 14th ACM SIGSOFT international symposium on Foundations of software engineering (SIGSOFT '06/FSE-14). ACM, New York, NY, USA, 1-11.
+* Mik Kersten and Gail C. Murphy. 2006\. Using task context to improve programmer productivity. In Proceedings of the 14th ACM SIGSOFT international symposium on Foundations of software engineering (SIGSOFT '06/FSE-14). ACM, New York, NY, USA, 1-11. [[DOI]](https://doi.org/10.1145/1181775.1181777)
 * Margaret-Anne D. Storey, Jody Ryall, Janice Singer, Del Myers, Li-Te Cheng, Michael J. Muller: How Software Developers Use Tagging to Support Reminding and Refinding. IEEE Trans. Software Eng. 35(4): 470-483 (2009).
 * David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. IEEE TSE. April 2011\. [[DOI]](http://doi.ieeecomputersociety.org/10.1109/TSE.2011.42)
 * Reid Holmes and David Notkin. Identifying Program, Test, and Environmental Changes That Affect Behaviour. In Proceedings of the International Conference on Software Engineering (ICSE). 2011\. 371-380.
