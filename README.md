@@ -42,7 +42,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Jan 9    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532)  | Reid |
 | Jan 11 		| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf) | Reid |
 | Jan 16    	| Treude & Storey.[Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds.](https://doi.org/10.1145/1806799.1806854) ICSE 2010 | Patrick |
-| Jan 18    	| Lavallee & Robillard. [Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dl.acm.org/citation.cfm?id=2818837) ICSE 2015 | Kristian |
+| Jan 18    	| Lavallee & Robillard. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality.](https://dl.acm.org/citation.cfm?id=2818837) ICSE 2015 | Kristian |
 | Jan 23    	| TBD | TBD |
 | Jan 25    	| TBD | TBD |
 | Jan 30    	| TBD | TBD |
