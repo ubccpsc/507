@@ -49,10 +49,10 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Feb 1    	| TBD | TBD |
 | Feb 6    	| TBD | TBD |
 | Feb 8    	| TBD | TBD |
-| Feb 13    	| Reading Week | &nbsp; |
-| Feb 15    	| Reading Week | &nbsp; |
-| Feb 20    	| TBD | TBD |
-| Feb 22    	| TBD | TBD |
+| Feb 13    	| TBD | TBD |
+| Feb 15    	| TBD | TBD |
+| Feb 20    	| Reading Week | &nbsp; |
+| Feb 22    	| Reading Week | &nbsp; |
 | Feb 27    	| TBD | TBD |
 | Mar 1    	| TBD | TBD |
 | Mar 6    	| TBD | TBD |
