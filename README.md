@@ -39,26 +39,26 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Date      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
 | Jan 4   	| Course Intro 			                       | Reid   |
-| Jan 9    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532)  | Reid |
-| Jan 11 		| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf) | Reid |
-| Jan 16    	| Treude & Storey.[Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds.](https://doi.org/10.1145/1806799.1806854) ICSE 2010 | Patrick |
-| Jan 18    	| Lavallee & Robillard. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality.](https://dl.acm.org/citation.cfm?id=2818837) ICSE 2015 | Kristian |
-| Jan 23    	| TBD | TBD |
-| Jan 25    	| TBD | TBD |
-| Jan 30    	| TBD | TBD |
-| Feb 1    	| TBD | TBD |
-| Feb 6    	| TBD | TBD |
-| Feb 8    	| TBD | TBD |
-| Feb 13    	| TBD | TBD |
-| Feb 15    	| TBD | TBD |
+| Jan 9    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
+| Jan 11 		| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf). Scientific American 1994. | Reid |
+| Jan 16    	| Treude & Storey.[Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds](https://doi.org/10.1145/1806799.1806854). ICSE 2010. | Patrick |
+| Jan 18    	| Lavallee & Robillard. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dl.acm.org/citation.cfm?id=2818837). ICSE 2015. | Kristian |
+| Jan 23    	| <ul><li>Begel & Simon. [Struggles of new college graduates in their first software development job](http://research.microsoft.com/pubs/75113/sigcse-begel-2008.pdf). SIGCSE 2008.</li><li>Ko et. al. [Information Needs in Collocated Software Development Teams](dl.acm.org/citation.cfm?id=1248867). ICSE 2007.</li> | <ul><li>Dheeraj</li><li>Reid</li></ul> |
+| Jan 25    	| Hartmann et. al. [What Would Other Programmers Do? Suggesting Solutions to Error Messages](https://pdfs.semanticscholar.org/17c9/8e98046bff6bbda658cb666f95da10fbb1f9.pdf). CHI 2010. | Hongru |
+| Jan 30    	| Bird et. al. [Does distributed development affect software quality? An empirical case study of Windows Vista](//doi.org/10.1109/ICSE.2009.5070550). ICSE 2009. | Anna  |
+| Feb 1    	| Teasley et. al. [Rapid Software Development through Team Collocation](http://ieeexplore.ieee.org/document/1019481/). TSE 2002. | Lucas |
+| Feb 6    	| Boshernitsan et. al. [Aligning development tools with the way programmers think about code changes](https://dl.acm.org/citation.cfm?id=1240715). CHI 2007. | May  |
+| Feb 8    	| Kersten & Murphy. [Using task context to improve programmer productivity](https://doi.org/10.1145/1181775.1181777). FSE 2006. | Jan  |
+| Feb 13    	| de Alwis & Murphy. [Answering Conceptual Queries with Ferret](http://ieeexplore.ieee.org/document/4814113/). ICSE 2008. | Matthew |
+| Feb 15    	| Muşlu et. al. [Speculative Analysis of Integrated Development Environment Recommendations](https://doi.org/10.1145/2398857.2384665). OOPSLA 2012. | Puneet  |
 | Feb 20    	| Reading Week | &nbsp; |
 | Feb 22    	| Reading Week | &nbsp; |
-| Feb 27    	| TBD | TBD |
-| Mar 1    	| TBD | TBD |
-| Mar 6    	| TBD | TBD |
-| Mar 8    	| TBD | TBD |
-| Mar 13    	| TBD | TBD |
-| Mar 15    	| TBD | TBD |
+| Feb 27    	| Endrikat et. al. [How do API documentation and static typing affect API usability?](http://ieeexplore.ieee.org/abstract/document/5306335/) ICSE 2014. | Haotian |
+| Mar 1    	| Ying & Robillard. [Selection and Presentation Practices for Code Example Summarization](https://dl.acm.org/citation.cfm?id=2635877). FSE 2014. | Gleb  |
+| Mar 6    	| Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.7471&rep=rep1&type=pdf) ICSE 2013. | Renato  |
+| Mar 8    	| Bettenburg et. al. [What Makes a Good Bug Report?](http://ieeexplore.ieee.org/document/5487527/) FSE 2008. | Muhammad |
+| Mar 13    	| Artzi et. al. [ReCrash: Making software failures reproducible by preserving object states](https://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf). ECOOP 2008. | Nico |
+| Mar 15    	| Herzig et. al. [The Art of Testing Less without Sacrificing Quality](http://dl.acm.org/citation.cfm?id=2818815). ICSE 2015. | Sam |
 | Mar 20    	| TBD | TBD |
 | Mar 22    	| TBD | TBD |
 | Mar 27    	| TBD | TBD |
