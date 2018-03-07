@@ -56,7 +56,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Feb 27    	| <ol><li>Endrikat et. al. [How do API documentation and static typing affect API usability?](https://doi.org/10.1145/2568225.2568299) ICSE 2014.</li><li>Rigby & Bird. [Convergent Software Peer Review Practices.](https://doi.org/10.1145/2491411.2491444) FSE 2013.</li></ol> | <ol><li>Haotian</li><li>Michael</li></ol> |
 | Mar 1    	| Ying & Robillard. [Selection and Presentation Practices for Code Example Summarization](https://dl.acm.org/citation.cfm?id=2635877). FSE 2014. | Gleb  |
 | Mar 6    	| Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.7471&rep=rep1&type=pdf) ICSE 2013. | Renato  |
-| Mar 8    	| Bettenburg et. al. [What Makes a Good Bug Report?](http://ieeexplore.ieee.org/document/5487527/) FSE 2008. | Muhammad |
+| Mar 8    	| Bettenburg et. al. [What Makes a Good Bug Report?](http://thomas-zimmermann.com/publications/files/bettenburg-fse-2008.pdf) FSE 2008. | Muhammad |
 | Mar 13    	| Artzi et. al. [ReCrash: Making software failures reproducible by preserving object states](https://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf). ECOOP 2008. | Nico |
 | Mar 15    	| Herzig et. al. [The Art of Testing Less without Sacrificing Quality](http://dl.acm.org/citation.cfm?id=2818815). ICSE 2015. | Sam |
 | Mar 20    	| TBD | TBD |
