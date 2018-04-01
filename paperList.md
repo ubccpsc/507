@@ -11,7 +11,6 @@ This list is a work in progress.
 * Edsger W. Dijkstra. Go to statement considered harmful. CACM, 1968\. [[DOI]](http://dx.doi.org/10.1145/362929.362947)
 * W. Wayt Gibbs. Software's Chronic Crisis. Scientific American, 1994\. [[Online]](http://www.fceia.unr.edu.ar/asist/gibbs00.html)
 
-
 ### Research Methods
 
 * B. A. Kitchenham, S. L. Pfleeger, L. M. Pickard, et al.. Preliminary guidelines for empirical research in software engineering. Software Engineering, IEEE Transactions on, Vol. 28, No. 8\. (2002), pp. 721-734.
@@ -42,7 +41,7 @@ This list is a work in progress.
 
 ### Awareness
 
-* * Hataichanok Unphon, Yvonne Dittrich. Software architecture awareness in long-term software product evolution. In Journal of Systems and Software (JSS). 
+* Hataichanok Unphon, Yvonne Dittrich. Software architecture awareness in long-term software product evolution. In Journal of Systems and Software (JSS). 
 * Biehl, J. T., Czerwinski, M., Smith, G., and Robertson, G. G. 2007\. Fastdash: a visual dashboard for fostering awareness in software teams. In Proceedings of the SIGCHI conference on Human factors in computing systems. CHI '07.
 * A. Sarma, D. Redmiles, and A. van der Hoek, Empirical Evidence of the Benefits of Workspace Awareness in Software Configuration Management, ACM SIGSOFT International Symposium on the Foundations of Software Engineering, (FSE 16), Atlanta, Georgia, November 2008, pages 113-123.
 * Olga Baysal, Reid Holmes, and Mike Godfrey. No Issue Left Behind: Reducing Information Overload in Issue Tracking. FSE 2014\. [[DOI]](http://dx.doi.org/10.1145/2635868.2635887)
@@ -65,7 +64,7 @@ This list is a work in progress.
 
 * Yunwen Ye and Gerhard Fischer. 2002\. Supporting reuse by delivering task-relevant and personalized information. In Proceedings of the 24th International Conference on Software Engineering (ICSE '02). ACM, New York, NY, USA, 513-523.
 * Mary Beth Rosson and John M. Carroll. 1996\. The reuse of uses in Smalltalk programming. ACM Trans. Comput.-Hum. Interact. 3, 3 (September 1996), 219-253.
-* A. Sen. The role of opportunism in the software design reuse process. IEEE TSE, vol. 23, no. 7, pp. 418--436, 1997.
+* A. Sen. The role of opportunism in the software design reuse process. IEEE TSE, vol. 23, no. 7, pp. 418--436, 1997.
 * Reid Holmes and Robert J. Walker. Supporting the investigation and planning of pragmatic reuse tasks. In Proceedings of the International Conference on Software Engineering (Minneapolis, MN, USA. May 25, 2007). ICSE '07.
 * Steven P. Reiss: Semantics-based code search. ICSE pp. 243-253, 2009.
 
@@ -90,7 +89,7 @@ This list is a work in progress.
 
 * de Alwis, Murphy and Robillard. A comparative study of three program exploration tools. ICPC 2007.
 * de Alwis, GC Murphy (2008). Answering Conceptual Queries with Ferret. In Proceedings of the International Conference on Software Engineering (ICSE), Leipzig, Germany.
-* D. Janzen and K. D. Volder. Navigating and querying code without getting lost. In Proc. International Conf. Aspect-Oriented Softw. Development, pages 178â€“187\. ACM, 2003.
+* D. Janzen and K. D. Volder. Navigating and querying code without getting lost. In Proc. International Conf. Aspect-Oriented Softw. Development, pages 178-187\. ACM, 2003.
 * Martin P. Robillard and Gail C. Murphy. Representing Concerns in Source Code. ACM Transactions on Software Engineering and Methodology, 16(1):1-38, February 2007.
 * Reid Holmes and Robert J. Walker. Systematizing Pragmatic Software Reuse. TOSEM 2012\. [[DOI]](http://doi.acm.org/10.1145/2377656.2377657)
 * Gail C. Murphy, David Notkin, and Kevin J. Sullivan. Software Reflexion Models: Bridging the Gap between Design and Implementation. IEEE Transactions on Software Engineering, 27
@@ -111,8 +110,8 @@ This list is a work in progress.
 
 ### Software visualization
 * Emerson Murphy-Hill, Gail C. Murphy. Recommendation Delivery. Recommendation Systems in Software Engineering, 2013\. [[Book Chapter]](http://link.springer.com/content/pdf/10.1007%2F978-3-642-45135-5_9.pdf)
-* B.A. Price, R.M. Baecker, and I.S. Small (1993), â€œA Principled Taxonomy of Software Visualization,â€ J. Visual Languages and Computing, vol. 4, no. 3, pp. 211-266, 1993.
-* Baecker, R., DiGiano, C., and Marcus, A., â€œSoftware Visualization for Debugging.â€ Communications of the ACM, 1997\. 40(4): pp. 44-54.
+* B.A. Price, R.M. Baecker, and I.S. Small (1993), "A Principled Taxonomy of Software Visualization", J. Visual Languages and Computing, vol. 4, no. 3, pp. 211-266, 1993.
+* Baecker, R., DiGiano, C., and Marcus, A., "Software Visualization for Debugging." Communications of the ACM, 1997\. 40(4): pp. 44-54.
 * Richard Wettel, Michele Lanza, Romain Robbes. Software Systems as Cities: A Controlled Experiment. ICSE 2011.
 * Stephen G. Eick , Joseph L. Steffen , Eric E. Sumner. Seesoft-A tool for Visualizing Line Oriented Software Statistics. TSE 1992.
 * Storey, Muller. Manipulating and documenting software structures using SHriMP views. ICSM 1995.
@@ -128,11 +127,11 @@ This list is a work in progress.
 * Zhenchang Xing, Eleni Stroulia. (2006). Refactoring practice: How it is and how it should be supported: An Eclipse case study. ICSM 2006.
 * Emerson Murphy-Hill and Andrew P. Black. Breaking the Barriers to Successful Refactoring: Observations and Tools for Extract Method. International Conference on Software Engineering. 2008.
 * Emerson Murphy-Hill, Chris Parnin, Andrew P. Black. How we refactor, and how we know it. In ICSE '09: Proceedings of the 2009 IEEE 31st International Conference on Software Engineering (2009), pp. 287-297.
-* Marat Boshernitsan, Susan L. Graham, and Marti A. Hearst. Aligning development tools with the way programmers think about code changes. In CHI â€™07: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pages 567â€“576.
+* Marat Boshernitsan, Susan L. Graham, and Marti A. Hearst. Aligning development tools with the way programmers think about code changes. In CHI â€™07: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, pages 567-576.
 
 ### Code Review
 
-* Z. Xing and E. Stroulia, "UMLDiff: an algorithm for object-oriented design differencing," Proceedings of the 20th IEEE/ACM international Conference on Automated software engineering, p. 54â€“65, 2005.
+* Z. Xing and E. Stroulia, "UMLDiff: an algorithm for object-oriented design differencing," Proceedings of the 20th IEEE/ACM international Conference on Automated software engineering, p. 54-65, 2005.
 * Miryung Kim and David Notkin. Discovering and Representing Systematic Code Changes. ICSE 2009, 309-319.
 * Andrew Sutherland, Gina Venolia. Can peer code reviews be exploited for later information needs? ICSE 2009\. [[IEEE]](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5070996)
 * Peter Rigby and Christian Bird. Convergent Software Peer Review Practices. FSE 2013\. [[PDF]](http://www.cabird.com/papers/rigby2013convergent.pdf)
@@ -153,12 +152,11 @@ This list is a work in progress.
 
 * Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, Robert W. Bowdidge. Why don't software developers use static analysis tools to find bugs? ICSE 2013\. [[ACM DL]](http://dl.acm.org/citation.cfm?id=2486877)
 * Kıvanç Muşlu, Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin. Speculative Analysis of Integrated Development Environment Recommendations. OOPSLA 2012\. [[DOI]](http://dx.doi.org/10.1145/2384616.2384665)
-* Andrew J. Ko. Asking and Answering Questions about the Causes of Software Behavior. Dissertation, Carnegie Mellon University. See only Section 2.3\. â€œProgram understanding tools, p24-33 for a review of debugging tools.
+* Andrew J. Ko. Asking and Answering Questions about the Causes of Software Behavior. Dissertation, Carnegie Mellon University. See only Section 2.3: "Program understanding tools", p24-33 for a review of debugging tools.
 * Henry Lieberman and Christopher Fry. 1995\. Bridging the gulf between code and behavior in programming. In Proceedings of the SIGCHI conference on Human factors in computing systems (CHI '95), 480-486.
 * Bjoern Hartmann, Daniel MacDougall, Joel Brandt, Scott R. Klemmer. What Would Other Programmers Do? Suggesting Solutions to Error Messages. CHI: ACM Conference on Human Factors in Computing Systems, Atlanta, GA, 2010.
 * Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008\. [[PDF]](http://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf)
 * Andrew J. Ko and Brad A. Myers. Finding causes of program output with the Java Whyline. Human Factors in Computing Systems (CHI). 2009.
-
 
 ### Testing
 
