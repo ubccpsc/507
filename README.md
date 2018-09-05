@@ -2,7 +2,11 @@
 
 # UBC CPSC 507 - Advanced Software Engineering
 
-January 4, 2018 -> April 4, 2018 (```2017T2```).
+Sept 7, 2018 -> Dec 7, 2018 (```2018T1```).
+
+# TBD: this is just a placeholder
+
+# Class will be 0900 on Fridays
 
 # Overview
 
@@ -34,6 +38,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 ## Schedule
 
+<!--
 **Note: This is a tentative schedule that will firm up after the second week.**
 
 | Date      	| Paper						                    | Presenter |
@@ -66,6 +71,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Apr 3    	| In class project presentations. Reviews due. | &nbsp; |
 | Apr 5    	| In class PC Meeting | &nbsp; |
 
+-->
+
 ## Assessment
 * Seminar: 15%
 * Seminar Paper Reviews: 15%
@@ -92,13 +99,13 @@ Each week, you will also submit a review for each of the papers being presented 
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](https://docs.google.com/spreadsheets/d/1HgN_Y74c86UHrAThFiuxXs3EICRQsRsPtQfVTVXyvK0/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by January 12 @ 0800.* 
+You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](https://docs.google.com/spreadsheets/d/1HgN_Y74c86UHrAThFiuxXs3EICRQsRsPtQfVTVXyvK0/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by TBD @ 0800.* 
 
 ### Project reviews
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
-The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 8 reviews from class members (I will review every paper). These peer-reviews will comprise 15% of the final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). Here are links to two different reviews as well (one [positive](slides/icse2011review_ii.pdf) and one [negative](slides/icse2011review_crystal.pdf)) if you want concrete examples. *Remember, the final paper reviews must all be submitted to EasyChair by 0800 on April 3.* [EasyChair Submission Link](https://easychair.org/conferences/?conf=cs5072018)
+The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 8 reviews from class members (I will review every paper). These peer-reviews will comprise 15% of the final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). Here are links to two different reviews as well (one [positive](slides/icse2011review_ii.pdf) and one [negative](slides/icse2011review_crystal.pdf)) if you want concrete examples. *Remember, the final paper reviews must all be submitted to EasyChair by 0800 on TBD.* [EasyChair Submission Link](https://easychair.org/conferences/?conf=cs5072018)
 
 ## Project
 
@@ -106,11 +113,11 @@ The project forms an integral part of this course. The projects can be completed
 
 There are three deliverables for your project:
 							
-* **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. If you wish to 'pitch' to the class to find additional team mates, please indicate this at the bottom of the proposal. For the pitch you will get 1-2 minutes to describe the project to try to entice others to join your group. NOTE: even if you pitch, you are still free to abandon your project and join a different one. **This will be due on January 24 @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute pitch for the project in class on January 30. An updated proposal should be submitted on **February 5 @ 0800 via email**.
+* **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. If you wish to 'pitch' to the class to find additional team mates, please indicate this at the bottom of the proposal. For the pitch you will get 1-2 minutes to describe the project to try to entice others to join your group. NOTE: even if you pitch, you are still free to abandon your project and join a different one. **This will be due on TBD @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute pitch for the project in class on TBD. An updated proposal should be submitted on **TBD @ 0800 via email**.
 
-* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on March 26 @ 0800 via Easychair.**
+* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on TBD @ 0800 via Easychair.**
 
-* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your papper by this point, so you can assume some familiarity with your work. **This will happen on April 3.**
+* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your papper by this point, so you can assume some familiarity with your work. **This will happen on TBD.**
 
 <!--
 * **Project presentation.** Each group will present their project in class on March 28/30; presentation order will be chosen by lottery so everyone must have their presentations ready on the 28th. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the presentation.
