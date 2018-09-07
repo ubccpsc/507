@@ -2,19 +2,14 @@
 
 # UBC CPSC 507 - Advanced Software Engineering
 
-Sept 7, 2018 -> Dec 7, 2018 (```2018T1```).
+Sept 7, 2018 -> Nov 30, 2018 (```2018T1```).
 
-# TBD: this is just a placeholder
-
-# Class will be 0900 on Fridays
 
 # Overview
 
 Software is a human product. Developers are intrinsic to software development; as systems scale in size and complexity, the challenges that developers must overcome rapidly increase. The theme of this Advanced Software Engineering course will be 'Human Aspects of Software Engineering'. We will examine why creating software is a hard problem and how these problems have been addressed and evaluated both in research and practice. We will focus on development-based activities (rather than planning or requirements-based activities). The course will be seminar-based and will involve weekly reading and discussion. The project will involve building a software development tool to address a problem you have faced writing software yourself; this will likely involve a large amount of programming. This course is offered by the [Department of Computer Science](http://www.cs.ubc.ca/) at the [University of British Columbia](http://ubc.ca).
 
-Lectures are held every Tuesday and Thursday from 11:00 to 12:20 in ICCS 246. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in the [SSC entry](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=CPSC&course=507&section=201).
-
-Mindmap from the [first lecture](mindmap.png).
+Lectures are held every Friday from 0900 to 1150 ICCS 246. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in the [SSC entry](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=CPSC&course=507&section=201).
 
 The course will be adjusted according to your feedback, interests, and experience. This is an overview of the kinds of topics we could cover:
 
@@ -24,6 +19,8 @@ The course will be adjusted according to your feedback, interests, and experienc
 * development team processes
 * software development tools and environments
 * quantitative &amp; qualitative evaluation of software engineering research
+
+<!-- Mindmap from the [first lecture](mindmap.png). -->
 
 <!--
 Mindmap from the first lecture:
@@ -37,6 +34,25 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 
 ## Schedule
+
+**Note: This is a tentative schedule that will firm up after the second week.**
+
+| Date      	| Paper						                    | Presenter |
+| :--       	|:--                                          | :--       |
+| Sept 7   	| Course Intro 			                       | Reid   |
+| Sept 14    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
+| Sept 14 	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/) | Reid |
+| Sept 21   	| TBD 			                       | TBD   |
+| Sept 28   	| TBD 			                       | TBD   |
+| Oct 5   	| TBD &amp; Project Pitches         | TBD   |
+| Oct 12   	| TBD 			                       | TBD   |
+| Oct 19   	| TBD 			                       | TBD   |
+| Oct 26   	| TBD 			                       | TBD   |
+| Nov 2   	| TBD 			                       | TBD   |
+| Nov 9   	| TBD 			                       | TBD   |
+| Nov 16   	| TBD 			                       | TBD   |
+| Nov 23   	| Project Talks                     | Everyone   |
+| Nov 30   	| Program Committee Meeting         | Everyone   |
 
 <!--
 **Note: This is a tentative schedule that will firm up after the second week.**
@@ -84,7 +100,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 	
 ## Course Format
 
-This will be a paper-based seminar course. Each week we will read and discuss four papers. Everyone in the class will have an opportunity to give at least two ~30 minute paper presentations and lead a discussion ~30 minute discussion about the paper. While only one person will present each paper, it is expected that *everyone will read* all of the papers and contribute to the in-class discussion.
+This will be a paper-based seminar course. Each week we will read and discuss 3-4 papers. Everyone in the class will have an opportunity to give at least two ~30 minute paper presentations and lead a discussion ~30 minute discussion about the paper. While only one person will present each paper, it is expected that *everyone will read* all of the papers and contribute to the in-class discussion.
 
 While reading the papers you should be able to answer the following five questions:
 
@@ -95,17 +111,17 @@ While reading the papers you should be able to answer the following five questio
 1. How could this research be extended?
 1. How could this research be applied in practice?
 
-Each week, you will also submit a review for each of the papers being presented that week at 0800 the day of class ([CPSC507 Paper Review Form](https://goo.gl/forms/dbjndX5nSrppOmqb2)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
+Each week, you will also submit a review for each of the papers being presented that week at 0800 the day of class ([CPSC507 Paper Review Form](TBD)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](https://docs.google.com/spreadsheets/d/1HgN_Y74c86UHrAThFiuxXs3EICRQsRsPtQfVTVXyvK0/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by TBD @ 0800.* 
+You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](TBD). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by Sept 12 @ 0800.* 
 
 ### Project reviews
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
-The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 8 reviews from class members (I will review every paper). These peer-reviews will comprise 15% of the final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). Here are links to two different reviews as well (one [positive](slides/icse2011review_ii.pdf) and one [negative](slides/icse2011review_crystal.pdf)) if you want concrete examples. *Remember, the final paper reviews must all be submitted to EasyChair by 0800 on TBD.* [EasyChair Submission Link](https://easychair.org/conferences/?conf=cs5072018)
+The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 8 reviews from class members (I will review every paper). These peer-reviews will comprise 15% of the final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). Here are links to two different reviews as well (one [positive](slides/icse2011review_ii.pdf) and one [negative](slides/icse2011review_crystal.pdf)) if you want concrete examples. *Remember, the final paper reviews must all be submitted to EasyChair by 0800 on Nov 28.* [EasyChair Submission Link](TBD)
 
 ## Project
 
@@ -113,11 +129,11 @@ The project forms an integral part of this course. The projects can be completed
 
 There are three deliverables for your project:
 							
-* **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. If you wish to 'pitch' to the class to find additional team mates, please indicate this at the bottom of the proposal. For the pitch you will get 1-2 minutes to describe the project to try to entice others to join your group. NOTE: even if you pitch, you are still free to abandon your project and join a different one. **This will be due on TBD @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute pitch for the project in class on TBD. An updated proposal should be submitted on **TBD @ 0800 via email**.
+* **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. If you wish to 'pitch' to the class to find additional team mates, please indicate this at the bottom of the proposal. For the pitch you will get 1-2 minutes to describe the project to try to entice others to join your group. NOTE: even if you pitch, you are still free to abandon your project and join a different one. **This will be due on Sept 26 @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute pitch for the project in class on Oct 5. An updated proposal should be submitted on **Oct 12 @ 0800 via email**.
 
-* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on TBD @ 0800 via Easychair.**
+* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on Nov 21 @ 0800 via Easychair.**
 
-* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your papper by this point, so you can assume some familiarity with your work. **This will happen on TBD.**
+* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your papper by this point, so you can assume some familiarity with your work. **This will happen on Nov 23.**
 
 <!--
 * **Project presentation.** Each group will present their project in class on March 28/30; presentation order will be chosen by lottery so everyone must have their presentations ready on the 28th. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the presentation.
@@ -132,8 +148,6 @@ I have included a brief description of five of the projects from previous years.
 * *NavTracks: The Next Generation.* This paper evaluated the existing NavTracks tool to determine how the tool worked in practice and to suggest future avenues for research in this space.
 
 * *File Recommendation Based on File Interactions: A Clustering Approach to File Recommendations.* A new approach for leveraging code navigation paths (in a similar manner to NavTracks) was developed and the quality of the recommended artifacts evaluated.
-
-* *Evaluation of Canada Health Infowayʼs Message Builder API and its documentation.* The authors evaluated the Infoway API and documentation to gain insight into the ease-of-use of this API by end-user developers.
 
 ### Late Submissions
 
