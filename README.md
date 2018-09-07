@@ -111,11 +111,11 @@ While reading the papers you should be able to answer the following five questio
 1. How could this research be extended?
 1. How could this research be applied in practice?
 
-Each week, you will also submit a review for each of the papers being presented that week at 0800 the day of class ([CPSC507 Paper Review Form](TBD)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
+Each week, you will also submit a review for each of the papers being presented that week at 0800 the day of class ([CPSC507 Paper Review Form](https://goo.gl/forms/VDQY2vOz1lEkO0AJ2)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](TBD). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by Sept 12 @ 0800.* 
+You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](https://docs.google.com/spreadsheets/d/10oFC1fKCJzFV8lE1Oi_n9aLuB_S9qp5HbyqdrL4YGnU/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by Sept 12 @ 0800.* 
 
 ### Project reviews
 
