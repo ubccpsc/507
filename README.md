@@ -22,11 +22,10 @@ The course will be adjusted according to your feedback, interests, and experienc
 
 <!-- Mindmap from the [first lecture](mindmap.png). -->
 
-<!--
 Mindmap from the first lecture:
 
-<img src="slides/SE_MindMap.png" width="640px" alt="SE Mind Map">  
--->
+<img src="slides/SE_MindMap_2018sept.png" width="640px" alt="SE Mind Map">  
+
 					
 ## Contact
 
