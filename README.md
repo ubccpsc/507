@@ -41,7 +41,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 7   	| Course Intro 			                       | Reid   |
 | Sept 14    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
 | Sept 14 	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/) | Reid |
-| Sept 21   	| TBD 			                       | TBD   |
+| Sept 21   	| Cancelled 			                       | N/A   |
 | Sept 28   	| TBD 			                       | TBD   |
 | Oct 5   	| TBD &amp; Project Pitches         | TBD   |
 | Oct 12   	| TBD 			                       | TBD   |
@@ -130,9 +130,9 @@ There are three deliverables for your project:
 							
 * **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. If you wish to 'pitch' to the class to find additional team mates, please indicate this at the bottom of the proposal. For the pitch you will get 1-2 minutes to describe the project to try to entice others to join your group. NOTE: even if you pitch, you are still free to abandon your project and join a different one. **This will be due on Sept 26 @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute pitch for the project in class on Oct 5. An updated proposal should be submitted on **Oct 12 @ 0800 via email**.
 
-* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on Nov 21 @ 0800 via Easychair.**
+* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on Nov 25 @ 0800 via Easychair.**
 
-* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your papper by this point, so you can assume some familiarity with your work. **This will happen on Nov 23.**
+* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your paper by this point, so you can assume some familiarity with your work. **This will happen on Nov 23.**
 
 <!--
 * **Project presentation.** Each group will present their project in class on March 28/30; presentation order will be chosen by lottery so everyone must have their presentations ready on the 28th. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the presentation.
