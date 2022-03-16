@@ -36,7 +36,7 @@ The course will be adjusted according to your feedback, interests, and experienc
 | Mar 16    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/). Scientific American 1995. | Reid |
 | Mar 23   	| TBD 			                       | TBD   |
 | Mar 23   	| TBD 			                       | TBD   |
-| Apr 6   	| Cancelled (student conference).         | TBD   |
+| Apr 6   	| Cancelled (student conference).   | TBD   |
 | Apr 11   	| TBD 			                       | TBD   |
 | Apr 20   	| Cancelled (Reid away). 	          | TBD   |
 | Apr 26   	| Cancelled (Reid away). 	          | TBD   |
