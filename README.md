@@ -4,7 +4,7 @@
 
 ## Current Term
 
-* **2022 March** Offered as CS 701 at EPFL in Lausanne, Switzerland
+* [2022 March](https://github.com/ubccpsc/507/tree/2022mar) Offered as CS 701 at EPFL in Lausanne, Switzerland
 
 ## Upcoming Term
 
