@@ -33,7 +33,7 @@ The course will be adjusted according to your feedback, interests, and experienc
 | :--       	|:--                                          | :--       |
 | Mar 9   	| Course Intro 			                       | Reid   |
 | Mar 16    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
-| Mar 16    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/). Scientific American 1995. | Reid |
+| Mar 16    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/). Scientific American 1994. | Reid |
 | Mar 23   	| TBD 			                       | TBD   |
 | Mar 23   	| TBD 			                       | TBD   |
 | Apr 6   	| Cancelled (student conference).   | TBD   |

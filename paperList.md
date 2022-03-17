@@ -1,4 +1,4 @@
-# CPSC 507 Paper List
+# CPSC 701 Paper List
 
 Here is a list of possible papers for this course. This list was adapted and modified from Latoza & Meyers' HASD course at CMU. If there is some other paper you would like to present that you think is relevant but is not on this list just send me mail and we can talk about it.
 
@@ -6,39 +6,45 @@ This list is a work in progress.
 
 ### Historical Context
 
-* Fredrick P. Brooks Jr.. No Silver Bullet: Essence and Accidents of Software Engineering. Computer, 1987\. [[DOI]](http://dx.doi.org/10.1109/MC.1987.1663532)
-* Fredrick P. Brooks Jr.. The Mythical Man Month. Addison-Wesley, 1995\. [[ACM DL]](http://dl.acm.org/citation.cfm?id=207583&coll=DL&dl=GUIDE&CFID=466701166&CFTOKEN=38363419)
-* Edsger W. Dijkstra. Go to statement considered harmful. CACM, 1968\. [[DOI]](http://dx.doi.org/10.1145/362929.362947)
-* W. Wayt Gibbs. Software's Chronic Crisis. Scientific American, 1994\. [[Online]](http://www.fceia.unr.edu.ar/asist/gibbs00.html)
+* Fredrick P. Brooks Jr.. *No Silver Bullet: Essence and Accidents of Software Engineering.* Computer, 1987. [[DOI]](http://dx.doi.org/10.1109/MC.1987.1663532)
+* Fredrick P. Brooks Jr.. *The Mythical Man Month.* Addison-Wesley, 1995. [[ACM DL]](http://dl.acm.org/citation.cfm?id=207583&coll=DL&dl=GUIDE&CFID=466701166&CFTOKEN=38363419)
+* Edsger W. Dijkstra. *Go to statement considered harmful.* CACM, 1968. [[DOI]](http://dx.doi.org/10.1145/362929.362947)
+* W. Wayt Gibbs. *Software's Chronic Crisis.* Scientific American, 1994. [[Online]](http://www.fceia.unr.edu.ar/asist/gibbs00.html)
 
 
 ### Research Methods
 
-* B. A. Kitchenham, S. L. Pfleeger, L. M. Pickard, et al.. Preliminary guidelines for empirical research in software engineering. Software Engineering, IEEE Transactions on, Vol. 28, No. 8\. (2002), pp. 721-734.
-* Jorge Aranda, Gina Venolia. The secret life of bugs: Going past the errors and omissions in software repositories. ICSE 2009: 298-308.
-* Jo E. Hannay, Dag I. K. Sjoberg, and Tore Dyba. 2007\. A Systematic Review of Theory Use in Software Engineering Experiments. IEEE Trans. Softw. Eng. 33, 2 (February 2007), 87-107.
-* Zelkowitz and Wallace. Experimental models for validating technology. Computer, 1998.
-* Ko, A.J., LaToza, T., Burnett, M. M. A Practical Guide to Controlled Experiments of Software Engineering Tools with Human Participants. Empirical Software Engineering, 110-141, 2013 (2013)
-* Janet Siegmund, Norbert Siegmund, Sven Apel. Views on Internal and External Validity in Empirical Software Engineering. ICSE 2015
+* B. A. Kitchenham, S. L. Pfleeger, L. M. Pickard, et al.. *Preliminary guidelines for empirical research in software engineering.* TSE, 2002.
+* Jorge Aranda, Gina Venolia. *The secret life of bugs: Going past the errors and omissions in software repositories.* ICSE, 2009.
+* Jo E. Hannay, Dag I. K. Sjoberg, and Tore Dyba. *A Systematic Review of Theory Use in Software Engineering Experiments.* TSE, 2007.
+* Zelkowitz and Wallace. *Experimental models for validating technology.* Computer, 1998.
+* Ko, A.J., LaToza, T., Burnett, M. M. *A Practical Guide to Controlled Experiments of Software Engineering Tools with Human Participants.* Empirical Software Engineering, 2013.
+* Janet Siegmund, Norbert Siegmund, Sven Apel. *Views on Internal and External Validity in Empirical Software Engineering.* ICSE, 2015.
+* Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, Matthew Smith. *Do you really code? Designing and Evaluating Screening Questions for Online Surveys with Programmers.* ICSE, 2021. [Preprint](https://arxiv.org/pdf/2103.04429.pdf)
+
 
 ### Development teams
 
-* Robert E. Kraut and Lynn A. Streeter. 1995\. Coordination in software development. Commun. ACM 38, 3 (March 1995), 69-81.
-* Teasley, S. D., Covi, L. A., Krishnan, M. S. and Olson, J. S. Rapid Software Development through Team Collocation. IEEE Transactions on Software Engineering, 28, 7 2002, 671-683
-* Cleidson R. Souza and David F. Redmiles. 2009\. On The Roles of APIs in the Coordination of Collaborative Software Development. Comput. Supported Coop. Work 18, 5-6 (December 2009), 445-475.
-* Kivanc Muslu, Christian Bird, Nachiappan Nagappan, and Jacek Czerwonka. Transition from Centralized to Decentralized Version Control Systems: A Case Study on Reasons, Barriers, and Outcomes. ICSE, 2014\. [[PDF]](http://www.cabird.com/papers/muslu2014dvcs.pdf)
-* Shaun Phillips, Thomas Zimmermann, and Christian Bird. Understanding and Improving Software Build Teams. ICSE, 2014\. [[PDF]](http://www.cabird.com/papers/phillips2014build.pdf)
-* Herbsleb, J.D., Mockus, A., Finholt, T.A., & Grinter, R.E. (2000). Distance, dependencies, and delay in a global collaboration. InProceedings, ACM Conference on Computer-Supported Cooperative Work, Philadelphia, PA, Dec. 2-7, pp. 319-328.
-* Bird, C., Nagappan, N., Devanbu, P.T., Gall, H., and Murphy, B. Does distributed development affect software quality? An empirical case study of Windows Vista. In Proceedings of the 31st International Conference on Software Engineering (2009), 518-528.
-* Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin. Proactive Detection of Collaboration Conflicts. FSE 2011\. [[DOI]](http://dx.doi.org/10.1145/2025113.2025139)
-* Mathieu Lavallee, Pierre N. Robillard. Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality. ICSE 2015.
-* Christoph Treude, Fernando Figueira Filho, and Uirá Kulesza. Summarizing and Measuring Development Activity. FSE 2015
+* Robert E. Kraut and Lynn A. Streeter. *Coordination in software development.* CACM, 1995.
+* Teasley, S. D., Covi, L. A., Krishnan, M. S. and Olson, J. S. *Rapid Software Development through Team Collocation.* TSE, 2002.
+* Cleidson R. Souza and David F. Redmiles. *On The Roles of APIs in the Coordination of Collaborative Software Development.* CSCW, 2009.
+* Kivanc Muslu, Christian Bird, Nachiappan Nagappan, and Jacek Czerwonka. *Transition from Centralized to Decentralized Version Control Systems: A Case Study on Reasons, Barriers, and Outcomes.* ICSE, 2014. [[PDF]](http://www.cabird.com/papers/muslu2014dvcs.pdf)
+* Shaun Phillips, Thomas Zimmermann, and Christian Bird. *Understanding and Improving Software Build Teams.* ICSE, 2014. [[PDF]](http://www.cabird.com/papers/phillips2014build.pdf)
+* Herbsleb, J.D., Mockus, A., Finholt, T.A., & Grinter, R.E.. *Distance, dependencies, and delay in a global collaboration.* CSCW, 2000.
+* Bird, C., Nagappan, N., Devanbu, P.T., Gall, H., and Murphy, B. *Does distributed development affect software quality? An empirical case study of Windows Vista.* ICSE, 2009.
+* Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin. *Proactive Detection of Collaboration Conflicts.* FSE, 2011. [[DOI]](http://dx.doi.org/10.1145/2025113.2025139)
+* Mathieu Lavallee, Pierre N. Robillard. *Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality.* ICSE, 2015.
+* Christoph Treude, Fernando Figueira Filho, and Uirá Kulesza. *Summarizing and Measuring Development Activity.* FSE, 2015.
+* Courtney Miller, Paige Rodeghero, Margaret-Anne Storey, Denae Ford, Thomas Zimmermann. *“How Was Your Weekend?” Software Development Teams Working From Home During COVID-19.* ICSE, 2021. [Preprint](https://arxiv.org/pdf/2101.05877.pdf)
+
 
 ### Expertise finding
 
 * Thomas Fritz, Jingwen Ou, Gail C. Murphy, and Emerson Murphy-Hill. 2010\. A degree-of-knowledge model to capture source code familiarity. In Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1 (ICSE '10), Vol. 1\. ACM, New York, NY, USA, 385-394.
 * B. Dagenais, Harold Ossher, Rachel K.E. Bellamy, Martin P. Robillard, and Jacqueline P. de Vries. Moving into a New Software Project Landscape. In Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering, pages 275-284, May 2010.
 * Andrew Begel and Beth Simon. 2008\. Struggles of new college graduates in their first software development job. In Proceedings of the 39th SIGCSE technical symposium on Computer science education (SIGCSE '08). ACM, New York, NY, USA, 226-230.
+* Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, Matthew Smith. *Do you really code? Designing and Evaluating Screening Questions for Online Surveys with Programmers.* ICSE 2021. [Preprint](https://arxiv.org/abs/2103.04429)
+
 
 ### Awareness
 
@@ -51,6 +57,7 @@ This list is a work in progress.
 * Y. Brun, R. Holmes, M. D. Ernst, and D. Notkin (2011), "Proactive Detection of Collaboration Conflicts", In Proceedings of the 8th Joint Meeting of the European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE11).
 * Leif Singer, Fernando Marques Figueira Filho, Margaret-Anne D. Storey. Software engineering at the speed of light: how developers stay current using twitter. ICSE 2014
 
+
 ### Information needs
 
 * Silvia Breu, Rahul Premraj, Jonathan Sillito, and Thomas Zimmermann. Information needs in bug reports: Improving cooperation between developers and users. Computer Supported Cooperative Work (CSCW). 2010.
@@ -60,6 +67,8 @@ This list is a work in progress.
 * Cubranic, Murphy, Singer, and Booth. Hipikat: a project memory for software development. IEEE Transactions on Software Engineering, vol.31, no.6, pp. 446- 465, June 2005.
 * Reid Holmes and Andrew Begel. Deep Intellisense: A Tool for Rehydrating Evaporated Information. In Proceedings of the Working Conference on Mining Software Repositories, 2008\. 23-26.
 * Andrew Begel, Yit Phang Khoo, Thomas Zimmermann: Codebook: discovering and exploiting relationships in software repositories. ICSE2010: 125-134.
+* Madeline Endres, Zachary Karas, Xiaosu Hu, Ioulia Kovelman, Westley Weimer. *Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study.* ICSE 2021. [Preprint](https://arxiv.org/abs/2102.12376)
+
 
 ### Reuse
 
@@ -68,6 +77,7 @@ This list is a work in progress.
 * A. Sen. The role of opportunism in the software design reuse process. IEEE TSE, vol. 23, no. 7, pp. 418--436, 1997.
 * Reid Holmes and Robert J. Walker. Supporting the investigation and planning of pragmatic reuse tasks. In Proceedings of the International Conference on Software Engineering (Minneapolis, MN, USA. May 25, 2007). ICSE '07.
 * Steven P. Reiss: Semantics-based code search. ICSE pp. 243-253, 2009.
+
 
 ### Code search
 
@@ -78,13 +88,16 @@ This list is a work in progress.
 * Siddharth Subramanian, Laura Inozemtseva, Reid Holmes. Live API documentation. ICSE 2014
 * Caitlin Sadowski, Kathryn T. Stolee, and Sebastian Elbaum. How Developers Search for Code: A Case Study. FSE 2015
 
+
 ### Understanding Code
 
 * Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. IEEE Transactions on Software Engineering, 30(12):889-903, December 2004.
 * Andrew J. Ko, Robert DeLine, and Gina Venolia, Information Needs in Collocated Software Development Teams, in ICSE '07: Proceedings of the 29th international conference on Software Engineering, IEEE Computer Society, Washington, DC, USA, May 2007.
 * Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. In IEEE Transactions on Software Engineering. 2008.
 * Jamie Starke, Chris Luce, Jonathan Sillito. Searching and Skimming: An Exploratory Study. In Proceedings of ICSM 2009.
-* Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2015
+* Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2015.
+* Felix Grund, Shaiful Alam Chowdhury, Nick Bradley, Braxton Hall, Reid Holmes. *CodeShovel: Constructing Method-Level Source Code Histories*. ICSE 2021. [Preprint](https://www.cs.ubc.ca/~rtholmes/papers/icse_2021_grund.pdf)
+
 
 ### Traversing relationships
 
@@ -97,6 +110,7 @@ This list is a work in progress.
 * Janice Singer, Robert Elves, Margaret-Anne D. Storey: NavTracks: Supporting Navigation in Software Maintenance. ICSM 2005: 325-334.
 * DeLine, R.; Czerwinski, M.; Robertson, G.; , "Easing program comprehension by sharing navigation data," Visual Languages and Human-Centric Computing, 2005 IEEE Symposium on , vol., no., pp. 241- 248, 20-24 Sept. 2005
 
+
 ### Program comprehension
 
 * Soloway, Elliot; Ehrlich, Kate; , "Empirical Studies of Programming Knowledge," Software Engineering, IEEE Transactions on , vol.SE-10, no.5, pp.595-609, Sept. 1984.
@@ -108,8 +122,11 @@ This list is a work in progress.
 * David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. IEEE TSE. April 2011\. [[DOI]](http://doi.ieeecomputersociety.org/10.1109/TSE.2011.42)
 * Reid Holmes and David Notkin. Identifying Program, Test, and Environmental Changes That Affect Behaviour. In Proceedings of the International Conference on Software Engineering (ICSE). 2011\. 371-380.
 * Neil A. Ernst, Stephany Bellomo, Ipek Ozkaya, Robert L. Nord, and Ian Gorton. Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt. FSE 2015
+* Norman Peitek, Sven Apel, Chris Parnin, André Brechmann, Janet Siegmund. *Program Comprehension and Code Complexity Metrics: An fMRI Study* ICSE 2021. [Preprint](https://www.tu-chemnitz.de/informatik/ST/publications/papers/ICSE21.pdf)
+
 
 ### Software visualization
+
 * Emerson Murphy-Hill, Gail C. Murphy. Recommendation Delivery. Recommendation Systems in Software Engineering, 2013\. [[Book Chapter]](http://link.springer.com/content/pdf/10.1007%2F978-3-642-45135-5_9.pdf)
 * B.A. Price, R.M. Baecker, and I.S. Small (1993), â€œA Principled Taxonomy of Software Visualization,â€ J. Visual Languages and Computing, vol. 4, no. 3, pp. 211-266, 1993.
 * Baecker, R., DiGiano, C., and Marcus, A., â€œSoftware Visualization for Debugging.â€ Communications of the ACM, 1997\. 40(4): pp. 44-54.
@@ -153,7 +170,7 @@ This list is a work in progress.
 
 * Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, Robert W. Bowdidge. Why don't software developers use static analysis tools to find bugs? ICSE 2013\. [[ACM DL]](http://dl.acm.org/citation.cfm?id=2486877)
 * Kıvanç Muşlu, Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin. Speculative Analysis of Integrated Development Environment Recommendations. OOPSLA 2012\. [[DOI]](http://dx.doi.org/10.1145/2384616.2384665)
-* Andrew J. Ko. Asking and Answering Questions about the Causes of Software Behavior. Dissertation, Carnegie Mellon University. See only Section 2.3\. â€œProgram understanding tools, p24-33 for a review of debugging tools.
+* Andrew J. Ko. Asking and Answering Questions about the Causes of Software Behavior. Dissertation, Carnegie Mellon University. See only Section 2.3\. Program understanding tools, p24-33 for a review of debugging tools.
 * Henry Lieberman and Christopher Fry. 1995\. Bridging the gulf between code and behavior in programming. In Proceedings of the SIGCHI conference on Human factors in computing systems (CHI '95), 480-486.
 * Bjoern Hartmann, Daniel MacDougall, Joel Brandt, Scott R. Klemmer. What Would Other Programmers Do? Suggesting Solutions to Error Messages. CHI: ACM Conference on Human Factors in Computing Systems, Atlanta, GA, 2010.
 * Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008\. [[PDF]](http://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf)
