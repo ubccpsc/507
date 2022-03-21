@@ -32,18 +32,20 @@ The course will be adjusted according to your feedback, interests, and experienc
 | Date      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
 | Mar 9   	| Course Intro 			                       | Reid   |
-| Mar 16    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
-| Mar 16    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/). Scientific American 1994. | Reid |
-| Mar 23   	| TBD 			                       | TBD   |
-| Mar 23   	| TBD 			                       | TBD   |
-| Apr 6   	| Cancelled (student conference).   | TBD   |
+| Mar 16    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
+| Mar 16    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/). Scientific American, 1994. | Reid |
+| Mar 23   	|	Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges.](https://doi.org/10.1109/ASE.2015.86) ASE, 2015. | Solal   |
+| Mar 23   	| Mathieu Lavallee, Pierre N. Robillard. [Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality.](https://doi.org/10.1109/ICSE.2015.83) ICSE, 2015. | Zeinab   |
+| Apr 6   	| Cancelled (student conference).   |    |
 | Apr 11   	| TBD 			                       | TBD   |
-| Apr 20   	| Cancelled (Reid away). 	          | TBD   |
-| Apr 26   	| Cancelled (Reid away). 	          | TBD   |
+| Apr 11   	| TBD 			                       | TBD   |
+| Apr 20   	| Cancelled (Easter week). 	          |    |
+| Apr 26   	| Cancelled (Reid away). 	          |    |
 | May 4   	| TBD 			                       | TBD   |
 | May 4   	| TBD 			                       | TBD   |
 | May 11   	| TBD 			                       | TBD   |
-| May 25   	| Cancelled (Reid away).            | TBD   |
+| May 11   	| TBD 			                       | TBD   |
+| May 25   	| Cancelled (Reid away).            |    |
 | June 1   	| TBD 			                       | TBD   |
 | June 1   	| TBD 			                       | TBD   |
 

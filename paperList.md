@@ -40,22 +40,22 @@ This list is a work in progress.
 
 ### Expertise finding
 
-* Thomas Fritz, Jingwen Ou, Gail C. Murphy, and Emerson Murphy-Hill. 2010\. A degree-of-knowledge model to capture source code familiarity. In Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1 (ICSE '10), Vol. 1\. ACM, New York, NY, USA, 385-394.
-* B. Dagenais, Harold Ossher, Rachel K.E. Bellamy, Martin P. Robillard, and Jacqueline P. de Vries. Moving into a New Software Project Landscape. In Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering, pages 275-284, May 2010.
-* Andrew Begel and Beth Simon. 2008\. Struggles of new college graduates in their first software development job. In Proceedings of the 39th SIGCSE technical symposium on Computer science education (SIGCSE '08). ACM, New York, NY, USA, 226-230.
-* Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, Matthew Smith. *Do you really code? Designing and Evaluating Screening Questions for Online Surveys with Programmers.* ICSE 2021. [Preprint](https://arxiv.org/abs/2103.04429)
+* Thomas Fritz, Jingwen Ou, Gail C. Murphy, and Emerson Murphy-Hill. *A degree-of-knowledge model to capture source code familiarity.* ICSE, 2010.
+* B. Dagenais, Harold Ossher, Rachel K.E. Bellamy, Martin P. Robillard, and Jacqueline P. de Vries. *Moving into a New Software Project Landscape.* ICSE, 2010.
+* Andrew Begel and Beth Simon. *Struggles of new college graduates in their first software development job.* SIGCSE, 2008.
+* Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, Matthew Smith. *Do you really code? Designing and Evaluating Screening Questions for Online Surveys with Programmers.* ICSE, 2021. [Preprint](https://arxiv.org/abs/2103.04429)
 
 
 ### Awareness
 
-* * Hataichanok Unphon, Yvonne Dittrich. Software architecture awareness in long-term software product evolution. In Journal of Systems and Software (JSS). 
-* Biehl, J. T., Czerwinski, M., Smith, G., and Robertson, G. G. 2007\. Fastdash: a visual dashboard for fostering awareness in software teams. In Proceedings of the SIGCHI conference on Human factors in computing systems. CHI '07.
-* A. Sarma, D. Redmiles, and A. van der Hoek, Empirical Evidence of the Benefits of Workspace Awareness in Software Configuration Management, ACM SIGSOFT International Symposium on the Foundations of Software Engineering, (FSE 16), Atlanta, Georgia, November 2008, pages 113-123.
-* Olga Baysal, Reid Holmes, and Mike Godfrey. No Issue Left Behind: Reducing Information Overload in Issue Tracking. FSE 2014\. [[DOI]](http://dx.doi.org/10.1145/2635868.2635887)
-* Reid Holmes and Robert J. Walker. Customized Awareness: Recommending Relevant External Change Events. In Proceedings of the International Conference on Software Engineering (ICSE). 2010\. 465-474.
-* Christoph Treude and Margaret-Anne Storey. 2010\. Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds. In Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1 (ICSE '10), Vol. 1\. ACM, New York, NY, USA, 365-374.
-* Y. Brun, R. Holmes, M. D. Ernst, and D. Notkin (2011), "Proactive Detection of Collaboration Conflicts", In Proceedings of the 8th Joint Meeting of the European Software Engineering Conference and ACM SIGSOFT Symposium on the Foundations of Software Engineering (ESEC/FSE11).
-* Leif Singer, Fernando Marques Figueira Filho, Margaret-Anne D. Storey. Software engineering at the speed of light: how developers stay current using twitter. ICSE 2014
+* Hataichanok Unphon, Yvonne Dittrich. *Software architecture awareness in long-term software product evolution.* JSS, 2010.
+* Biehl, J. T., Czerwinski, M., Smith, G., and Robertson, G. G. *Fastdash: a visual dashboard for fostering awareness in software teams.* CHI, 2007.
+* A. Sarma, D. Redmiles, and A. van der Hoek. *Empirical Evidence of the Benefits of Workspace Awareness in Software Configuration Management.* FSE, 2016.
+* Olga Baysal, Reid Holmes, and Mike Godfrey. *No Issue Left Behind: Reducing Information Overload in Issue Tracking.* FSE, 2014. [[DOI]](http://dx.doi.org/10.1145/2635868.2635887)
+* Reid Holmes and Robert J. Walker. *Customized Awareness: Recommending Relevant External Change Events.* ICSE, 2010.
+* Christoph Treude and Margaret-Anne Storey. *Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds.* ICSE, 2010.
+* Y. Brun, R. Holmes, M. D. Ernst, and D. Notkin. *Proactive Detection of Collaboration Conflicts.* ESEC/FSE, 2011.
+* Leif Singer, Fernando Marques Figueira Filho, Margaret-Anne D. Storey. *Software engineering at the speed of light: how developers stay current using twitter.* ICSE, 2014
 
 
 ### Information needs
