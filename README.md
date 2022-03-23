@@ -36,16 +36,19 @@ The course will be adjusted according to your feedback, interests, and experienc
 | Mar 16    	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/). Scientific American, 1994. | Reid |
 | Mar 23   	|	Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges.](https://doi.org/10.1109/ASE.2015.86) ASE, 2015. | Solal   |
 | Mar 23   	| Mathieu Lavallee, Pierre N. Robillard. [Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality.](https://doi.org/10.1109/ICSE.2015.83) ICSE, 2015. | Zeinab   |
-| Apr 6   	| Cancelled (student conference).   |    |
-| Apr 11   	| Amy J. Ko, Rob DeLine, and Gina Venolia. [Information needs in collocated software development teams.](https://doi.org/10.1109/ICSE.2007.45) ICSE, 2007. 			                       | Reid   |
-| Apr 11   	| TBD 			                       | TBD   |
-| Apr 20   	| Cancelled (Easter week). 	          |    |
-| Apr 26   	| Cancelled (Reid away). 	          |    |
+| Mar 30   	| Amy J. Ko, Rob DeLine, and Gina Venolia. [Information needs in collocated software development teams.](https://doi.org/10.1109/ICSE.2007.45) ICSE, 2007. 			                       | Reid   |
+| Mar 30 | TBD | 
+| Apr 6   	| Cancelled (student conferences)   |      |
+| Apr 13   	| TBD 			                       | TBD  |
+| Apr 20   	| Cancelled (Easter week) 	          |      |
+| Apr 27   	| Cancelled (Reid away) 	          |      |
 | May 4   	| TBD 			                       | TBD   |
 | May 4   	| TBD 			                       | TBD   |
 | May 11   	| TBD 			                       | TBD   |
 | May 11   	| TBD 			                       | TBD   |
-| May 25   	| Cancelled (Reid away).            |    |
+| May 18   	| TBD 			                       | TBD   |
+| May 18   	| TBD 			                       | TBD   |
+| May 25   	| Cancelled (Reid away)             |    |
 | June 1   	| TBD 			                       | TBD   |
 | June 1   	| TBD 			                       | TBD   |
 
