@@ -6,10 +6,10 @@ This list is a work in progress.
 
 ### Historical Context
 
-* Fredrick P. Brooks Jr.. *No Silver Bullet: Essence and Accidents of Software Engineering.* Computer, 1987. [[DOI]](http://dx.doi.org/10.1109/MC.1987.1663532)
-* Fredrick P. Brooks Jr.. *The Mythical Man Month.* Addison-Wesley, 1995. [[ACM DL]](http://dl.acm.org/citation.cfm?id=207583&coll=DL&dl=GUIDE&CFID=466701166&CFTOKEN=38363419)
-* Edsger W. Dijkstra. *Go to statement considered harmful.* CACM, 1968. [[DOI]](http://dx.doi.org/10.1145/362929.362947)
-* W. Wayt Gibbs. *Software's Chronic Crisis.* Scientific American, 1994. [[Online]](http://www.fceia.unr.edu.ar/asist/gibbs00.html)
+* Fredrick P. Brooks Jr.. [No Silver Bullet: Essence and Accidents of Software Engineering.](http://dx.doi.org/10.1109/MC.1987.1663532) Computer, 1987. 
+* Fredrick P. Brooks Jr.. [The Mythical Man Month.](http://dl.acm.org/citation.cfm?id=207583&coll=DL&dl=GUIDE&CFID=466701166&CFTOKEN=38363419) Addison-Wesley, 1995.
+* Edsger W. Dijkstra. [Go to statement considered harmful.](http://dx.doi.org/10.1145/362929.362947) CACM, 1968.
+* W. Wayt Gibbs. [Software's Chronic Crisis.](http://www.fceia.unr.edu.ar/asist/gibbs00.html) Scientific American, 1994.
 
 
 ### Research Methods
@@ -18,7 +18,7 @@ This list is a work in progress.
 * Jorge Aranda, Gina Venolia. *The secret life of bugs: Going past the errors and omissions in software repositories.* ICSE, 2009.
 * Jo E. Hannay, Dag I. K. Sjoberg, and Tore Dyba. *A Systematic Review of Theory Use in Software Engineering Experiments.* TSE, 2007.
 * Zelkowitz and Wallace. *Experimental models for validating technology.* Computer, 1998.
-* Ko, A.J., LaToza, T., Burnett, M. M. *A Practical Guide to Controlled Experiments of Software Engineering Tools with Human Participants.* Empirical Software Engineering, 2013.
+* Ko, A. J., LaToza, T., Burnett, M. M. *A Practical Guide to Controlled Experiments of Software Engineering Tools with Human Participants.* Empirical Software Engineering, 2013.
 * Janet Siegmund, Norbert Siegmund, Sven Apel. *Views on Internal and External Validity in Empirical Software Engineering.* ICSE, 2015.
 * Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, Matthew Smith. *Do you really code? Designing and Evaluating Screening Questions for Online Surveys with Programmers.* ICSE, 2021. [Preprint](https://arxiv.org/pdf/2103.04429.pdf)
 
@@ -60,14 +60,14 @@ This list is a work in progress.
 
 ### Information needs
 
-* Silvia Breu, Rahul Premraj, Jonathan Sillito, and Thomas Zimmermann. Information needs in bug reports: Improving cooperation between developers and users. Computer Supported Cooperative Work (CSCW). 2010.
-* Ko, DeLine and Venolia. Information needs in collocated software development teams. in Proc. of ICSE 2007.
-* Sillito, Murphy and De Volder. Questions programmers ask during software evolution tasks. in Proc. of FSE, 2006.
-* Thomas Fritz and Gail C. Murphy. 2010\. Using information fragments to answer the questions developers ask. In Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1 (ICSE '10), Vol. 1\. ACM, New York, NY, USA, 175-184.
-* Cubranic, Murphy, Singer, and Booth. Hipikat: a project memory for software development. IEEE Transactions on Software Engineering, vol.31, no.6, pp. 446- 465, June 2005.
-* Reid Holmes and Andrew Begel. Deep Intellisense: A Tool for Rehydrating Evaporated Information. In Proceedings of the Working Conference on Mining Software Repositories, 2008\. 23-26.
-* Andrew Begel, Yit Phang Khoo, Thomas Zimmermann: Codebook: discovering and exploiting relationships in software repositories. ICSE2010: 125-134.
-* Madeline Endres, Zachary Karas, Xiaosu Hu, Ioulia Kovelman, Westley Weimer. *Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study.* ICSE 2021. [Preprint](https://arxiv.org/abs/2102.12376)
+* Silvia Breu, Rahul Premraj, Jonathan Sillito, and Thomas Zimmermann. *Information needs in bug reports: Improving cooperation between developers and users.* CSCW, 2010.
+* Amy J. Ko, Rob DeLine, and Gina Venolia. [Information needs in collocated software development teams.](https://doi.org/10.1109/ICSE.2007.45) ICSE, 2007.
+* Jonathan Sillito, Gail C. Murphy, and Kris De Volder. [Questions programmers ask during software evolution tasks.](https://doi.org/10.1145/1181775.1181779) FSE, 2006.
+* Thomas Fritz and Gail C. Murphy. *Using information fragments to answer the questions developers ask.* ICSE, 2010.
+* Cubranic, Murphy, Singer, and Booth. *Hipikat: a project memory for software development.* TSE, 2005.
+* Reid Holmes and Andrew Begel. *Deep Intellisense: A Tool for Rehydrating Evaporated Information.* MSR, 2008.
+* Andrew Begel, Yit Phang Khoo, and Thomas Zimmermann. *Codebook: Discovering and exploiting relationships in software repositories.* ICSE, 2010.
+* Madeline Endres, Zachary Karas, Xiaosu Hu, Ioulia Kovelman, and Westley Weimer. *Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study.* ICSE, 2021. [Preprint](https://arxiv.org/abs/2102.12376)
 
 
 ### Reuse
@@ -92,7 +92,7 @@ This list is a work in progress.
 ### Understanding Code
 
 * Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. IEEE Transactions on Software Engineering, 30(12):889-903, December 2004.
-* Andrew J. Ko, Robert DeLine, and Gina Venolia, Information Needs in Collocated Software Development Teams, in ICSE '07: Proceedings of the 29th international conference on Software Engineering, IEEE Computer Society, Washington, DC, USA, May 2007.
+* Amy J. Ko, Robert DeLine, and Gina Venolia, Information Needs in Collocated Software Development Teams, in ICSE '07: Proceedings of the 29th international conference on Software Engineering, IEEE Computer Society, Washington, DC, USA, May 2007.
 * Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. In IEEE Transactions on Software Engineering. 2008.
 * Jamie Starke, Chris Luce, Jonathan Sillito. Searching and Skimming: An Exploratory Study. In Proceedings of ICSM 2009.
 * Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2015.
@@ -158,23 +158,23 @@ This list is a work in progress.
 
 ### Reporting and triaging bugs
 
-* Oscar Chaparro, Jing Lu, Fiorella Zampetti, Laura Moreno, Massimiliano Di Penta, Andrian Marcus, Gabriele Bavota, and Vincent Ng. Detecting missing information in bug descriptions. Foundations on Software Engineering (ESEC/FSE). 2017.
-* Ko, A. J. and Chilana P. (2010). How Power Users Help and Hinder Open Bug Reporting. ACM Conference on Human Factors in Computing Systems (CHI), Atlanta, GA, 1665-1674.
-* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy. Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows. In ICSE, 2010.
-* Nicolas Bettenburg, Sascha Just, Adrian Schroter, Cathrin Weiss, Rahul Premraj, Thomas Zimmermann. What Makes a Good Bug Report?. In FSE, 2008.
-* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy. "Not My Bug!" and Other Reasons for Software Bug Report Reassignments. In CSCW, 2011.
-* Dane Bertram, Amy Voida, Saul Greenberg, Robert Walker. Communication, Collaboration, and Bugs: The Social Nature of Issue Tracking in Small, Collocated Teams. CSCW 2010.
-* Anvik, J., Hiew, L., and Murphy, G.C. (2006). Who should fix this bug? Proc. ICSE 2006, ACM Press 2006.
+* Oscar Chaparro, Jing Lu, Fiorella Zampetti, Laura Moreno, Massimiliano Di Penta, Andrian Marcus, Gabriele Bavota, and Vincent Ng. *Detecting missing information in bug descriptions.* ESEC/FSE, 2017.
+* Ko, A. J. and Chilana P. *How Power Users Help and Hinder Open Bug Reporting.* CHI, 2010.
+* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, and Brendan Murphy. *Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows.* ICSE, 2010.
+* Nicolas Bettenburg, Sascha Just, Adrian Schroter, Cathrin Weiss, Rahul Premraj, and Thomas Zimmermann. *What Makes a Good Bug Report?.* FSE, 2008.
+* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, and Brendan Murphy. *"Not My Bug!" and Other Reasons for Software Bug Report Reassignments.* CSCW, 2011.
+* Dane Bertram, Amy Voida, Saul Greenberg, and Robert Walker. *Communication, Collaboration, and Bugs: The Social Nature of Issue Tracking in Small, Collocated Teams.* CSCW, 2010.
+* Anvik, J., Hiew, L., and Murphy, G.C. *Who should fix this bug?* ICSE, 2006.
 
 ### Debugging Tools
 
 * Brittany Johnson, Yoonki Song, Emerson R. Murphy-Hill, Robert W. Bowdidge. Why don't software developers use static analysis tools to find bugs? ICSE 2013\. [[ACM DL]](http://dl.acm.org/citation.cfm?id=2486877)
 * Kıvanç Muşlu, Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin. Speculative Analysis of Integrated Development Environment Recommendations. OOPSLA 2012\. [[DOI]](http://dx.doi.org/10.1145/2384616.2384665)
-* Andrew J. Ko. Asking and Answering Questions about the Causes of Software Behavior. Dissertation, Carnegie Mellon University. See only Section 2.3\. Program understanding tools, p24-33 for a review of debugging tools.
+* Amy J. Ko. Asking and Answering Questions about the Causes of Software Behavior. Dissertation, Carnegie Mellon University. See only Section 2.3\. Program understanding tools, p24-33 for a review of debugging tools.
 * Henry Lieberman and Christopher Fry. 1995\. Bridging the gulf between code and behavior in programming. In Proceedings of the SIGCHI conference on Human factors in computing systems (CHI '95), 480-486.
 * Bjoern Hartmann, Daniel MacDougall, Joel Brandt, Scott R. Klemmer. What Would Other Programmers Do? Suggesting Solutions to Error Messages. CHI: ACM Conference on Human Factors in Computing Systems, Atlanta, GA, 2010.
 * Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008\. [[PDF]](http://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf)
-* Andrew J. Ko and Brad A. Myers. Finding causes of program output with the Java Whyline. Human Factors in Computing Systems (CHI). 2009.
+* Amy J. Ko and Brad A. Myers. Finding causes of program output with the Java Whyline. Human Factors in Computing Systems (CHI). 2009.
 
 
 ### Testing
@@ -188,7 +188,7 @@ This list is a work in progress.
 * Hao Zhong, Zhendong Su. An Empirical Study on Fixing Real Bugs. ICSE 2015.
 * Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015.
 * Yucheng Zhang and Ali Mesbah. Assertions Are Strongly Correlated with Test Suite Effectiveness. FSE 2015.
-* Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE 2015
+* Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges.](https://doi.org/10.1109/ASE.2015.86) ASE, 2015.
 
 <!--  DESIGN
 
