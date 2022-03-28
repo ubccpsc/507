@@ -26,36 +26,36 @@ This list is a work in progress.
 ### Development teams
 
 * Robert E. Kraut and Lynn A. Streeter. *Coordination in software development.* CACM, 1995.
-* Teasley, S. D., Covi, L. A., Krishnan, M. S. and Olson, J. S. *Rapid Software Development through Team Collocation.* TSE, 2002.
+* Teasley, Covi, Krishnan, and Olson. *Rapid Software Development through Team Collocation.* TSE, 2002.
 * Cleidson R. Souza and David F. Redmiles. *On The Roles of APIs in the Coordination of Collaborative Software Development.* CSCW, 2009.
-* Kivanc Muslu, Christian Bird, Nachiappan Nagappan, and Jacek Czerwonka. *Transition from Centralized to Decentralized Version Control Systems: A Case Study on Reasons, Barriers, and Outcomes.* ICSE, 2014. [[PDF]](http://www.cabird.com/papers/muslu2014dvcs.pdf)
-* Shaun Phillips, Thomas Zimmermann, and Christian Bird. *Understanding and Improving Software Build Teams.* ICSE, 2014. [[PDF]](http://www.cabird.com/papers/phillips2014build.pdf)
-* Herbsleb, J.D., Mockus, A., Finholt, T.A., & Grinter, R.E.. *Distance, dependencies, and delay in a global collaboration.* CSCW, 2000.
-* Bird, C., Nagappan, N., Devanbu, P.T., Gall, H., and Murphy, B. *Does distributed development affect software quality? An empirical case study of Windows Vista.* ICSE, 2009.
-* Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin. *Proactive Detection of Collaboration Conflicts.* FSE, 2011. [[DOI]](http://dx.doi.org/10.1145/2025113.2025139)
-* Mathieu Lavallee, Pierre N. Robillard. *Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality.* ICSE, 2015.
+* Kivanc Muslu, Christian Bird, Nachiappan Nagappan, and Jacek Czerwonka. [Transition from Centralized to Decentralized Version Control Systems: A Case Study on Reasons, Barriers, and Outcomes.](http://www.cabird.com/papers/muslu2014dvcs.pdf) ICSE, 2014.
+* Shaun Phillips, Thomas Zimmermann, and Christian Bird. [Understanding and Improving Software Build Teams.](http://www.cabird.com/papers/phillips2014build.pdf) ICSE, 2014.
+* Herbsleb, Mockus, Finholt, and Grinter. *Distance, dependencies, and delay in a global collaboration.* CSCW, 2000.
+* Bird, Nagappan, Devanbu, Gall, and Murphy. *Does distributed development affect software quality? An empirical case study of Windows Vista.* ICSE, 2009.
+* Yuriy Brun, Reid Holmes, Michael D. Ernst, and David Notkin. [Proactive Detection of Collaboration Conflicts.](http://dx.doi.org/10.1145/2025113.2025139) FSE, 2011. 
+* Mathieu Lavallee and Pierre N. Robillard. *Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality.* ICSE, 2015.
 * Christoph Treude, Fernando Figueira Filho, and Uirá Kulesza. *Summarizing and Measuring Development Activity.* FSE, 2015.
-* Courtney Miller, Paige Rodeghero, Margaret-Anne Storey, Denae Ford, Thomas Zimmermann. *“How Was Your Weekend?” Software Development Teams Working From Home During COVID-19.* ICSE, 2021. [Preprint](https://arxiv.org/pdf/2101.05877.pdf)
-
+* Courtney Miller, Paige Rodeghero, Margaret-Anne Storey, Denae Ford, and Thomas Zimmermann. [“How Was Your Weekend?” Software Development Teams Working From Home During COVID-19.](https://arxiv.org/pdf/2101.05877.pdf) ICSE, 2021.
+* Emad Aghayia, Thomas D. LaTozaa, Paurav Surendraa, and Seyedmeysam Abolghasemib. [Crowdsourced Behavior-Driven Development.](https://cs.gmu.edu/~tlatoza/papers/jss2021.pdf) JSS, 2021.
 
 ### Expertise finding
 
 * Thomas Fritz, Jingwen Ou, Gail C. Murphy, and Emerson Murphy-Hill. *A degree-of-knowledge model to capture source code familiarity.* ICSE, 2010.
 * B. Dagenais, Harold Ossher, Rachel K.E. Bellamy, Martin P. Robillard, and Jacqueline P. de Vries. *Moving into a New Software Project Landscape.* ICSE, 2010.
 * Andrew Begel and Beth Simon. *Struggles of new college graduates in their first software development job.* SIGCSE, 2008.
-* Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, Matthew Smith. *Do you really code? Designing and Evaluating Screening Questions for Online Surveys with Programmers.* ICSE, 2021. [Preprint](https://arxiv.org/abs/2103.04429)
+* Anastasia Danilova, Alena Naiakshina, Stefan Horstmann, and Matthew Smith. [Do you really code? Designing and Evaluating Screening Questions for Online Surveys with Programmers.](https://arxiv.org/abs/2103.04429) ICSE, 2021.
 
 
 ### Awareness
 
-* Hataichanok Unphon, Yvonne Dittrich. *Software architecture awareness in long-term software product evolution.* JSS, 2010.
-* Biehl, J. T., Czerwinski, M., Smith, G., and Robertson, G. G. *Fastdash: a visual dashboard for fostering awareness in software teams.* CHI, 2007.
+* Hataichanok Unphon and Yvonne Dittrich. *Software architecture awareness in long-term software product evolution.* JSS, 2010.
+* Biehl, Czerwinski, Smith, and Robertson. *Fastdash: a visual dashboard for fostering awareness in software teams.* CHI, 2007.
 * A. Sarma, D. Redmiles, and A. van der Hoek. *Empirical Evidence of the Benefits of Workspace Awareness in Software Configuration Management.* FSE, 2016.
-* Olga Baysal, Reid Holmes, and Mike Godfrey. *No Issue Left Behind: Reducing Information Overload in Issue Tracking.* FSE, 2014. [[DOI]](http://dx.doi.org/10.1145/2635868.2635887)
+* Olga Baysal, Reid Holmes, and Mike Godfrey. [No Issue Left Behind: Reducing Information Overload in Issue Tracking.](http://dx.doi.org/10.1145/2635868.2635887) FSE, 2014. 
 * Reid Holmes and Robert J. Walker. *Customized Awareness: Recommending Relevant External Change Events.* ICSE, 2010.
 * Christoph Treude and Margaret-Anne Storey. *Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds.* ICSE, 2010.
 * Y. Brun, R. Holmes, M. D. Ernst, and D. Notkin. *Proactive Detection of Collaboration Conflicts.* ESEC/FSE, 2011.
-* Leif Singer, Fernando Marques Figueira Filho, Margaret-Anne D. Storey. *Software engineering at the speed of light: how developers stay current using twitter.* ICSE, 2014
+* Leif Singer, Fernando Marques Figueira Filho, and Margaret-Anne Storey. *Software engineering at the speed of light: how developers stay current using twitter.* ICSE, 2014
 
 
 ### Information needs
@@ -63,40 +63,39 @@ This list is a work in progress.
 * Silvia Breu, Rahul Premraj, Jonathan Sillito, and Thomas Zimmermann. *Information needs in bug reports: Improving cooperation between developers and users.* CSCW, 2010.
 * Amy J. Ko, Rob DeLine, and Gina Venolia. [Information needs in collocated software development teams.](https://doi.org/10.1109/ICSE.2007.45) ICSE, 2007.
 * Jonathan Sillito, Gail C. Murphy, and Kris De Volder. [Questions programmers ask during software evolution tasks.](https://doi.org/10.1145/1181775.1181779) FSE, 2006.
+* Jonathan Sillito, Gail C. Murphy, and Kris De Volder. *Asking and Answering Questions during a Programming Change Task.* TSE, 2008.
 * Thomas Fritz and Gail C. Murphy. *Using information fragments to answer the questions developers ask.* ICSE, 2010.
 * Cubranic, Murphy, Singer, and Booth. *Hipikat: a project memory for software development.* TSE, 2005.
 * Reid Holmes and Andrew Begel. *Deep Intellisense: A Tool for Rehydrating Evaporated Information.* MSR, 2008.
 * Andrew Begel, Yit Phang Khoo, and Thomas Zimmermann. *Codebook: Discovering and exploiting relationships in software repositories.* ICSE, 2010.
-* Madeline Endres, Zachary Karas, Xiaosu Hu, Ioulia Kovelman, and Westley Weimer. *Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study.* ICSE, 2021. [Preprint](https://arxiv.org/abs/2102.12376)
+* Madeline Endres, Zachary Karas, Xiaosu Hu, Ioulia Kovelman, and Westley Weimer. [Relating Reading, Visualization, and Coding for New Programmers: A Neuroimaging Study.](https://arxiv.org/abs/2102.12376) ICSE, 2021. 
 
 
 ### Reuse
 
-* Yunwen Ye and Gerhard Fischer. 2002\. Supporting reuse by delivering task-relevant and personalized information. In Proceedings of the 24th International Conference on Software Engineering (ICSE '02). ACM, New York, NY, USA, 513-523.
-* Mary Beth Rosson and John M. Carroll. 1996\. The reuse of uses in Smalltalk programming. ACM Trans. Comput.-Hum. Interact. 3, 3 (September 1996), 219-253.
-* A. Sen. The role of opportunism in the software design reuse process. IEEE TSE, vol. 23, no. 7, pp. 418--436, 1997.
-* Reid Holmes and Robert J. Walker. Supporting the investigation and planning of pragmatic reuse tasks. In Proceedings of the International Conference on Software Engineering (Minneapolis, MN, USA. May 25, 2007). ICSE '07.
-* Steven P. Reiss: Semantics-based code search. ICSE pp. 243-253, 2009.
+* Yunwen Ye and Gerhard Fischer. *Supporting reuse by delivering task-relevant and personalized information.* ICSE, 2002.
+* Mary Beth Rosson and John M. Carroll. *The reuse of uses in Smalltalk programming.* Transactions Compututer Human Interaction, 1996.
+* A. Sen. *The role of opportunism in the software design reuse process.* TSE, 1997.
+* Reid Holmes and Robert J. Walker. *Supporting the investigation and planning of pragmatic reuse tasks.* ICSE, 2007.
+* Steven P. Reiss. *Semantics-based code search.* ICSE, 2009.
 
 
 ### Code search
 
-* David Mandelin, Lin Xu, Rastislav Bodik, and Doug Kimelman. 2005\. Jungloid mining: helping to navigate the API jungle. In Proceedings of the 2005 ACM SIGPLAN conference on Programming language design and implementation (PLDI '05). ACM, New York, NY, USA, 48-61.
-* Holmes, R. and Murphy, G. C. 2005\. Using structural context to recommend source code examples. In Proceedings of the 27th international Conference on Software Engineering (St. Louis, MO, USA. May 18, 2005). ICSE '05\. ACM Press, New York, NY, 117-125\.
-* Suresh Thummalapenta and Tao Xie. 2007\. Parseweb: a programmer assistant for reusing open source code on the web. In Proceedings of the twenty-second IEEE/ACM international conference on Automated software engineering (ASE '07). ACM, New York, NY, USA, 204-213.
-* Erik Linstead, Sushil Bajracharya, Trung Ngo, Paul Rigor, Cristina Lopes, and Pierre Baldi. Sourcerer: mining and searching internet-scale software repositories. Data Minining and Knowledge Discovery. 2009\. [[Springer]](http://link.springer.com/article/10.1007%2Fs10618-008-0118-x)
-* Siddharth Subramanian, Laura Inozemtseva, Reid Holmes. Live API documentation. ICSE 2014
-* Caitlin Sadowski, Kathryn T. Stolee, and Sebastian Elbaum. How Developers Search for Code: A Case Study. FSE 2015
+* David Mandelin, Lin Xu, Rastislav Bodik, and Doug Kimelman. *Jungloid mining: Helping to navigate the API jungle.* PLDI, 2005.
+* Holmes and Murphy. *Using structural context to recommend source code examples.* ICSE, 2005.
+* Suresh Thummalapenta and Tao Xie. *Parseweb: a programmer assistant for reusing open source code on the web.* ASE 2007.
+* Erik Linstead, Sushil Bajracharya, Trung Ngo, Paul Rigor, Cristina Lopes, and Pierre Baldi. [Sourcerer: mining and searching internet-scale software repositories.](http://link.springer.com/article/10.1007%2Fs10618-008-0118-x) Data Minining and Knowledge Discovery, 2009.
+* Siddharth Subramanian, Laura Inozemtseva, and Reid Holmes. *Live API documentation.* ICSE, 2014.
+* Caitlin Sadowski, Kathryn T. Stolee, and Sebastian Elbaum. *How Developers Search for Code: A Case Study.* FSE, 2015.
 
 
 ### Understanding Code
 
-* Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. IEEE Transactions on Software Engineering, 30(12):889-903, December 2004.
-* Amy J. Ko, Robert DeLine, and Gina Venolia, Information Needs in Collocated Software Development Teams, in ICSE '07: Proceedings of the 29th international conference on Software Engineering, IEEE Computer Society, Washington, DC, USA, May 2007.
-* Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. In IEEE Transactions on Software Engineering. 2008.
-* Jamie Starke, Chris Luce, Jonathan Sillito. Searching and Skimming: An Exploratory Study. In Proceedings of ICSM 2009.
-* Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2015.
-* Felix Grund, Shaiful Alam Chowdhury, Nick Bradley, Braxton Hall, Reid Holmes. *CodeShovel: Constructing Method-Level Source Code Histories*. ICSE 2021. [Preprint](https://www.cs.ubc.ca/~rtholmes/papers/icse_2021_grund.pdf)
+* Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. *How Effective Developers Investigate Source Code: An Exploratory Study.* TSE, 2004.
+* Jamie Starke, Chris Luce, Jonathan Sillito. *Searching and Skimming: An Exploratory Study.* ICSM, 2009.
+* Annie T. T. Ying, Martin P. Robillard. *Selection and presentation practices for code example summarization.* FSE, 2015.
+* Felix Grund, Shaiful Alam Chowdhury, Nick Bradley, Braxton Hall, Reid Holmes. [CodeShovel: Constructing Method-Level Source Code Histories.](https://www.cs.ubc.ca/~rtholmes/papers/icse_2021_grund.pdf) ICSE, 2021.
 
 
 ### Traversing relationships
@@ -105,7 +104,7 @@ This list is a work in progress.
 * de Alwis, GC Murphy (2008). Answering Conceptual Queries with Ferret. In Proceedings of the International Conference on Software Engineering (ICSE), Leipzig, Germany.
 * D. Janzen and K. D. Volder. Navigating and querying code without getting lost. In Proc. International Conf. Aspect-Oriented Softw. Development, pages 178â€“187\. ACM, 2003.
 * Martin P. Robillard and Gail C. Murphy. Representing Concerns in Source Code. ACM Transactions on Software Engineering and Methodology, 16(1):1-38, February 2007.
-* Reid Holmes and Robert J. Walker. Systematizing Pragmatic Software Reuse. TOSEM 2012\. [[DOI]](http://doi.acm.org/10.1145/2377656.2377657)
+* Reid Holmes and Robert J. Walker. [Systematizing Pragmatic Software Reuse.](http://doi.acm.org/10.1145/2377656.2377657) TOSEM, 2012. 
 * Gail C. Murphy, David Notkin, and Kevin J. Sullivan. Software Reflexion Models: Bridging the Gap between Design and Implementation. IEEE Transactions on Software Engineering, 27
 * Janice Singer, Robert Elves, Margaret-Anne D. Storey: NavTracks: Supporting Navigation in Software Maintenance. ICSM 2005: 325-334.
 * DeLine, R.; Czerwinski, M.; Robertson, G.; , "Easing program comprehension by sharing navigation data," Visual Languages and Human-Centric Computing, 2005 IEEE Symposium on , vol., no., pp. 241- 248, 20-24 Sept. 2005
