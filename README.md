@@ -38,17 +38,18 @@ The course will be adjusted according to your feedback, interests, and experienc
 | Mar 23   	| Mathieu Lavallee, Pierre N. Robillard. [Why Good Developers Write Bad Code: an Observational Case Study of the Impacts of Organizational Factors on Software Quality.](https://doi.org/10.1109/ICSE.2015.83) ICSE, 2015. | Zeinab   |
 | Mar 30   	| Amy J. Ko, Rob DeLine, and Gina Venolia. [Information needs in collocated software development teams.](https://doi.org/10.1109/ICSE.2007.45) ICSE, 2007. 			                       | Reid   |
 | Mar 30 | Emad Aghayia, Thomas D. LaTozaa, Paurav Surendraa, and Seyedmeysam Abolghasemib. [Crowdsourced Behavior-Driven Development.](https://cs.gmu.edu/~tlatoza/papers/jss2021.pdf) JSS, 2021. | Reid |
-| Apr 6   	| Cancelled (student conferences)   |      |
+| Apr 6   	| Cancelled (student conferences)  |      |
 | Apr 13   	| TBD 			                       | TBD  |
-| Apr 20   	| Cancelled (Easter week) 	          |      |
-| Apr 27   	| Cancelled (Reid away) 	          |      |
-| May 4   	| TBD 			                       | TBD   |
-| May 4   	| TBD 			                       | TBD   |
-| May 11   	| TBD 			                       | TBD   |
-| May 11   	| TBD 			                       | TBD   |
-| May 18   	| TBD 			                       | TBD   |
-| May 18   	| TBD 			                       | TBD   |
-| May 25   	| Cancelled (Reid away)             |    |
-| June 1   	| TBD 			                       | TBD   |
-| June 1   	| TBD 			                       | TBD   |
+| Apr 13   	| TBD 			                       | TBD  |
+| Apr 20   	| Cancelled (Easter week) 	       |      |
+| Apr 27   	| Cancelled (Reid away) 	         |      |
+| May 4   	| TBD 			                       | TBD  |
+| May 4   	| TBD 			                       | TBD  |
+| May 11   	| TBD 			                       | TBD  |
+| May 11   	| TBD 			                       | TBD  |
+| May 18   	| TBD 			                       | TBD  |
+| May 18   	| TBD 			                       | TBD  |
+| May 25   	| Cancelled (Reid away)            |      |
+| June 1   	| TBD 			                       | TBD  |
+| June 1   	| TBD 			                       | TBD  |
 
