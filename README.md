@@ -40,8 +40,8 @@ The course will be adjusted according to your feedback, interests, and experienc
 | Mar 30 | Emad Aghayia, Thomas D. LaTozaa, Paurav Surendraa, and Seyedmeysam Abolghasemib. [Crowdsourced Behavior-Driven Development.](https://cs.gmu.edu/~tlatoza/papers/jss2021.pdf) JSS, 2021. | Reid |
 | Apr 6   	| Wen, Chen, Liu, Lou, Ma, Huang, Jin, and Liu. [An empirical study on challenges of application development in serverless computing.](https://doi.org/10.1145/3468264.3468558) ESEC/FSE 2021.  | Shanqing |
 | Apr 6   	| Cojocaru, Uta, and Oprescu. [Attributes Assessing the Quality of Microservices Automatically Decomposed from Monolithic Applications.](https://dx.doi.org/10.1109/ISPDC.2019.00021) ISPDC 2019.  | Shanqing |
-| Apr 13   	| Perf Testing TBD 			                       | TBD  |
-| Apr 13   	| Perf Testing TBD 			                       | TBD  |
+| Apr 13   	| Charlie Curtsinger and Emery D. Berger. [STABILIZER: statistically sound performance evaluation.](https://doi.org/10.1145/2490301.2451141) SIGARCH 2013.  | Rafael  |
+| Apr 13   	| Karandikar, Ou, Amid, Mao, Katz, Nikolić, and Asanović. [FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design.](https://sagark.org/assets/pubs/fireperf-asplos2020.pdf) ASPLOS 2020. | Rafael  |
 | Apr 20   	| Cancelled (Easter week) 	       |      |
 | Apr 27   	| Cancelled (Reid away) 	         |      |
 | May 4   	| TBD 			                       | TBD  |
