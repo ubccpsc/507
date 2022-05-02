@@ -44,8 +44,8 @@ The course will be adjusted according to your feedback, interests, and experienc
 | Apr 13   	| Karandikar, Ou, Amid, Mao, Katz, Nikolić, and Asanović. [FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design.](https://sagark.org/assets/pubs/fireperf-asplos2020.pdf) ASPLOS 2020. | Rafael  |
 | Apr 20   	| Cancelled (Easter week) 	       |      |
 | Apr 27   	| Cancelled (Reid away) 	         |      |
-| May 4   	| TBD 			                       | TBD  |
-| May 4   	| TBD 			                       | TBD  |
+| May 4   	| Eric F. Rizzi, Sebastian Elbaum, and Matthew B. Dwyer. [On the techniques we create, the tools we build, and their misalignments: A study of KLEE.](https://dx.doi.org/https://doi.org/10.1145/2884781.2884835) ICSE 2016. 			                       | Solal  |
+| May 4   	| Chris Parnin, and Alex Orso. [Are Automated Debugging Techniques Actually Helping Programmers?](http://chrisparnin.me/pdf/issta11.pdf) ISSTA 2011. | Reid  |
 | May 11   	| TBD 			                       | TBD  |
 | May 11   	| TBD 			                       | TBD  |
 | May 18   	| TBD 			                       | TBD  |
