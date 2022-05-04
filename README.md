@@ -46,8 +46,8 @@ The course will be adjusted according to your feedback, interests, and experienc
 | Apr 27   	| Cancelled (Reid away) 	         |      |
 | May 4   	| Eric F. Rizzi, Sebastian Elbaum, and Matthew B. Dwyer. [On the techniques we create, the tools we build, and their misalignments: A study of KLEE.](https://dx.doi.org/https://doi.org/10.1145/2884781.2884835) ICSE 2016. 			                       | Solal  |
 | May 4   	| Chris Parnin, and Alex Orso. [Are Automated Debugging Techniques Actually Helping Programmers?](http://chrisparnin.me/pdf/issta11.pdf) ISSTA 2011. | Reid  |
-| May 11   	| TBD 			                       | TBD  |
-| May 11   	| TBD 			                       | TBD  |
+| May 11    	| Bacchelli and Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](http://dl.acm.org/citation.cfm?id=2486882) ICSE 2013. | Zeinab  |
+| May 11   	| Laura MacLeodm Michaela Greiler, Margaret-Anne Storey, Christian Bird, and Jacek Czerwonka. [Code Reviewing in the Trenches: Understanding Challenges and Best Practices.](http://dx.doi.org/10.1109/MS.2017.265100500) Software 2017. | Reid  |
 | May 18   	| TBD 			                       | TBD  |
 | May 18   	| TBD 			                       | TBD  |
 | May 25   	| Cancelled (Reid away)            |      |
