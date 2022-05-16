@@ -48,9 +48,9 @@ The course will be adjusted according to your feedback, interests, and experienc
 | May 4   	| Chris Parnin, and Alex Orso. [Are Automated Debugging Techniques Actually Helping Programmers?](http://chrisparnin.me/pdf/issta11.pdf) ISSTA 2011. | Reid  |
 | May 11    	| Bacchelli and Bird. [Expectations, Outcomes, and Challenges of Modern Code Review.](http://dl.acm.org/citation.cfm?id=2486882) ICSE 2013. | Zeinab  |
 | May 11   	| Laura MacLeodm Michaela Greiler, Margaret-Anne Storey, Christian Bird, and Jacek Czerwonka. [Code Reviewing in the Trenches: Understanding Challenges and Best Practices.](http://dx.doi.org/10.1109/MS.2017.265100500) Software 2017. | Reid  |
-| May 18   	| TBD 			                       | TBD  |
-| May 18   	| TBD 			                       | TBD  |
-| May 25   	| Cancelled (Reid away)            |      |
+| May 18   	| G. Ren, E. Tune, T. Moseley, Y. Shi, S. Rus, and R. Hundt. [Google-Wide Profiling: A Continuous Profiling Infrastructure for Data Centers.](https://dx.doi.org/10.1109/MM.2010.68) IEEE Micro 2010.  | Shanqing  |
+| May 18   	| M. Panchenko, R. Auler, B. Nell, and G. Ottoni. [BOLT: A Practical Binary Optimizer for Data Centers and Beyond.](https://dx.doi.org/10.1109/CGO.2019.8661201) CGO 2019. | Shanqing  |
+| May 25   	| Cancelled (Reid away)             |      |
 | June 1   	| TBD 			                       | TBD  |
 | June 1   	| TBD 			                       | TBD  |
 
