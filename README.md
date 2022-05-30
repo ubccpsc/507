@@ -51,6 +51,8 @@ The course will be adjusted according to your feedback, interests, and experienc
 | May 18   	| G. Ren, E. Tune, T. Moseley, Y. Shi, S. Rus, and R. Hundt. [Google-Wide Profiling: A Continuous Profiling Infrastructure for Data Centers.](https://dx.doi.org/10.1109/MM.2010.68) IEEE Micro 2010.  | Shanqing  |
 | May 18   	| M. Panchenko, R. Auler, B. Nell, and G. Ottoni. [BOLT: A Practical Binary Optimizer for Data Centers and Beyond.](https://dx.doi.org/10.1109/CGO.2019.8661201) CGO 2019. | Shanqing  |
 | May 25   	| Cancelled (Reid away)             |      |
-| June 1   	|  Xing, Zhenchang, and Eleni Stroulia. [Refactoring practice: How it is and how it should be supported-an eclipse case study.](https://doi.org/10.1109/ICSM.2006.52) ICSM 2006. | Zeinab  |
-| June 1   	| Kashiwa, Yutaro, et al. [Does Refactoring Break Tests and to What Extent?.](https://doi.org/10.1109/ICSME52107.2021.00022) ICSME 2021. | Zeinab  |
+| June 1   	|  Zhenchang Xing and Eleni Stroulia. [Refactoring practice: How it is and how it should be supported-an eclipse case study.](https://doi.org/10.1109/ICSM.2006.52) ICSM 2006. | Zeinab  |
+| June 1   	| Yutaro Kashiwa, Kazuki Shimizu, Bin Lin, Gabriele Bavota, Michele Lanza, Yasutaka Kamei, and Naoyasu Ubayashi. [Does Refactoring Break Tests and to What Extent?.](https://doi.org/10.1109/ICSME52107.2021.00022) ICSME 2021. | Zeinab  |
+
+
 
