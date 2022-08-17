@@ -2,14 +2,14 @@
 
 # UBC CPSC 507 - Advanced Software Engineering
 
-Sept 7, 2018 -> Nov 30, 2018 (```2018T1```).
+Sept 8, 2022 -> Dec 1, 2022 (```2022W1```).
 
 
 # Overview
 
 Software is a human product. Developers are intrinsic to software development; as systems scale in size and complexity, the challenges that developers must overcome rapidly increase. The theme of this Advanced Software Engineering course will be 'Human Aspects of Software Engineering'. We will examine why creating software is a hard problem and how these problems have been addressed and evaluated both in research and practice. We will focus on development-based activities (rather than planning or requirements-based activities). The course will be seminar-based and will involve weekly reading and discussion. The project will involve building a software development tool to address a problem you have faced writing software yourself; this will likely involve a large amount of programming. This course is offered by the [Department of Computer Science](http://www.cs.ubc.ca/) at the [University of British Columbia](http://ubc.ca).
 
-Lectures are held every Friday from 0900 to 1150 ICCS 246. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in the [SSC entry](https://courses.students.ubc.ca/cs/main?pname=subjarea&tname=subjareas&req=5&dept=CPSC&course=507&section=201).
+Lectures are held every Tuesday and Thursday from 0930 to 1100 in [DMP 201](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=DMP&roomID=201). My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in the [SSC entry](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-section&dept=CPSC&course=507&section=101).
 
 The course will be adjusted according to your feedback, interests, and experience. This is an overview of the kinds of topics we could cover:
 
@@ -22,10 +22,11 @@ The course will be adjusted according to your feedback, interests, and experienc
 
 <!-- Mindmap from the [first lecture](mindmap.png). -->
 
+<!--
 Mindmap from the first lecture:
 
 <img src="slides/SE_MindMap_2018sept.png" width="640px" alt="SE Mind Map">  
-
+-->
 					
 ## Contact
 
@@ -38,20 +39,57 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 | Date      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
-| Sept 7   	| Course Intro 			                       | Reid   |
-| Sept 14    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
-| Sept 14 	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/) | Reid |
-| Sept 21   	| Cancelled 			                       | N/A   |
-| Sept 28   	| TBD 			                       | TBD   |
-| Oct 5   	| TBD &amp; Project Pitches         | TBD   |
-| Oct 12   	| TBD 			                       | TBD   |
-| Oct 19   	| TBD 			                       | TBD   |
-| Oct 26   	| TBD 			                       | TBD   |
-| Nov 2   	| TBD 			                       | TBD   |
-| Nov 9   	| TBD 			                       | TBD   |
-| Nov 16   	| TBD 			                       | TBD   |
-| Nov 23   	| Project Talks                     | Everyone   |
-| Nov 30   	| Program Committee Meeting         | Everyone   |
+| Sept 8   	| Course Intro 			                       | Reid   |
+| Sept 13    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
+| Sept 13 	| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/) | Reid |
+| Sept 15   	| TBD 			                       | TBD   |
+| Sept 15   	| TBD 			                       | TBD   |
+| Sept 20   	| TBD 			                       | TBD   |
+| Sept 20   	| TBD 			                       | TBD   |
+| Sept 22   	| TBD 			                       | TBD   |
+| Sept 22   	| TBD 			                       | TBD   |
+| Sept 27   	| TBD 			                       | TBD   |
+| Sept 27   	| TBD 			                       | TBD   |
+| Sept 29   	| TBD 			                       | TBD   |
+| Sept 29   	| TBD 			                       | TBD   |
+| Oct 4   	| TBD 			                       | TBD   |
+| Oct 4   	| TBD 			                       | TBD   |
+| Oct 6   	| TBD 			                       | TBD   |
+| Oct 6   	| TBD 			                       | TBD   |
+| Oct 11   	| TBD 			                       | TBD   |
+| Oct 11   	| TBD 			                       | TBD   |
+| Oct 13   	| TBD 			                       | TBD   |
+| Oct 13   	| TBD 			                       | TBD   |
+| Oct 18   	| TBD 			                       | TBD   |
+| Oct 18   	| TBD 			                       | TBD   |
+| Oct 20   	| TBD 			                       | TBD   |
+| Oct 20   	| TBD 			                       | TBD   |
+| Oct 25   	| TBD 			                       | TBD   |
+| Oct 25   	| TBD 			                       | TBD   |
+| Oct 27   	| TBD 			                       | TBD   |
+| Oct 27   	| TBD 			                       | TBD   |
+| Nov 1   	| TBD 			                       | TBD   |
+| Nov 1   	| TBD 			                       | TBD   |
+| Nov 3   	| TBD 			                       | TBD   |
+| Nov 3   	| TBD 			                       | TBD   |
+| Nov 8   	| TBD 			                       | TBD   |
+| Nov 8   	| TBD 			                       | TBD   |
+| Nov 10   	| TBD 			                       | TBD   |
+| Nov 10   	| TBD 			                       | TBD   |
+| Nov 15   	| TBD 			                       | TBD   |
+| Nov 15   	| TBD 			                       | TBD   |
+| Nov 17   	| TBD 			                       | TBD   |
+| Nov 17   	| TBD 			                       | TBD   |
+| Nov 22   	| TBD 			                       | TBD   |
+| Nov 22   	| TBD 			                       | TBD   |
+| Nov 24   	| TBD 			                       | TBD   |
+| Nov 24   	| TBD 			                       | TBD   |
+| Nov 22   	| TBD 			                       | TBD   |
+| Nov 22   	| TBD 			                       | TBD   |
+| Nov 24   	| TBD 			                       | TBD   |
+| Nov 24   	| TBD 			                       | TBD   |
+| Nov 29   	| Project Talks                     | Everyone   |
+| Dec 1   	| Program Committee Meeting         | Everyone   |
 
 <!--
 **Note: This is a tentative schedule that will firm up after the second week.**
