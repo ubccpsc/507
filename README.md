@@ -84,12 +84,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 17   	| TBD 			                       | TBD   |
 | Nov 22   	| TBD 			                       | TBD   |
 | Nov 22   	| TBD 			                       | TBD   |
-| Nov 24   	| TBD 			                       | TBD   |
-| Nov 24   	| TBD 			                       | TBD   |
-| Nov 22   	| TBD 			                       | TBD   |
-| Nov 22   	| TBD 			                       | TBD   |
-| Nov 24   	| TBD 			                       | TBD   |
-| Nov 24   	| TBD 			                       | TBD   |
+| Nov 24   	| Project Talks                     | Everyone   |
 | Nov 29   	| Project Talks                     | Everyone   |
 | Dec 1   	| Program Committee Meeting         | Everyone   |
 
@@ -158,7 +153,7 @@ You will get to select the two papers you want to present from the course. Pleas
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
-The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 8 reviews from class members (I will review every paper). These peer-reviews will comprise 15% of the final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). Here are links to two different reviews as well (one [positive](slides/icse2011review_ii.pdf) and one [negative](slides/icse2011review_crystal.pdf)) if you want concrete examples. *Remember, the final paper reviews must all be submitted to EasyChair by 0800 on Nov 24.* [EasyChair Submission Link](URL_TO_COME)
+The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 8 reviews from class members (I will review every paper). These peer-reviews will comprise 15% of the final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). Here are links to two different reviews as well (one [positive](slides/icse2011review_ii.pdf) and one [negative](slides/icse2011review_crystal.pdf)) if you want concrete examples. *Remember, the final paper reviews must all be submitted to EasyChair by 0800 on Nov 30.* [EasyChair Submission Link](URL_TO_COME)
 
 ## Project
 
@@ -170,7 +165,7 @@ There are three deliverables for your project:
 
 * **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on Nov 22 @ 0800 via Easychair.**
 
-* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your paper by this point, so you can assume some familiarity with your work. **This will happen on Nov 24.**
+* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your paper by this point, so you can assume some familiarity with your work. **This will happen on Nov 24 and Nov 29.**
 
 <!--
 * **Project presentation.** Each group will present their project in class on March 28/30; presentation order will be chosen by lottery so everyone must have their presentations ready on the 28th. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the presentation.
