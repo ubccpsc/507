@@ -4,7 +4,7 @@
 
 ## Upcoming Term
 
-* **2022 September** Will be offered at UBC
+* [2022 September](https://github.com/ubccpsc/507/tree/2022sept)
 
 ### Past Terms
 
