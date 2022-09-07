@@ -2,7 +2,7 @@
 
 # UBC CPSC 507 - Advanced Software Engineering
 
-## Upcoming Term
+## Current Term
 
 * [2022 September](https://github.com/ubccpsc/507/tree/2022sept)
 
