@@ -147,7 +147,7 @@ Each week, you will also submit a review for each of the papers being presented 
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](URL_TO_COME). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by Sept 13 @ 0800.* 
+You will get to select the two papers you want to present from the course. Please make your selections from [this list](paperList.md). Once you have selected your papers, enter the details in the following [paper choice spreadsheet](https://docs.google.com/spreadsheets/d/1igQYjbxl3rSjY8GUCwG257JqXHem8Bxm7b6xY67oJCY/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. *This must be done by Sept 13 @ 0800.* 
 
 ### Project reviews
 
