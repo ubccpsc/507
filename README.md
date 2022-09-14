@@ -44,8 +44,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 8   	| Course Intro 			                       | Reid   |
 | Sept 13    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
 | Sept 13 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
-| Sept 15   	| TBD 			                       | TBD   |
-| Sept 15   	| TBD 			                       | TBD   |
+| Sept 15   	| Qualtative Methods (Reading TBD)		| Reid   |
+| Sept 15   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
 | Sept 20   	| TBD 			                       | TBD   |
 | Sept 20   	| TBD 			                       | TBD   |
 | Sept 22   	| TBD 			                       | TBD   |
@@ -54,8 +54,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 27   	| TBD 			                       | TBD   |
 | Sept 29   	| TBD 			                       | TBD   |
 | Sept 29   	| TBD 			                       | TBD   |
-| Oct 4   	| TBD 			                       | TBD   |
-| Oct 4   	| TBD 			                       | TBD   |
+| Oct 4   	| Project Pitches 			       | Everyone   |
 | Oct 6   	| TBD 			                       | TBD   |
 | Oct 6   	| TBD 			                       | TBD   |
 | Oct 11   	| TBD 			                       | TBD   |
@@ -161,7 +160,7 @@ The project forms an integral part of this course. The projects can be completed
 
 There are three deliverables for your project:
 							
-* **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. If you wish to 'pitch' to the class to find additional team mates, please indicate this at the bottom of the proposal. For the pitch you will get 1-2 minutes to describe the project to try to entice others to join your group. NOTE: even if you pitch, you are still free to abandon your project and join a different one. **This will be due on Sept 27 @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute pitch for the project in class on Oct 5. An updated proposal should be submitted on **Oct 11 @ 0800 via email**.
+* **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. If you wish to 'pitch' to the class to find additional team mates, please indicate this at the bottom of the proposal. For the pitch you will get 1-2 minutes to describe the project to try to entice others to join your group. NOTE: even if you pitch, you are still free to abandon your project and join a different one. **This will be due on Sept 27 @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute pitch for the project in class on Oct 4. An updated proposal should be submitted on **Oct 11 @ 0800 via email**.
 
 * **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on Nov 22 @ 0800 via Easychair.**
 
