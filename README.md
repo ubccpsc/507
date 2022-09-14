@@ -44,7 +44,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 8   	| Course Intro 			                       | Reid   |
 | Sept 13    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
 | Sept 13 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
-| Sept 15   	| Qualtative Methods (Reading TBD)		| Reid   |
+| Sept 15   	| Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. | Reid   |
 | Sept 15   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
 | Sept 20   	| TBD 			                       | TBD   |
 | Sept 20   	| TBD 			                       | TBD   |
