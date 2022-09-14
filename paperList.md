@@ -14,6 +14,7 @@ This list is a work in progress.
 
 ### Research Methods
 
+* Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. [[DOI]](https://doi.org/10.1109/32.799955)
 * B. A. Kitchenham, S. L. Pfleeger, L. M. Pickard, et al.. Preliminary guidelines for empirical research in software engineering. Software Engineering, IEEE Transactions on, Vol. 28, No. 8\. (2002), pp. 721-734.
 * Jorge Aranda, Gina Venolia. The secret life of bugs: Going past the errors and omissions in software repositories. ICSE 2009: 298-308.
 * Jo E. Hannay, Dag I. K. Sjoberg, and Tore Dyba. 2007\. A Systematic Review of Theory Use in Software Engineering Experiments. IEEE Trans. Softw. Eng. 33, 2 (February 2007), 87-107.
