@@ -48,8 +48,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 15	| Card sort activity (No reading) | Reid | 
 | Sept 20   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
 | Sept 20   	| Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. TSE 2004. 			                       | Marie   |
-| Sept 22   	| TBD 			                       | TBD   |
-| Sept 22   	| TBD 			                       | TBD   |
+| Sept 22   	| Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE. 2015. 			                       | Tao   |
+| Sept 22   	| Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015. 			                       | Tarcisio   |
 | Sept 27   	| TBD 			                       | TBD   |
 | Sept 27   	| TBD 			                       | TBD   |
 | Sept 29   	| TBD 			                       | TBD   |
