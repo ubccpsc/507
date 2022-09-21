@@ -49,41 +49,24 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 20   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
 | Sept 20   	| Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. TSE 2004. 			                       | Marie   |
 | Sept 22   	| Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE. 2015. 			                       | Tao   |
-| Sept 22   	| Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015. 			                       | Tarcisio   |
-| Sept 27   	| TBD 			                       | TBD   |
-| Sept 27   	| TBD 			                       | TBD   |
-| Sept 29   	| TBD 			                       | TBD   |
-| Sept 29   	| TBD 			                       | TBD   |
+| Sept 27   	| Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015. 			                       | Tarcisio   |
+| Sept 29   	| Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2015. 			                       | Akumah   |
 | Oct 4   	| Project Pitches 			       | Everyone   |
-| Oct 6   	| TBD 			                       | TBD   |
-| Oct 6   	| TBD 			                       | TBD   |
-| Oct 11   	| TBD 			                       | TBD   |
-| Oct 11   	| TBD 			                       | TBD   |
-| Oct 13   	| TBD 			                       | TBD   |
-| Oct 13   	| TBD 			                       | TBD   |
-| Oct 18   	| TBD 			                       | TBD   |
-| Oct 18   	| TBD 			                       | TBD   |
-| Oct 20   	| TBD 			                       | TBD   |
-| Oct 20   	| TBD 			                       | TBD   |
-| Oct 25   	| TBD 			                       | TBD   |
+| Oct 6   	| Edsger W. Dijkstra. Go to statement considered harmful. CACM, 1968. (Additional paper TBD) 			                       | Jingxuan   |
+| Oct 11   	| Emerson Murphy-Hill, Chris Parnin, Andrew P. Black. How we refactor, and how we know it. ICSE 2009. 			                       | Rui   |
+| Oct 13   	| Emerson Murphy-Hill and Andrew P. Black. Breaking the Barriers to Successful Refactoring: Observations and Tools for Extract Method. ICSE 2008. 			                       | Madonna   |
+| Oct 18   	| David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. TSE 2011 | Shizuko   |
+| Oct 20   	| Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008. 			                       | Jifeng    |
 | Oct 25   	| TBD 			                       | TBD   |
 | Oct 27   	| TBD 			                       | TBD   |
-| Oct 27   	| TBD 			                       | TBD   |
-| Nov 1   	| TBD 			                       | TBD   |
 | Nov 1   	| TBD 			                       | TBD   |
 | Nov 3   	| TBD 			                       | TBD   |
-| Nov 3   	| TBD 			                       | TBD   |
-| Nov 8   	| TBD 			                       | TBD   |
 | Nov 8   	| TBD 			                       | TBD   |
 | Nov 10   	| TBD 			                       | TBD   |
-| Nov 10   	| TBD 			                       | TBD   |
-| Nov 15   	| TBD 			                       | TBD   |
 | Nov 15   	| TBD 			                       | TBD   |
 | Nov 17   	| TBD 			                       | TBD   |
-| Nov 17   	| TBD 			                       | TBD   |
 | Nov 22   	| TBD 			                       | TBD   |
-| Nov 22   	| TBD 			                       | TBD   |
-| Nov 24   	| Project Talks                     | Everyone   |
+| Nov 24   	| TBD                     		       | TBD   |
 | Nov 29   	| Project Talks                     | Everyone   |
 | Dec 1   	| Program Committee Meeting         | Everyone   |
 
