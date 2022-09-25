@@ -63,7 +63,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 3   	| TBD 			                       | TBD   |
 | Nov 8   	| TBD 			                       | TBD   |
 | Nov 10   	| TBD 			                       | TBD   |
-| Nov 15   	| TBD 			                       | TBD   |
+| Nov 15   	| Cancelled 			               | Cancelled   |
 | Nov 17   	| TBD 			                       | TBD   |
 | Nov 22   	| TBD 			                       | TBD   |
 | Nov 24   	| TBD                     		       | TBD   |
