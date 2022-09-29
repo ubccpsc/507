@@ -50,7 +50,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 20   	| Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. TSE 2004. 			                       | Marie   |
 | Sept 22   	| Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE. 2015. 			                       | Tao   |
 | Sept 27   	| Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015. 			                       | Tarcisio   |
-| Sept 29   	| Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2015. 			                       | Akumah   |
+| Sept 29   	| Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2014. 			                       | Akumah   |
 | Oct 4   	| Project Pitches 			       | Everyone   |
 | Oct 6   	| Edsger W. Dijkstra. Go to statement considered harmful. CACM, 1968. (Additional paper TBD) 			                       | Jingxuan   |
 | Oct 11   	| Emerson Murphy-Hill, Chris Parnin, Andrew P. Black. How we refactor, and how we know it. ICSE 2009. 			                       | Rui   |
