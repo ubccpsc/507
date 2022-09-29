@@ -85,7 +85,7 @@ This list is a work in progress.
 * Andrew J. Ko, Robert DeLine, and Gina Venolia, Information Needs in Collocated Software Development Teams, in ICSE '07: Proceedings of the 29th international conference on Software Engineering, IEEE Computer Society, Washington, DC, USA, May 2007.
 * Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. In IEEE Transactions on Software Engineering. 2008.
 * Jamie Starke, Chris Luce, Jonathan Sillito. Searching and Skimming: An Exploratory Study. In Proceedings of ICSM 2009.
-* Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2015
+* Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2014. [[DOI]](https://doi.org/10.1145/2635868.2635877)
 
 ### Traversing relationships
 
