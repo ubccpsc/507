@@ -52,7 +52,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 27   	| Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015. 			                       | Tarcisio   |
 | Sept 29   	| Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2014. 			                       | Akumah   |
 | Oct 4   	| Project Pitches 			       | Everyone   |
-| Oct 6   	| Edsger W. Dijkstra. Go to statement considered harmful. CACM, 1968. (Additional paper TBD) 			                       | Jingxuan   |
+| Oct 6   	| 2 papers: Edsger W. Dijkstra. Go to Statement Considered Harmful. CACM, 1968. Cory Kapser and Michael W. Godfrey. “Cloning Considered Harmful” Considered Harmful. WCRE 2006. | Jingxuan   |
 | Oct 11   	| Emerson Murphy-Hill, Chris Parnin, Andrew P. Black. How we refactor, and how we know it. ICSE 2009. 			                       | Rui   |
 | Oct 13   	| Emerson Murphy-Hill and Andrew P. Black. Breaking the Barriers to Successful Refactoring: Observations and Tools for Extract Method. ICSE 2008. 			                       | Madonna   |
 | Oct 18   	| David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. TSE 2011 | Shizuko   |
