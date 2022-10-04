@@ -66,7 +66,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 15   	| Cancelled 			               | Cancelled   |
 | Nov 17   	| TBD 			                       | TBD   |
 | Nov 22   	| TBD 			                       | TBD   |
-| Nov 24   	| TBD                     		       | TBD   |
+| Nov 24   	| Project Talks                     | Everyone   |
 | Nov 29   	| Project Talks                     | Everyone   |
 | Dec 1   	| Program Committee Meeting         | Everyone   |
 
