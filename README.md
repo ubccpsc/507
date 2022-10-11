@@ -56,8 +56,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 11   	| Emerson Murphy-Hill, Chris Parnin, Andrew P. Black. How we refactor, and how we know it. ICSE 2009. 			                       | Rui   |
 | Oct 13   	| Emerson Murphy-Hill and Andrew P. Black. Breaking the Barriers to Successful Refactoring: Observations and Tools for Extract Method. ICSE 2008. 			                       | Madonna   |
 | Oct 18   	| David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. TSE 2011 | Shizuko   |
-| Oct 20   	| Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008. 			                       | Jifeng    |
-| Oct 25   	| TBD 			                       | TBD   |
+| Oct 20   	| Cancelled 			                       | Cancelled   |
+| Oct 25   	| Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008. 			                       | Jifeng    |
 | Oct 27   	| TBD 			                       | TBD   |
 | Nov 1   	| TBD 			                       | TBD   |
 | Nov 3   	| TBD 			                       | TBD   |
