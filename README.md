@@ -61,8 +61,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 27   	| TBD 			                       | TBD   |
 | Nov 1   	| TBD 			                       | TBD   |
 | Nov 3   	| TBD 			                       | TBD   |
-| Nov 8   	| TBD 			                       | TBD   |
-| Nov 10   	| TBD 			                       | TBD   |
+| Nov 8   	| Cancelled - Project Work Week			| Cancelled   |
+| Nov 10   	| Cancelled - Project Work Week                 | Cancelled   |
 | Nov 15   	| Cancelled 			               | Cancelled   |
 | Nov 17   	| TBD 			                       | TBD   |
 | Nov 22   	| TBD 			                       | TBD   |
