@@ -58,11 +58,11 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 18   	| David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. TSE 2011. | Shizuko   |
 | Oct 20   	| Cancelled 			                       | Cancelled   |
 | Oct 25   	| Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008. 			                       | Jifeng    |
-| Oct 27   	| Don Dillman et. al. Internet, Phone, Mail, and Mixed-Mode Surveys: The Tailored Design Method. Ch. 4 (focus) & 5 (supplemental). (Ch 1 & 2 are also interesting) [UBC Library](https://ebookcentral.proquest.com/lib/ubc/reader.action?docID=1762797) 			                       | Reid   |
-| Nov 1   	| TBD 			                       | TBD   |
-| Nov 3   	| TBD 			                       | TBD   |
-| Nov 8   	| Cancelled - Project Work Week			| Cancelled   |
-| Nov 10   	| Cancelled - Project Work Week                 | Cancelled   |
+| Oct 27   	| Don Dillman et. al. Internet, Phone, Mail, and Mixed-Mode Surveys: The Tailored Design Method. Ch. 4 (focus) & 5 (supplemental). (Ch 1 & 2 are also interesting) [[UBC Library]](https://ebookcentral.proquest.com/lib/ubc/reader.action?docID=1762797) [[CMU Materials]](https://github.com/bvasiles/empirical-methods/blob/master/pages/sep27-surveys.md)			                       | Reid   |
+| Nov 1   	| Project Consultations | Reid   |
+| Nov 3   	| Project Consultations | Reid   |
+| Nov 8   	| Project Consultations			| Reid   |
+| Nov 10   	| Project Consultations                 | Reid   |
 | Nov 15   	| Cancelled 			               | Cancelled   |
 | Nov 17   	| TBD 			                       | TBD   |
 | Nov 22   	| TBD 			                       | TBD   |
