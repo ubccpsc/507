@@ -139,6 +139,7 @@ This list is a work in progress.
 * Peter Rigby and Christian Bird. Convergent Software Peer Review Practices. FSE 2013\. [[PDF]](http://www.cabird.com/papers/rigby2013convergent.pdf)
 * Alberto Bacchelli and Christian Bird. Expectations, Outcomes, and Challenges of Modern Code Review. ICSE 2013\. [[PDF]](http://www.cabird.com/papers/bacchelli2013eoc.pdf)
 * Tianyi Zhang, Myoungkyu Song, Joseph Pinedo, Miryung Kim. Interactive Code Review for Systematic Changes. ICSE 2015.
+* Enrico Fregnan, Larissa Braz, Marco D'Ambros, Gül Calikli, Alberto Bacchelli. First Come First Served: The Impact of File Position on Code Review. FSE 2022.
 
 ### Reporting and triaging bugs
 
