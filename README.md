@@ -64,7 +64,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 8   	| Project Consultations			| Reid   |
 | Nov 10   	| Project Consultations                 | Reid   |
 | Nov 15   	| Cancelled 			               | Cancelled   |
-| Nov 17   	| TBD 			                       | TBD   |
+| Nov 17   	| Enrico Fregnan et. al. First Come First Served: The Impact of File Position on Code Review. FSE 2022. | Nico   |
 | Nov 22   	| TBD 			                       | TBD   |
 | Nov 24   	| Project Talks                     | Everyone   |
 | Nov 29   	| Project Talks                     | Everyone   |
