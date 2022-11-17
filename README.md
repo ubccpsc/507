@@ -4,8 +4,9 @@
 
 Sept 8, 2022 -> Dec 1, 2022 (```2022W1```).
 
-
+<!--
 ### **NOTE: Attending the first class and submitting your paper selections by the deadline is required to pass the course. If you cannot do this, please get in touch with the instructor before the first class / paper submission deadline**
+-->
 
 # Overview
 
