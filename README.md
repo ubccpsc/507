@@ -45,6 +45,10 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 5   	| Course Intro 			                       | Reid   |
 | Sept 10    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
 | Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
+| ...   	| TBD		                     | TBD   |
+| Nov 26   	| Project Talks                     | Everyone   |
+| Nov 28   	| Project Talks                     | Everyone   |
+| Dec 5   	| Program Committee Meeting         | Everyone   |
 
 <!--
 | Sept 15   	| Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. | Reid   |
@@ -70,9 +74,6 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 17   	| Enrico Fregnan et. al. First Come First Served: The Impact of File Position on Code Review. FSE 2022. | Nico   |
 | Nov 22   	| Bird et. al. Does distributed development affect software quality? An empirical case study of Windows Vista. ICSE 2009. 			                       | Reid   |
 -->
-| Nov 26   	| Project Talks                     | Everyone   |
-| Nov 28   	| Project Talks                     | Everyone   |
-| Dec 5   	| Program Committee Meeting         | Everyone   |
 
 <!--
 **Note: This is a tentative schedule that will firm up after the second week.**
