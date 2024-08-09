@@ -2,7 +2,7 @@
 
 # UBC CPSC 507 - Advanced Software Engineering
 
-Sept 8, 2022 -> Dec 1, 2022 (```2022W1```).
+Sept 5, 2024 -> Dec 5, 2024 (```2024W1```).
 
 <!--
 ### **NOTE: Attending the first class and submitting your paper selections by the deadline is required to pass the course. If you cannot do this, please get in touch with the instructor before the first class / paper submission deadline**
@@ -42,9 +42,11 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 | Date      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
-| Sept 8   	| Course Intro 			                       | Reid   |
-| Sept 13    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
-| Sept 13 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
+| Sept 5   	| Course Intro 			                       | Reid   |
+| Sept 10    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
+| Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
+
+<!--
 | Sept 15   	| Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. | Reid   |
 | Sept 15	| Card sort activity (No reading) | Reid | 
 | Sept 20   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
@@ -67,9 +69,10 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 15   	| Cancelled 			               | Cancelled   |
 | Nov 17   	| Enrico Fregnan et. al. First Come First Served: The Impact of File Position on Code Review. FSE 2022. | Nico   |
 | Nov 22   	| Bird et. al. Does distributed development affect software quality? An empirical case study of Windows Vista. ICSE 2009. 			                       | Reid   |
-| Nov 24   	| Project Talks                     | Everyone   |
-| Nov 29   	| Project Talks                     | Everyone   |
-| Dec 1   	| Program Committee Meeting         | Everyone   |
+-->
+| Nov 26   	| Project Talks                     | Everyone   |
+| Nov 28   	| Project Talks                     | Everyone   |
+| Dec 5   	| Program Committee Meeting         | Everyone   |
 
 <!--
 **Note: This is a tentative schedule that will firm up after the second week.**
