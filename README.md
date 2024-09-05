@@ -4,6 +4,8 @@
 
 Sept 5, 2024 -> Dec 5, 2024 (```2024W1```).
 
+Tu/Th 1000-1130 ORCH 4068
+
 <!--
 ### **NOTE: Attending the first class and submitting your paper selections by the deadline is required to pass the course. If you cannot do this, please get in touch with the instructor before the first class / paper submission deadline**
 -->
