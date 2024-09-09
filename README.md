@@ -132,7 +132,7 @@ While reading the papers you should be able to answer the following five questio
 1. How could this research be extended?
 1. How could this research be applied in practice?
 
-Each week, you will also submit a review for each of the papers being presented that week at 2000 the day before class ([Paper Review Form](https://forms.gle/7p2eCwqKwxK1Kbnf9)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
+Each week, you will also submit a review for each of the papers being presented that week at 2000 the day before class ([Paper Review Form](https://forms.gle/QAWJph2MEx8jm9Bq6)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
