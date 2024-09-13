@@ -48,6 +48,26 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 10    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
 | Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
 | Sept 12   	| Neil A. Ernst, Stephany Bellomo, Ipek Ozkaya, Robert L. Nord, and Ian Gorton. Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt. FSE 2015 | Kyle   |
+| Sept 17       | TBD                               | TBD        |
+| Sept 19       | TBD                               | TBD        |
+| Sept 24       | TBD                               | TBD        |
+| Sept 26       | TBD                               | TBD        |
+| Oct 1         | TBD                               | TBD        |
+| Oct 3         | TBD                               | TBD        |
+| Oct 8         | TBD                               | TBD        |
+| Oct 10        | TBD                               | TBD        |
+| Oct 15        | TBD                               | TBD        |
+| Oct 17        | TBD                               | TBD        |
+| Oct 22        | TBD                               | TBD        |
+| Oct 24        | TBD                               | TBD        |
+| Oct 29        | TBD                               | TBD        |
+| Oct 31        | TBD                               | TBD        |
+| Nov 5         | TBD                               | TBD        |
+| Nov 7         | TBD                               | TBD        |
+| Nov 12        | Cancelled: Reading Week           | TBD        |
+| Nov 14        | TBD                               | TBD        |
+| Nov 19        | Cancelled                         | TBD        |
+| Nov 21        | Cancelled                         | TBD        |
 | Nov 26   	| Project Talks                     | Everyone   |
 | Nov 28   	| Project Talks                     | Everyone   |
 | Dec 5   	| Program Committee Meeting         | Everyone   |
