@@ -65,9 +65,9 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 5         | TBD                               | TBD        |
 | Nov 7         | TBD                               | TBD        |
 | Nov 12        | Cancelled: Reading Week           | TBD        |
-| Nov 14        | TBD                               | TBD        |
-| Nov 19        | Cancelled                         | TBD        |
-| Nov 21        | Cancelled                         | TBD        |
+| Nov 14        | Cancelled: Project Prep           | TBD        |
+| Nov 19        | Cancelled: Project Prep           | TBD        |
+| Nov 21        | Cancelled: Project Prep           | TBD        |
 | Nov 26   	| Project Talks                     | Everyone   |
 | Nov 28   	| Project Talks                     | Everyone   |
 | Dec 5   	| Program Committee Meeting         | Everyone   |
