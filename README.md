@@ -51,7 +51,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 17       | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                               | Kyle        |
 | Sept 19       | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE 2015 | Zahin        |
 | Sept 24       | TBD                               | TBD        |
-| Sept 26       | Project Proposal Time		    | TBD        |
+| Sept 26       | Focusted Project Proposal Prep (No Lecture) | TBD        |
 | Oct 1         | TBD                               | TBD        |
 | Oct 3         | TBD                               | TBD        |
 | Oct 8         | TBD                               | TBD        |
@@ -65,9 +65,9 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 5         | TBD                               | TBD        |
 | Nov 7         | TBD                               | TBD        |
 | Nov 12        | Cancelled: Reading Week           | TBD        |
-| Nov 14        | Cancelled: Project Prep           | TBD        |
-| Nov 19        | Cancelled: Project Prep           | TBD        |
-| Nov 21        | Cancelled: Project Prep           | TBD        |
+| Nov 14        | Focused Project Prep (No Lecture)           | TBD        |
+| Nov 19        | Focused Project Prep (No Lecture)           | TBD        |
+| Nov 21        | Focused Project Prep (No Lecture)           | TBD        |
 | Nov 26   	| Project Talks                     | Everyone   |
 | Nov 28   	| Project Talks                     | Everyone   |
 | Dec 5   	| Program Committee Meeting         | Everyone   |
