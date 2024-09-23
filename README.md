@@ -53,9 +53,9 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 24       | Herzig et. al. [The Art of Testing Less without Sacrificing Quality](https://doi.org/10.1109/ICSE.2015.66). ICSE 2015.  | Phoebe |
 | Sept 26       | Focused Project Proposal Prep (No Lecture) | TBD        |
 | Oct 1         | Galhotra et. al. [Fairness testing: testing software for discrimination](https://doi.org/10.1145/3106237.3106277). FSE 2018. | Angie |
-| Oct 3         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv. | Gauransh |
-| Oct 8         | TBD                               | TBD        |
-| Oct 10        | TBD                               | TBD        |
+| Oct 3         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv 2024. | Gauransh |
+| Oct 8         | Bird et. al. [Expectations, Outcomes, and Challenges of Modern Code Review](https://doi.org/10.1109/ICSE.2013.6606617). ICSE 2013. | Angie |
+| Oct 10        | Zhang. et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015. | Phoebe |
 | Oct 15        | TBD                               | TBD        |
 | Oct 17        | TBD                               | TBD        |
 | Oct 22        | TBD                               | TBD        |
