@@ -55,9 +55,9 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 1         | Galhotra et. al. [Fairness testing: testing software for discrimination](https://doi.org/10.1145/3106237.3106277). FSE 2018. | Angie |
 | Oct 3         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv 2024. | Gauransh |
 | Oct 8         | Bird et. al. [Expectations, Outcomes, and Challenges of Modern Code Review](https://doi.org/10.1109/ICSE.2013.6606617). ICSE 2013. | Angie |
-| Oct 10        | Zhang. et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015. | Phoebe |
-| Oct 15        | TBD                               | TBD        |
-| Oct 17        | TBD                               | TBD        |
+| Oct 10        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015. | Phoebe |
+| Oct 15        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024. | Gauransh |
+| Oct 17        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010. | Zahin |
 | Oct 22        | TBD                               | TBD        |
 | Oct 24        | TBD                               | TBD        |
 | Oct 29        | TBD                               | TBD        |
