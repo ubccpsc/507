@@ -56,10 +56,10 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 3         | Project Pitches & Discussion | All |
 | Oct 8         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv 2024. | Gauransh |
 | Oct 10         | Bird et. al. [Expectations, Outcomes, and Challenges of Modern Code Review](https://doi.org/10.1109/ICSE.2013.6606617). ICSE 2013. | Angie |
-| Oct 15        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015. | Phoebe |
-| Oct 17        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024. | Gauransh |
-| Oct 22        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010. | Zahin |
-| Oct 24        | TBD                               | TBD        |
+| Oct 15        | 1-1 Project Discussions | Everyone (schedule TBD) |
+| Oct 17        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015. | Phoebe |
+| Oct 22        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024. | Gauransh |
+| Oct 24        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010. | Zahin |
 | Oct 29        | TBD                               | TBD        |
 | Oct 31        | TBD                               | TBD        |
 | Nov 5         | TBD                               | TBD        |
