@@ -60,7 +60,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 17        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015. | Phoebe |
 | Oct 22        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024. | Gauransh |
 | Oct 24        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010. | Zahin |
-| Oct 29        | TBD                               | TBD        |
+| Oct 29        | Gupta et. al. [Growlithe: A Developer-Centric Compliance Tool for Serverless Applications](https://cirrus.ece.ubc.ca/papers/sp25_growlithe.pdf). SP 2025. | Angie        |
 | Oct 31        | TBD                               | TBD        |
 | Nov 5         | TBD                               | TBD        |
 | Nov 7         | TBD                               | TBD        |
