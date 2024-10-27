@@ -61,7 +61,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 22        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024. | Gauransh |
 | Oct 24        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010. | Zahin |
 | Oct 29        | Gupta et. al. [Growlithe: A Developer-Centric Compliance Tool for Serverless Applications](https://cirrus.ece.ubc.ca/papers/sp25_growlithe.pdf). SP 2025. | Angie        |
-| Oct 31        | TBD                               | TBD        |
+| Oct 31        | Zhang. [Detecting Code Comment Inconsistencies using LLM and Program Analysis](https://doi.org/10.1145/3663529.3664458). FSE 2024. & Stulova et. al. [Towards Detecting Inconsistent Comments in Java Source Code Automatically](https://doi.org/10.1109/SCAM51674.2020.00012). SCAM 2020. | Zahin & Phoebe        |
 | Nov 5         | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dl.acm.org/doi/10.5555/2486788.2486877). ICSE 2013. | Kyle        |
 | Nov 7         | TBD                               | TBD        |
 | Nov 12        | Cancelled: Reading Week           | TBD        |
