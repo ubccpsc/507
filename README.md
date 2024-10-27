@@ -141,7 +141,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 	
 ## Course Format
 
-This will be a paper-based seminar course. Each week we will read and discuss 3-4 papers. Everyone in the class will have an opportunity to give at least two ~30 minute paper presentations and lead a discussion ~30 minute discussion about the paper. While only one person will present each paper, it is expected that *everyone will read* all of the papers and contribute to the in-class discussion.
+This will be a paper-based seminar course. Each week we will read and discuss 2-4 papers. Everyone in the class will have an opportunity to give at least two ~30 minute paper presentations and lead a discussion ~30 minute discussion about the paper. While only one person will present each paper, it is expected that *everyone will read* all of the papers and contribute to the in-class discussion.
 
 While reading the papers you should be able to answer the following five questions:
 
