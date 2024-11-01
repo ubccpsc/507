@@ -63,11 +63,12 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 29        | Gupta et. al. [Growlithe: A Developer-Centric Compliance Tool for Serverless Applications](https://cirrus.ece.ubc.ca/papers/sp25_growlithe.pdf). SP 2025. | Angie        |
 | Oct 31        | Zhang. [Detecting Code Comment Inconsistencies using LLM and Program Analysis](https://doi.org/10.1145/3663529.3664458). FSE 2024. & Stulova et. al. [Towards Detecting Inconsistent Comments in Java Source Code Automatically](https://doi.org/10.1109/SCAM51674.2020.00012). SCAM 2020. | Zahin & Phoebe        |
 | Nov 5         | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dl.acm.org/doi/10.5555/2486788.2486877). ICSE 2013. | Kyle        |
-| Nov 7         | TBD                               | TBD        |
-| Nov 12        | Cancelled: Reading Week           | TBD        |
-| Nov 14        | Focused Project Prep (No Lecture)           | TBD        |
-| Nov 19        | Focused Project Prep (No Lecture)           | TBD        |
-| Nov 21        | Focused Project Prep (No Lecture)           | TBD        |
+| Nov 7         | Manotas et. al. [An Empirical Study of Practitioners’ Perspectives
+on Green Software Engineering](https://doi.org/10.1145/2884781.2884810). ICSE 2016. | Gauransh        |
+| Nov 12        | Cancelled: Reading Week           | N/A        |
+| Nov 14        | Focused Project Prep (No Lecture)           | N/A        |
+| Nov 19        | Focused Project Prep (No Lecture)           | N/A        |
+| Nov 21        | Focused Project Prep (No Lecture)           | N/A        |
 | Nov 26   	| Project Talks                     | Everyone   |
 | Nov 28   	| Project Talks                     | Everyone   |
 | Dec 5   	| Program Committee Meeting         | Everyone   |
