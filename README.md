@@ -64,13 +64,14 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 31        | Zhang. [Detecting Code Comment Inconsistencies using LLM and Program Analysis](https://doi.org/10.1145/3663529.3664458). FSE 2024. & Stulova et. al. [Towards Detecting Inconsistent Comments in Java Source Code Automatically](https://doi.org/10.1109/SCAM51674.2020.00012). SCAM 2020. | Zahin & Phoebe        |
 | Nov 5         | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dl.acm.org/doi/10.5555/2486788.2486877). ICSE 2013. | Kyle        |
 | Nov 7         | Manotas et. al. [An Empirical Study of Practitioners’ Perspectives on Green Software Engineering](https://doi.org/10.1145/2884781.2884810). ICSE 2016. | Gauransh        |
-| Nov 12        | Cancelled: Reading Week           | N/A        |
-| Nov 14        | Focused Project Prep (No Lecture)           | N/A        |
-| Nov 19        | Focused Project Prep (No Lecture)           | N/A        |
-| Nov 21        | Focused Project Prep (No Lecture)           | N/A        |
-| Nov 26   	| Project Talks                     | Everyone   |
-| Nov 28   	| Project Talks                     | Everyone   |
-| Dec 5   	| Program Committee Meeting         | Everyone   |
+| Nov 12        | Cancelled: Reading Week           		| N/A        |
+| Nov 14        | Focused Project Prep (No Lecture)           	| N/A        |
+| Nov 19        | Focused Project Prep (No Lecture)           	| N/A        |
+| Nov 21        | Focused Project Prep (No Lecture)           	| N/A        |
+| Nov 26   	| Project Talks                     		| Everyone   |
+| Nov 28   	| Project Talks                     		| Everyone   |
+| Dec 3         | Project Review Prep (No Lecture)           	| N/A        |
+| Dec 5   	| Program Committee Meeting         		| Everyone   |
 
 <!--
 | Sept 15   	| Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. | Reid   |
@@ -136,8 +137,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 * Seminar: 15%
 * Seminar Paper Reviews: 15%
 * Class Participation: 15%
-* Project: 40%
-* Project reviews: 15%
+* Project: 40% (Due Nov 24 @ AOE)
+* Project reviews: 15% (Due Dec 4 @ 0800)
 	
 ## Course Format
 
@@ -162,7 +163,7 @@ You will get to select the papers you want to present from the course. While a [
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
-The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 6 reviews from class members (I will review every paper). The peer-reviews you author will comprise 15% of your final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). A [differentiated review](slides/differentiatedReview.pdf) is provided for your consideration to help provide an example of good reviews for technical work. *Remember, the final paper reviews must all be submitted to EasyChair by the deadline above.* [EasyChair Submission Link](https://easychair.org/conferences/?conf=cpsc5072022)
+The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 6 reviews from class members (I will review every paper). The peer-reviews you author will comprise 15% of your final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). A [differentiated review](slides/differentiatedReview.pdf) is provided for your consideration to help provide an example of good reviews for technical work. **The final paper reviews for all assigned papers must all be submitted to EasyChair by the deadline above.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072024)
 
 ## Project
 
@@ -172,9 +173,9 @@ There are three deliverables for your project:
 							
 * **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. **This will be due on Sept 27 @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute presentation to the class for their project idea on Oct 4. An updated proposal should be submitted on **Oct 22 @ 0800 via email**. NOTE: You are still free to abandon your project and join a different one after the presentation, as long as you join a new group before the final proposal is submitted.
 
-* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **This will be due on Nov 22 @ 0800 via Easychair.**
+* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a PDF. This artifact will constitute 100% of the project grade. **Your final project report must be submitted to EsayChair by the deadline above.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072024)
 
-* **Project presentation.** Each team will give a 10-minute conference style talk about their project in class. Since you only have 10 minutes you will need to prioritize the work you did in the paper to fit the time limit. Remember: most people would have read your paper by this point, so you can assume some familiarity with your work. **This will happen on Nov 24 and Nov 29.**
+* **Project presentation.** Each team will give a 15-minute conference style talk about their project in class. Since you only have 15 minutes you will need to prioritize the work you did in the paper to fit the time limit. With the late deadline, most people probably will not have read the paper, but will have access to it. Paper presentation order will be the reverse of the EasyChair submission order. **This will happen on Nov 26 and Nov 28.**
 
 <!--
 * **Project presentation.** Each group will present their project in class on March 28/30; presentation order will be chosen by lottery so everyone must have their presentations ready on the 28th. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the presentation.
