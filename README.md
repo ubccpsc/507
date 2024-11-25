@@ -68,8 +68,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 14        | Focused Project Prep (No Lecture)           	| N/A        |
 | Nov 19        | Focused Project Prep (No Lecture)           	| N/A        |
 | Nov 21        | Focused Project Prep (No Lecture)           	| N/A        |
-| Nov 26   	| <ol><li>TBD</li><li>TBD</li></ol>                     		| Everyone   |
-| Nov 28   	| <ol><li>TBD</li><li>Xu &amp; Wahab. DoctorPy: LLM-Driven IDE Extension Identifying Function-level Documentation Inconsistencies in Python.</li></ol>                     		| Everyone   |
+| Nov 26   	| <ol><li>TBD</li><li>DeMarco. Evaluating Design of Privacy Automation and Discussion from Code.</li></ol>                     		| Everyone   |
+| Nov 28   	| <ol><li>Chin. Do We Actually Need Source Code Comments?</li><li>Xu &amp; Wahab. DoctorPy: LLM-Driven IDE Extension Identifying Function-level Documentation Inconsistencies in Python.</li></ol>                     		| Everyone   |
 | Dec 3         | Project Review Prep (No Lecture)           	| N/A        |
 | Dec 5   	| Program Committee Meeting         		| Everyone   |
 
