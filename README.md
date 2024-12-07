@@ -203,6 +203,10 @@ Each student is responsible for understanding and abiding by the University and 
 * [UBC policy on Academic Misconduct](http://www.calendar.ubc.ca/vancouver/index.cfm?tree=3,54,111,959)
 * [Computer Science Department Lab policies and responsibilities](https://www.cs.ubc.ca/our-department/administration/policies/collaboration)
 
+## AI Tool Usage
+
+It is allowed to use AI-based tools in this course. No restrictions are placed on how they are used for any software created to support your course project; the correct runtime behaviour of your programs are your responsibilty regardless of the tools used. With respect to any text-based submissions in this course, specifically the final project report, project reviews, and weekly paper reviews, AI tools can be used to correct _your_ writing, but cannot be used with _any_ text you did not author. Specifically, it is not allowable to provide any tool with text not written by you (e.g., you cannot upload text or whole paper PDFs) into any tool, unless all of the content being uploaded was written by you and/or your team. Regardless of the tools used, you are ultimately responsible any text submitted in this course and ensuring it faithfully, completely, and accurately reflects your work.
+
 ## Respectful Environment
 
 Everyone involved with CPSC 507 is responsible for understanding and abiding by UBC's [Respectful Environment Statement](http://www.hr.ubc.ca/respectful-environment/).
