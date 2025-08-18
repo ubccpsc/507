@@ -2,19 +2,17 @@
 
 # UBC CPSC 507 - Advanced Software Engineering
 
-Sept 5, 2024 -> Dec 5, 2024 (```2024W1```).
+Sept 3, 2025 -> Dec 3, 2025 (```2025W1```).
 
-Tu/Th 1000-1130 ORCH 4068
+Wednesdays 1400-1630 in FORW 519.
 
-<!--
 ### **NOTE: Attending the first class and submitting your paper selections by the deadline is required to pass the course. If you cannot do this, please get in touch with the instructor before the first class / paper submission deadline**
--->
 
 # Overview
-
+ 
 Software is a human product. Developers are intrinsic to software development; as systems scale in size and complexity, the challenges that developers must overcome rapidly increase. The theme of this Advanced Software Engineering course will be 'Human Aspects of Software Engineering'. We will examine why creating software is a hard problem and how these problems have been addressed and evaluated both in research and practice. We will focus on development-based activities (rather than planning or requirements-based activities). The course will be seminar-based and will involve weekly reading and discussion. The project will involve building a software development tool to address a problem you have faced writing software yourself; this will likely involve a large amount of programming. This course is offered by the [Department of Computer Science](http://www.cs.ubc.ca/) at the [University of British Columbia](http://ubc.ca).
 
-Lectures are held every Tuesday and Thursday from 1000 to 1130 in ORCH 4068. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in Workday.
+<!-- Lectures are held every Tuesday and Thursday from 1000 to 1130 in ORCH 4068. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in Workday. -->
 
 The course will be adjusted according to your feedback, interests, and experience. This is an overview of the kinds of topics we could cover:
 
@@ -37,43 +35,60 @@ Mindmap from the first lecture:
 
 The best way to get in touch with me is via email. Office hours are by appointment, but after class will generally be a good time.
 
-
 ## Schedule
 
 **Note: This is a tentative schedule that will firm up after the second week.**
 
-| Date      	| Paper						                    | Presenter |
-| :--       	|:--                                          | :--       |
-| Sept 5   	| Course Intro 			                       | Reid   |
-| Sept 10    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
-| Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
-| Sept 12   	| Ernst et. al. Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt. FSE 2015 | Kyle   |
-| Sept 17       | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                               | Kyle        |
-| Sept 19       | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE 2015 | Zahin |
-| Sept 24       | Herzig et. al. [The Art of Testing Less without Sacrificing Quality](https://doi.org/10.1109/ICSE.2015.66). ICSE 2015.  | Phoebe |
-| Sept 26       | Focused Project Proposal Prep (No Lecture) | TBD        |
-| Oct 1         | Galhotra et. al. [Fairness testing: testing software for discrimination](https://doi.org/10.1145/3106237.3106277). FSE 2018. | Angie |
-| Oct 3         | Project Pitches & Discussion | All |
-| Oct 8         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv 2024. | Gauransh |
-| Oct 10         | Bird et. al. [Expectations, Outcomes, and Challenges of Modern Code Review](https://doi.org/10.1109/ICSE.2013.6606617). ICSE 2013. | Angie |
-| Oct 15        | 1-1 Project Discussions | Everyone (schedule TBD) |
-| Oct 17        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015. | Phoebe |
-| Oct 22        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024. | Gauransh |
-| Oct 24        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010. | Zahin |
-| Oct 29        | Gupta et. al. [Growlithe: A Developer-Centric Compliance Tool for Serverless Applications](https://cirrus.ece.ubc.ca/papers/sp25_growlithe.pdf). SP 2025. | Angie        |
-| Oct 31        | Zhang. [Detecting Code Comment Inconsistencies using LLM and Program Analysis](https://doi.org/10.1145/3663529.3664458). FSE 2024. & Stulova et. al. [Towards Detecting Inconsistent Comments in Java Source Code Automatically](https://doi.org/10.1109/SCAM51674.2020.00012). SCAM 2020. | Zahin & Phoebe        |
-| Nov 5         | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dl.acm.org/doi/10.5555/2486788.2486877). ICSE 2013. | Kyle        |
-| Nov 7         | Manotas et. al. [An Empirical Study of Practitioners’ Perspectives on Green Software Engineering](https://doi.org/10.1145/2884781.2884810). ICSE 2016. | Gauransh        |
-| Nov 12        | Cancelled: Reading Week           		| N/A        |
-| Nov 14        | Focused Project Prep (No Lecture)           	| N/A        |
-| Nov 19        | Focused Project Prep (No Lecture)           	| N/A        |
-| Nov 21        | Focused Project Prep (No Lecture)           	| N/A        |
-| Nov 26   	| <ol><li>Tandon. PyMetER: Python Method-Level Energy Repair.</li><li>DeMarco. Evaluating Design of Privacy Automation and Discussion from Code.</li></ol>                     		| Everyone   |
-| Nov 28   	| <ol><li>Chin. Do We Actually Need Source Code Comments?</li><li>Xu &amp; Wahab. DoctorPy: LLM-Driven IDE Extension Identifying Function-level Documentation Inconsistencies in Python.</li></ol>                     		| Everyone   |
-| Dec 3         | Project Review Prep (No Lecture)           	| N/A        |
-| Dec 5   	| Program Committee Meeting         		| Everyone   |
+| Date      	 | Paper						                            | Presenter |
+|:------------|:---------------------------------------|:----------|
+| Sept 3  	   | Course Intro 			                       | Reid      |
+| Sept 10     | TBD 			                                | TBD       |
+| Sept 17     | TBD 			                                | TBD       |
+| Sept 24     | TBD 			                                | TBD       |
+| Oct 1       | TBD 			                                | TBD       |
+| Oct 8       | Cancelled (Reid Away) 			              | N/A       |
+| Oct 15      | TBD 			                                | TBD       |
+| Oct 22      | TBD 			                                | TBD       |
+| Oct 29      | TBD 			                                | TBD       |
+| Nov 5       | TBD 			                                | TBD       |
+| Nov 12      | Cancelled: Reading Week  		            | N/A       |
+| Nov 19      | Focused Project Prep (No Lecture) 			  | N/A       |
+| Nov 26      | Project Presentations 			              | Everyone  |
+| Dec 3       | Program Committee Meeting 			          | Everyone  |
 
 <!--
+2024
+| Sept 10    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.                                                                                                                                                                                                | Reid                    |
+| Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992.                                                                                                                                            | Reid                    |
+| Sept 12   	| Ernst et. al. Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt. FSE 2015                                                                                                                                                                                        | Kyle                    |
+| Sept 17       | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                                                                                                                                                                  | Kyle                    |
+| Sept 19       | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE 2015                                                                                        | Zahin                   |
+| Sept 24       | Herzig et. al. [The Art of Testing Less without Sacrificing Quality](https://doi.org/10.1109/ICSE.2015.66). ICSE 2015.                                                                                                                                                                     | Phoebe                  |
+| Sept 26       | Focused Project Proposal Prep (No Lecture)                                                                                                                                                                                                                                                 | TBD                     |
+| Oct 1         | Galhotra et. al. [Fairness testing: testing software for discrimination](https://doi.org/10.1145/3106237.3106277). FSE 2018.                                                                                                                                                               | Angie                   |
+| Oct 3         | Project Pitches & Discussion                                                                                                                                                                                                                                                               | All                     |
+| Oct 8         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv 2024.                                                                                                                                                                               | Gauransh                |
+| Oct 10         | Bird et. al. [Expectations, Outcomes, and Challenges of Modern Code Review](https://doi.org/10.1109/ICSE.2013.6606617). ICSE 2013.                                                                                                                                                         | Angie                   |
+| Oct 15        | 1-1 Project Discussions                                                                                                                                                                                                                                                                    | Everyone (schedule TBD) |
+| Oct 17        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015.                                                                                                                                                                           | Phoebe                  |
+| Oct 22        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024.                                                                                                                             | Gauransh                |
+| Oct 24        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010.                                                                                                                                   | Zahin                   |
+| Oct 29        | Gupta et. al. [Growlithe: A Developer-Centric Compliance Tool for Serverless Applications](https://cirrus.ece.ubc.ca/papers/sp25_growlithe.pdf). SP 2025.                                                                                                                                  | Angie                   |
+| Oct 31        | Zhang. [Detecting Code Comment Inconsistencies using LLM and Program Analysis](https://doi.org/10.1145/3663529.3664458). FSE 2024. & Stulova et. al. [Towards Detecting Inconsistent Comments in Java Source Code Automatically](https://doi.org/10.1109/SCAM51674.2020.00012). SCAM 2020. | Zahin & Phoebe          |
+| Nov 5         | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dl.acm.org/doi/10.5555/2486788.2486877). ICSE 2013.                                                                                                                                        | Kyle                    |
+| Nov 7         | Manotas et. al. [An Empirical Study of Practitioners’ Perspectives on Green Software Engineering](https://doi.org/10.1145/2884781.2884810). ICSE 2016.                                                                                                                                     | Gauransh                |
+| Nov 12        | Cancelled: Reading Week           		                                                                                                                                                                                                                                                       | N/A                     |
+| Nov 14        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
+| Nov 19        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
+| Nov 21        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
+| Nov 26   	| <ol><li>Tandon. PyMetER: Python Method-Level Energy Repair.</li><li>DeMarco. Evaluating Design of Privacy Automation and Discussion from Code.</li></ol>                     		                                                                                                            | Everyone                |
+| Nov 28   	| <ol><li>Chin. Do We Actually Need Source Code Comments?</li><li>Xu &amp; Wahab. DoctorPy: LLM-Driven IDE Extension Identifying Function-level Documentation Inconsistencies in Python.</li></ol>                     		                                                                    | Everyone                |
+| Dec 3         | Project Review Prep (No Lecture)           	                                                                                                                                                                                                                                               | N/A                     |
+| Dec 5   	| Program Committee Meeting         		                                                                                                                                                                                                                                                       | Everyone                |
+-->
+
+<!--
+2022
 | Sept 15   	| Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. | Reid   |
 | Sept 15	| Card sort activity (No reading) | Reid | 
 | Sept 20   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
@@ -99,8 +114,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 -->
 
 <!--
-**Note: This is a tentative schedule that will firm up after the second week.**
-
+2018
 | Date      	| Paper						                    | Presenter |
 | :--       	|:--                                          | :--       |
 | Jan 4   	| Course Intro 			                       | Reid   |
@@ -130,15 +144,14 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Mar 29    	| TBD | TBD |
 | Apr 3    	| In class project presentations. Reviews due. | &nbsp; |
 | Apr 5    	| In class PC Meeting | &nbsp; |
-
 -->
 
 ## Assessment
 * Seminar: 15%
 * Seminar Paper Reviews: 15%
 * Class Participation: 15%
-* Project: 40% (Due Nov 24 @ AOE)
-* Project reviews: 15% (Due Dec 4 @ 0800)
+* Project: 40% (Due Nov 24 @ Noon)
+* Project reviews: 15% (Due Dec 1 @ Noon)
 	
 ## Course Format
 
@@ -157,7 +170,7 @@ Each week, you will also submit a review for each of the papers being presented 
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1DUeH5eoHcMiZIlILl6Z9-Jdmr35GHknXYkLFofE5Lbs/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. *This must be done by Sept 13 @ 0800.* 
+You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1oKbKsSTw91Dntuc52Pn7WpFW8GvaO2O8K0mvSDvqR9I/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. *This must be done by Sept 8 @ Noon.* 
 
 ### Project reviews
 
