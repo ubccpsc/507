@@ -1,6 +1,17 @@
 # CPSC 507 Paper List
 
-Here is a list of possible papers for this course. This list was adapted and modified from Latoza & Meyers' HASD course at CMU. If there is some other paper you would like to present that you think is relevant but is not on this list just send me mail and we can talk about it.
+Here is a list of possible papers for this course. It is incomplete, and lacks AI-related content. If you're wondering about papers, anything presented at the following conferences will be in-bounds for this class!
+
+* ICSE (International Conference on Software Engineering)
+* FSE or ESEC/FSE (Foundations of Software Engineering)
+* TSE (Transactions on Software Engineering)
+* TOSEM (Transactions on Software Engineering Methodology)
+* SPLASH / OOPSLA (Conference on Systems, Programs, Applications, and Software for Humanity)
+* VL/HCC (International Conference on Visual Languages and Human-Centric Computing)
+* ICPC (International Conference on Program Comprehension)
+
+
+This list was adapted and modified from Latoza & Meyers' HASD course at CMU. If there is some other paper you would like to present that you think is relevant but is not on this list just send me mail and we can talk about it.
 
 This list is a work in progress.
 
