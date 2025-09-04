@@ -42,7 +42,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Date      	 | Paper						                            | Presenter |
 |:------------|:---------------------------------------|:----------|
 | Sept 3  	   | Course Intro 			                       | Reid      |
-| Sept 10     | TBD 			                                | TBD       |
+| Sept 10    | Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
+| Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
 | Sept 17     | TBD 			                                | TBD       |
 | Sept 24     | TBD 			                                | TBD       |
 | Oct 1       | TBD 			                                | TBD       |
