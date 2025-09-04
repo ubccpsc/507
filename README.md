@@ -158,6 +158,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 This will be a paper-based seminar course. Each week we will read and discuss 2-4 papers. Everyone in the class will have an opportunity to give at least two ~30 minute paper presentations and lead a discussion ~30 minute discussion about the paper. While only one person will present each paper, it is expected that *everyone will read* all of the papers and contribute to the in-class discussion.
 
+### Paper Reviews
+
 While reading the papers you should be able to answer the following five questions:
 
 1. What were the primary contributions of the paper as the author sees it?
@@ -167,13 +169,13 @@ While reading the papers you should be able to answer the following five questio
 1. How could this research be extended?
 1. How could this research be applied in practice?
 
-Each week, you will also submit a review for each of the papers being presented that week at 2000 the day before class ([Paper Review Form](https://forms.gle/QAWJph2MEx8jm9Bq6)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
+Each week, you will also submit a review for each of the papers being presented that week at 2000 the day before class ([Paper Review Form](https://forms.gle/hfMKABHrPsZRbaDs7)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
 You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1oKbKsSTw91Dntuc52Pn7WpFW8GvaO2O8K0mvSDvqR9I/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. *This must be done by Sept 8 @ Noon.* 
 
-### Project reviews
+### Project Reviews
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
