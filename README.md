@@ -47,9 +47,9 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 17     | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dx.doi.org/10.1109/ICSE.2013.6606613). ICSE, 2013. | Zung       |
 | Sept 17     | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE, 2015. | Jenny       |
 | Sept 24     | Yang et. al. [On the Evaluation of Large Language Models in Unit Test Generation](https://dx.doi.org/10.1145/3691620.3695529). ASE, 2024. | Partha       |
-| Sept 24     | Shamshiri et. al. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges.](https://dx.doi.org/10.1109/ASE.2015.86). ASE, 2015.		                                | Zung       |
-| Oct 1       | TBD 			                                | TBD       |
-| Oct 1       | TBD 			                                | TBD       |
+| Sept 24     | Shamshiri et. al. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges](https://dx.doi.org/10.1109/ASE.2015.86). ASE, 2015. | Zung       |
+| Oct 1       | Seaman. [Qualitative Methods in Empirical Studies of Software Engineering](https://dx.doi.org/10.1109/32.799955). TSE 1999. | Alice       |
+| Oct 1       | Siegmund et. al. [Views on Internal and External Validity in Empirical Software Engineering](https://dx.doi.org/10.1109/ICSE.2015.24). ICSE, 2015. | Sarah       |
 | Oct 8       | Cancelled (Reid Away) 			              | N/A       |
 | Oct 15      | TBD 			                                | TBD       |
 | Oct 22      | TBD 			                                | TBD       |
