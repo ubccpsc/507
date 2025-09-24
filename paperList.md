@@ -97,6 +97,7 @@ This list is a work in progress.
 * Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. In IEEE Transactions on Software Engineering. 2008.
 * Jamie Starke, Chris Luce, Jonathan Sillito. Searching and Skimming: An Exploratory Study. In Proceedings of ICSM 2009.
 * Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2014. [[DOI]](https://doi.org/10.1145/2635868.2635877)
+* Nataliia Stulova, Arianna Blasi, Alessandra Gorla, Oscar Nierstrasz. Towards Detecting Inconsistent Comments in Java Source Code Automatically. SCAM 2020. [[DOI]](https://doi.org/10.1109/SCAM51674.2020.00012)
 
 ### Traversing relationships
 
@@ -154,11 +155,11 @@ This list is a work in progress.
 
 ### Reporting and triaging bugs
 
-* Oscar Chaparro, Jing Lu, Fiorella Zampetti, Laura Moreno, Massimiliano Di Penta, Andrian Marcus, Gabriele Bavota, and Vincent Ng. Detecting missing information in bug descriptions. Foundations on Software Engineering (ESEC/FSE). 2017.
-* Ko, A. J. and Chilana P. (2010). How Power Users Help and Hinder Open Bug Reporting. ACM Conference on Human Factors in Computing Systems (CHI), Atlanta, GA, 1665-1674.
-* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy. Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows. In ICSE, 2010.
-* Nicolas Bettenburg, Sascha Just, Adrian Schroter, Cathrin Weiss, Rahul Premraj, Thomas Zimmermann. What Makes a Good Bug Report?. In FSE, 2008.
-* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy. "Not My Bug!" and Other Reasons for Software Bug Report Reassignments. In CSCW, 2011.
+* Oscar Chaparro, Jing Lu, Fiorella Zampetti, Laura Moreno, Massimiliano Di Penta, Andrian Marcus, Gabriele Bavota, and Vincent Ng. Detecting missing information in bug descriptions. ESEC/FSE 2017.
+* Ko, A. J. and Chilana P. How Power Users Help and Hinder Open Bug Reporting. ACM Conference on Human Factors in Computing Systems. CHI 2010.
+* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy. Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows. ICSE 2010.
+* Nicolas Bettenburg, Sascha Just, Adrian Schroter, Cathrin Weiss, Rahul Premraj, Thomas Zimmermann. What Makes a Good Bug Report?. FSE 2008.
+* Philip J. Guo, Thomas Zimmermann, Nachiappan Nagappan, Brendan Murphy. "Not My Bug!" and Other Reasons for Software Bug Report Reassignments. CSCW 2011.
 * Dane Bertram, Amy Voida, Saul Greenberg, Robert Walker. Communication, Collaboration, and Bugs: The Social Nature of Issue Tracking in Small, Collocated Teams. CSCW 2010.
 * Anvik, J., Hiew, L., and Murphy, G.C. (2006). Who should fix this bug? Proc. ICSE 2006, ACM Press 2006.
 
@@ -170,21 +171,28 @@ This list is a work in progress.
 * Henry Lieberman and Christopher Fry. 1995\. Bridging the gulf between code and behavior in programming. In Proceedings of the SIGCHI conference on Human factors in computing systems (CHI '95), 480-486.
 * Bjoern Hartmann, Daniel MacDougall, Joel Brandt, Scott R. Klemmer. What Would Other Programmers Do? Suggesting Solutions to Error Messages. CHI: ACM Conference on Human Factors in Computing Systems, Atlanta, GA, 2010.
 * Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008\. [[PDF]](http://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf)
-* Andrew J. Ko and Brad A. Myers. Finding causes of program output with the Java Whyline. Human Factors in Computing Systems (CHI). 2009.
+* Andrew J. Ko and Brad A. Myers. Finding causes of program output with the Java Whyline. CHI 2009.
 
 
 ### Testing
 
-* Sainyam Galhotra, Yuriy Brun, and Alexandra Meliou. Fairness testing: testing software for discrimination. ESEC/FSE. 2017.
-* by Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE. 2015.
+* Sainyam Galhotra, Yuriy Brun, and Alexandra Meliou. Fairness testing: testing software for discrimination. ESEC/FSE 2017.
+* by Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE 2015.
 * Hyunmin Seo, Caitlin Sadowski, Sebastian Elbaum, Edward Aftandilian, and Robert Bowdidge. Programmers' Build Errors: A Case Study (at Google). ICSE 2014.
-* Laura Inozemtseva and Reid Holmes. Coverage Is Not Strongly Correlated with Test Suite Effectiveness. ICSE 2014
+* Laura Inozemtseva and Reid Holmes. Coverage Is Not Strongly Correlated with Test Suite Effectiveness. ICSE 2014.
 * Sebastian Elbaum, Gregg Rothermel, and John Penix. Techniques for Improving Regression Testing in Continuous Integration Development Environments. FSE 2014.
 * René Just, Darioush Jalali, Laura Inozemtseva, Michael D. Ernst, Reid Holmes, and Gordon Fraser. Are Mutants a Valid Substitute for Real Faults in Software Testing? FSE 2014.
 * Hao Zhong, Zhendong Su. An Empirical Study on Fixing Real Bugs. ICSE 2015.
 * Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015.
 * Yucheng Zhang and Ali Mesbah. Assertions Are Strongly Correlated with Test Suite Effectiveness. FSE 2015.
-* Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE 2015
+* Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE 2015.
+* Madeline Endres, Sarah Fakhoury, Saikat Chakraborty, Shuvendu K. Lahiri. Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?. FSE 2024. [[DOI]](https://doi.org/10.1145/3660791)
+* Soneya Binta Hossain, Matthew B. Dwyer. TOGLL: Correct and Strong Test Oracle Generation with LLMS. ICSE 2025. [[DOI]](https://doi.ieeecomputersociety.org/10.1109/ICSE55347.2025.00098)
+  
+### Program Repair
+
+* Claire Le Goues, Michael Dewey-Vogt, Stephanie Forrest, Westley Weimer. A systematic study of automated program repair: Fixing 55 out of 105 bugs for $8 each. ICSE 2012. [[DOI]](https://doi.org/10.1109/ICSE.2012.6227211)
+* Yuntong Zhang, Haifeng Ruan, Zhiyu Fan, Abhik Roychoudhury. AutoCodeRover: Autonomous Program Improvement. ISSTA 2024. [[DOI]](https://doi.org/10.1145/3650212.3680384)
 
 <!--  DESIGN
 
