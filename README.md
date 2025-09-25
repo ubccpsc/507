@@ -52,9 +52,13 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 1       | Seaman. [Qualitative Methods in Empirical Studies of Software Engineering](https://dx.doi.org/10.1109/32.799955). TSE 1999. | Alice |
 | Oct 1       | Siegmund et. al. [Views on Internal and External Validity in Empirical Software Engineering](https://dx.doi.org/10.1109/ICSE.2015.24). ICSE, 2015. | Sarah |
 | Oct 8       | Cancelled (Reid Away) 			                | N/A       |
-| Oct 15      | TBD 			                                | TBD       |
+| Oct 15      | Endrikat et. al. [How do API documentation and static typing affect API usability?](https://dx.doi.org/10.1145/2568225.2568299). ICSE, 2014. | Alan       |
+| Oct 15      | Guo et. al. [Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows](https://dx.doi.org/10.1145/1806799.1806871). ICSE, 2010. | Partha |
+| Oct 22      | Al-Kaswan et. al. [Code Red! On the Harmfulness of Applying Off-the-Shelf Large Language Models to Programming Tasks](https://dx.doi.org/10.1145/3729380). FSE, 2025. | Tawkat |
 | Oct 22      | TBD 			                                | TBD       |
 | Oct 29      | TBD 			                                | TBD       |
+| Oct 29      | TBD 			                                | TBD       |
+| Nov 5       | TBD 			                                | TBD       |
 | Nov 5       | TBD 			                                | TBD       |
 | Nov 12      | Cancelled: Reading Week  		                | N/A       |
 | Nov 19      | Focused Project Prep (No Lecture) 			    | N/A       |
