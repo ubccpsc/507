@@ -55,11 +55,11 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 15      | Endrikat et. al. [How do API documentation and static typing affect API usability?](https://dx.doi.org/10.1145/2568225.2568299). ICSE, 2014. | Alan       |
 | Oct 15      | Guo et. al. [Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows](https://dx.doi.org/10.1145/1806799.1806871). ICSE, 2010. | Partha |
 | Oct 22      | Al-Kaswan et. al. [Code Red! On the Harmfulness of Applying Off-the-Shelf Large Language Models to Programming Tasks](https://dx.doi.org/10.1145/3729380). FSE, 2025. | Tawkat |
-| Oct 22      | TBD 			                                | TBD       |
-| Oct 29      | TBD 			                                | TBD       |
-| Oct 29      | TBD 			                                | TBD       |
-| Nov 5       | TBD 			                                | TBD       |
-| Nov 5       | TBD 			                                | TBD       |
+| Oct 22      | Sens et. al. [A Large-Scale Study of Model Integration in ML-Enabled Software Systems](https://dx.doi.org/10.1109/ICSE55347.2025.00185). ICSE 2025.	| Ayanfe |
+| Oct 29      | Storey.	[Theories, Methods, and Tools in Program Comprehension: Past, Present, and Future](https://dx.doi.org/10.1109/WPC.2005.38). TBD, TBD. | Sarah |
+| Oct 29      | Ying et. al. [Selection and presentation practices for code example summarization.](https://dx.doi.org/10.1145/2635868.2635877). TBD, TBD. | Cheng |
+| Nov 5       | Li et. al. [What Makes a Great Software Engineer?](https://dx.doi.org/10.1109/ICSE.2015.335). TBD, TBD. | Alice |
+| Nov 5       | Sillito et. al. [Questions Programmers Ask During Software Evolution Tasks](https://dx.doi.org/10.1145/1181775.1181779). TBD, TBD. | Alan |
 | Nov 12      | Cancelled: Reading Week  		                | N/A       |
 | Nov 19      | Focused Project Prep (No Lecture) 			    | N/A       |
 | Nov 26      | Project Presentations 			                | Everyone  |
