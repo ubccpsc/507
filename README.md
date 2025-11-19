@@ -199,11 +199,7 @@ There are three deliverables for your project:
 
 * **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a two-column PDF. This artifact will constitute 100% of the project grade. The report body must be 10 pages or less. You can add 2 additional pages of references and can additionally have appendicies if required. **Your final project report must be submitted to EsayChair by the deadline above.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072025)
 
-* **Project presentation.** Each team will give a 15-minute conference style talk about their project in class. Since you only have 15 minutes you will need to prioritize the work you did in the paper to fit the time limit. With the late deadline, most people probably will not have read the paper, but will have access to it. Paper presentation order will be the reverse of the EasyChair submission order. **This will happen on Nov 26 and Nov 28.**
-
-<!--
-* **Project presentation.** Each group will present their project in class on March 28/30; presentation order will be chosen by lottery so everyone must have their presentations ready on the 28th. This presentation should take the form of a 15 minute (hard maximum) conference-style talk and describe the motivation for your work, what you did, and what you found. If a demo is the best way to describe what you did, feel free to include one in the middle of the talk. There will be time for questions after the presentation.
--->
+* **Project presentation.** Each team will give a 15-minute conference style talk about their project in class. Since you only have 15 minutes (including questions) you will need to prioritize the work you did in the paper to fit the time limit (the 15 minute cap will be strictly enforced). With the late deadline, most people probably will not have read the paper, but will have access to it. Paper presentation order will be the reverse of the EasyChair submission order. **This will happen on Nov 26.**
 
 I have included a brief description of five of the projects from previous years.
 
@@ -217,7 +213,7 @@ I have included a brief description of five of the projects from previous years.
 
 ### Late Submissions
 
-Late submissions cannot be accepted.
+Late submissions (for the project, paper reviews, and project reviews) cannot be accepted.
 
 
 ## Academic Conduct
