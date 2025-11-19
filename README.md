@@ -61,7 +61,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 5       | Focused Project Prep (No Lecture) 			    | N/A       |
 | Nov 12      | Cancelled: Reading Week  		                | N/A       |
 | Nov 19      | Li et. al. [What Makes a Great Software Engineer?](https://dx.doi.org/10.1109/ICSE.2015.335). ICSE, 2015. | Alice |
-| Nov 19      | Sillito et. al. [Questions Programmers Ask During Software Evolution Tasks](https://dx.doi.org/10.1145/1181775.1181779). FSE, 2014. | Alan |
+| Nov 19      | Sillito et. al. [Questions Programmers Ask During Software Evolution Tasks](https://dx.doi.org/10.1145/1181775.1181779). FSE, 2006. | Alan |
 | Nov 26      | Project Presentations 			                | Everyone  |
 | Dec 3       | Presentations & Program Committee Meeting       | Everyone  |
 
