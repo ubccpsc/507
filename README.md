@@ -155,39 +155,27 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Apr 5    	| In class PC Meeting | &nbsp; |
 -->
 
+<!--
 ## Assessment
 * Seminar: 15%
 * Seminar Paper Reviews: 15%
 * Class Participation: 15%
 * Project: 40% (Due Nov 24 @ Noon)
 * Project reviews: 15% (Due Dec 1 @ Noon)
-	
+-->
+
 ## Course Format
 
-This will be a paper-based seminar course. Each week we will read and discuss 2-4 papers. Everyone in the class will have an opportunity to give at least two ~30 minute paper presentations and lead a discussion ~30 minute discussion about the paper. While only one person will present each paper, it is expected that *everyone will read* all of the papers and contribute to the in-class discussion.
+The main components of this course are described below:
 
-### Project (40%; Final report due Nov 24 @ Noon)
+### Seminar (15%; Paper choices due Sept 8 @ noon)
 
-The project forms an integral part of this course. The projects can be completed in groups of up to three. The intent of the project is to identify a real development shortcoming faced by engineers and create a tool to improve this problem.
+Each student will present one or two papers during the term and will lead a discussion of that paper. The presentation should last 20-30 minutes; discussions typically range 30-40 minutes. You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1oKbKsSTw91Dntuc52Pn7WpFW8GvaO2O8K0mvSDvqR9I/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. 
 
-There are three deliverables for your project:
-							
-* **Project proposal.** Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. **This will be due on Sept 29 @ 0800 via email.** Each proposal will receive feedback and will present a 5 minute presentation to the class for their project idea on Oct 4. An updated proposal should be submitted on **Oct 22 @ 0800 via email**. NOTE: You are still free to abandon your project and join a different one after the presentation, as long as you join a new group before the final proposal is submitted.
+### Class Participation (15%; Every class)
 
-* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a two-column PDF. This artifact will constitute 100% of the project grade. The report body must be 10 pages or less. You can add 2 additional pages of references and can additionally have appendicies if required. **Your final project report must be submitted using EsayChair by the deadline above.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072025)
+This is a seminar-based class that depends on your active participation to be successful. You will get out of these discussions what you put into them. Since every member of the class will have read every paper (and submitted a corresponding summary), everyone should come to class prepared to discuss each of the papers presented each week.
 
-* **Project presentation.** Each team will give a 15-minute conference style talk about their project in class. Since you only have 15 minutes (including questions) you will need to prioritize the work you did in the paper to fit the time limit (the 15 minute cap will be strictly enforced). With the late deadline, most people probably will not have read the paper, but will have access to it. Paper presentation order will be the reverse of the EasyChair submission order. **This will happen on Nov 26.**
-
-I have included a brief description of five of the projects from previous years.
-
-* *Answering developers’ questions using information fragments in a heterogeneous development environment.* In this project, the authors developed a novel approach to model online programming threads (e.g., Stack Overflow). This paper was extended subsequent to the course and was published in VLHCC 2012.
-
-* *Semantic-Based Code Search Evaluation: An Exploratory Study.* By evaluating three different code search engines, the authors aimed to identify high-level strengths and weaknesses that could be used to suggest future improvements for hybrid code search approaches.
-	
-* *NavTracks: The Next Generation.* This paper evaluated the existing NavTracks tool to determine how the tool worked in practice and to suggest future avenues for research in this space.
-
-* *File Recommendation Based on File Interactions: A Clustering Approach to File Recommendations.* A new approach for leveraging code navigation paths (in a similar manner to NavTracks) was developed and the quality of the recommended artifacts evaluated.
-  
 ### Paper Reviews (15%; Due each week before class)
 
 While reading the papers you should be able to answer the following five questions:
@@ -203,9 +191,29 @@ Each week, you will also submit a review for each of the papers being presented 
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1oKbKsSTw91Dntuc52Pn7WpFW8GvaO2O8K0mvSDvqR9I/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. *This must be done by Sept 8 @ Noon.* 
+### Project Proposal (v1 Due Sept 29 @ noon; v2 Due Oct 22 @ noon)
 
-### Project Reviews (15%; Due Nov 24 @ noon)
+The project forms an integral part of this course. The projects can be completed in groups of up to three. The intent of the project is to identify a real development shortcoming faced by engineers and create a tool to improve this problem.
+							
+Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. **This first version will be due on Sept 29 @ noon via email.** Each proposal will receive feedback and will present a 5 minute presentation to the class for their project idea on **Oct 4**. Version 2 of the proposal should be submitted on **Oct 22 @ noon via email**. NOTE: You are still free to abandon your project and join a different one after the presentation, as long as you join a new group before the final proposal is submitted.
+
+Here are a few projects students have completed in past years to get a flavour of their domain and complexity:
+
+* *Answering developers’ questions using information fragments in a heterogeneous development environment.* In this project, the authors developed a novel approach to model online programming threads (e.g., Stack Overflow). This paper was extended subsequent to the course and was published in VLHCC.
+
+* *Semantic-Based Code Search Evaluation: An Exploratory Study.* By evaluating three different code search engines, the authors aimed to identify high-level strengths and weaknesses that could be used to suggest future improvements for hybrid code search approaches.
+	
+* *NavTracks: The Next Generation.* This paper evaluated the existing NavTracks tool to determine how the tool worked in practice and to suggest future avenues for research in this space.
+
+* *File Recommendation Based on File Interactions: A Clustering Approach to File Recommendations.* A new approach for leveraging code navigation paths (in a similar manner to NavTracks) was developed and the quality of the recommended artifacts evaluated.
+  
+### Project (40%; Final report due Nov 24 @ Noon)
+
+* **Written report.** The required length of the written report varies from project to project; all reports must be formatted according to the <a href="https://www.acm.org/publications/proceedings-template">ACM format</a> (use the ```sigconf``` style) and submitted as a two-column PDF. This artifact will constitute 100% of the project grade. The report body must be 10 pages or less. You can add 2 additional pages of references and can additionally have appendicies if required. **Your final project report must be submitted using EsayChair by the deadline above.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072025)
+
+* **Project presentation.** Each team will give a 15-minute conference style talk about their project in class. Since you only have 15 minutes (including questions) you will need to prioritize the work you did in the paper to fit the time limit (the 15 minute cap will be strictly enforced). With the late deadline, most people probably will not have read the paper, but will have access to it. Paper presentation order will be the reverse of the EasyChair submission order. **This will happen on Nov 26.**
+
+### Project Reviews (15%; Due Dec 1 @ noon)
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
