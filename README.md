@@ -187,7 +187,17 @@ You will get to select the papers you want to present from the course. While a [
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
-The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 6 reviews from class members (I will review every paper). The peer-reviews you author will comprise 15% of your final mark. Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). A [differentiated review](slides/differentiatedReview.pdf) is provided for your consideration to help provide an example of good reviews for technical work. **The final paper reviews for all assigned papers must all be submitted to EasyChair by Nov 24 @ noon.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072025)
+The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 6 reviews from class members (I will review every paper). Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). A [differentiated review](slides/differentiatedReview.pdf) is provided for your consideration to help provide an example of good reviews for technical work. 
+
+A conference review always contains the following elements (you should include each of these components):
+
+* A paragraph or two summarizing what you took away from the paper. This helps the authors understand what _you_ understood the paper to be about, which is helpful for learning how the paper does/does not accurately convey what you expected.
+* 2-4 strengths of the work.
+* 2-4 weaknesses of the work.
+* A paragraph describing the novelty and impact of the work. In the context of a course project, this often ends up examining how clearly the work is motivated and how the paper matches the motivation.
+* A detailed review of the approach and its evaluation. This comprises the bulk of the review.
+
+**The final paper reviews for all assigned papers must all be submitted to EasyChair by Nov 24 @ noon.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072025)
 
 ## Project
 
