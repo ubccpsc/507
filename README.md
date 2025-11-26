@@ -213,7 +213,7 @@ Here are a few projects students have completed in past years to get a flavour o
 
 * **Project presentation.** Each team will give a 15-minute conference style talk about their project in class. Since you only have 15 minutes (including questions) you will need to prioritize the work you did in the paper to fit the time limit (the 15 minute cap will be strictly enforced). With the late deadline, most people probably will not have read the paper, but will have access to it. Paper presentation order will be the reverse of the EasyChair submission order. **This will happen on Nov 26.**
 
-### Project Reviews (15%; Due Dec 1 @ noon)
+### Project Reviews (15%; Due Dec 2 @ noon)
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
