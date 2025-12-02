@@ -6,7 +6,9 @@ Sept 3, 2025 -> Dec 3, 2025 (```2025W1```).
 
 Wednesdays 1400-1630 in FORW 519.
 
+<!--
 ### **NOTE: Attending the first class and submitting your paper selections by the deadline is required to pass the course. If you cannot do this, please get in touch with the instructor before the first class / paper submission deadline**
+-->
 
 # Overview
  
@@ -39,7 +41,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 **Note: This is a tentative schedule that will firm up after the second week.**
 
-| Date      	 | Paper						                            | Presenter |
+| Date        | Paper						           | Presenter |
 |:------------|:---------------------------------------|:----------|
 | Sept 3  	  | Course Intro 			                       | Reid      |
 | Sept 10     | Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
@@ -64,105 +66,6 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 19      | Sillito et. al. [Questions Programmers Ask During Software Evolution Tasks](https://dx.doi.org/10.1145/1181775.1181779). FSE, 2006. | Alan |
 | Nov 26      | Project Presentations 			                | Everyone  |
 | Dec 3       | Presentations & Program Committee Meeting       | Everyone  |
-
-<!--
-2024
-| Sept 10    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.                                                                                                                                                                                                | Reid                    |
-| Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992.                                                                                                                                            | Reid                    |
-| Sept 12   	| Ernst et. al. Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt. FSE 2015                                                                                                                                                                                        | Kyle                    |
-| Sept 17       | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                                                                                                                                                                  | Kyle                    |
-| Sept 19       | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE 2015                                                                                        | Zahin                   |
-| Sept 24       | Herzig et. al. [The Art of Testing Less without Sacrificing Quality](https://doi.org/10.1109/ICSE.2015.66). ICSE 2015.                                                                                                                                                                     | Phoebe                  |
-| Sept 26       | Focused Project Proposal Prep (No Lecture)                                                                                                                                                                                                                                                 | TBD                     |
-| Oct 1         | Galhotra et. al. [Fairness testing: testing software for discrimination](https://doi.org/10.1145/3106237.3106277). FSE 2018.                                                                                                                                                               | Angie                   |
-| Oct 3         | Project Pitches & Discussion                                                                                                                                                                                                                                                               | All                     |
-| Oct 8         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv 2024.                                                                                                                                                                               | Gauransh                |
-| Oct 10         | Bird et. al. [Expectations, Outcomes, and Challenges of Modern Code Review](https://doi.org/10.1109/ICSE.2013.6606617). ICSE 2013.                                                                                                                                                         | Angie                   |
-| Oct 15        | 1-1 Project Discussions                                                                                                                                                                                                                                                                    | Everyone (schedule TBD) |
-| Oct 17        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015.                                                                                                                                                                           | Phoebe                  |
-| Oct 22        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024.                                                                                                                             | Gauransh                |
-| Oct 24        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010.                                                                                                                                   | Zahin                   |
-| Oct 29        | Gupta et. al. [Growlithe: A Developer-Centric Compliance Tool for Serverless Applications](https://cirrus.ece.ubc.ca/papers/sp25_growlithe.pdf). SP 2025.                                                                                                                                  | Angie                   |
-| Oct 31        | Zhang. [Detecting Code Comment Inconsistencies using LLM and Program Analysis](https://doi.org/10.1145/3663529.3664458). FSE 2024. & Stulova et. al. [Towards Detecting Inconsistent Comments in Java Source Code Automatically](https://doi.org/10.1109/SCAM51674.2020.00012). SCAM 2020. | Zahin & Phoebe          |
-| Nov 5         | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dl.acm.org/doi/10.5555/2486788.2486877). ICSE 2013.                                                                                                                                        | Kyle                    |
-| Nov 7         | Manotas et. al. [An Empirical Study of Practitioners’ Perspectives on Green Software Engineering](https://doi.org/10.1145/2884781.2884810). ICSE 2016.                                                                                                                                     | Gauransh                |
-| Nov 12        | Cancelled: Reading Week           		                                                                                                                                                                                                                                                       | N/A                     |
-| Nov 14        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
-| Nov 19        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
-| Nov 21        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
-| Nov 26   	| <ol><li>Tandon. PyMetER: Python Method-Level Energy Repair.</li><li>DeMarco. Evaluating Design of Privacy Automation and Discussion from Code.</li></ol>                     		                                                                                                            | Everyone                |
-| Nov 28   	| <ol><li>Chin. Do We Actually Need Source Code Comments?</li><li>Xu &amp; Wahab. DoctorPy: LLM-Driven IDE Extension Identifying Function-level Documentation Inconsistencies in Python.</li></ol>                     		                                                                    | Everyone                |
-| Dec 3         | Project Review Prep (No Lecture)           	                                                                                                                                                                                                                                               | N/A                     |
-| Dec 5   	| Program Committee Meeting         		                                                                                                                                                                                                                                                       | Everyone                |
--->
-
-<!--
-2022
-| Sept 15   	| Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. | Reid   |
-| Sept 15	| Card sort activity (No reading) | Reid | 
-| Sept 20   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
-| Sept 20   	| Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. TSE 2004. 			                       | Marie   |
-| Sept 22   	| Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE. 2015. 			                       | Tao   |
-| Sept 27   	| Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015. 			                       | Tarcisio   |
-| Sept 29   	| Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2014. 			                       | Akumah   |
-| Oct 4   	| Project Pitches 			       | Everyone   |
-| Oct 6   	| 2 papers: Edsger W. Dijkstra. Go to Statement Considered Harmful. CACM, 1968. Cory Kapser and Michael W. Godfrey. “Cloning Considered Harmful” Considered Harmful. WCRE 2006. | Jingxuan   |
-| Oct 11   	| Emerson Murphy-Hill, Chris Parnin, Andrew P. Black. How we refactor, and how we know it. ICSE 2009. 			                       | Rui   |
-| Oct 13   	| Emerson Murphy-Hill and Andrew P. Black. Breaking the Barriers to Successful Refactoring: Observations and Tools for Extract Method. ICSE 2008. 			                       | Madonna   |
-| Oct 18   	| David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. TSE 2011. | Shizuko   |
-| Oct 20   	| Cancelled 			                       | Cancelled   |
-| Oct 25   	| Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008. 			                       | Jifeng    |
-| Oct 27   	| Don Dillman et. al. Internet, Phone, Mail, and Mixed-Mode Surveys: The Tailored Design Method. Ch. 4 (focus) & 5 (supplemental). (Ch 1 & 2 are also interesting) [[UBC Library]](https://ebookcentral.proquest.com/lib/ubc/reader.action?docID=1762797) [[CMU Materials]](https://github.com/bvasiles/empirical-methods/blob/master/pages/sep27-surveys.md)			                       | Reid   |
-| Nov 1   	| Project Consultations | Reid   |
-| Nov 3   	| Project Consultations | Reid   |
-| Nov 8   	| Project Consultations			| Reid   |
-| Nov 10   	| Project Consultations                 | Reid   |
-| Nov 15   	| Cancelled 			               | Cancelled   |
-| Nov 17   	| Enrico Fregnan et. al. First Come First Served: The Impact of File Position on Code Review. FSE 2022. | Nico   |
-| Nov 22   	| Bird et. al. Does distributed development affect software quality? An empirical case study of Windows Vista. ICSE 2009. 			                       | Reid   |
--->
-
-<!--
-2018
-| Date      	| Paper						                    | Presenter |
-| :--       	|:--                                          | :--       |
-| Jan 4   	| Course Intro 			                       | Reid   |
-| Jan 9    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
-| Jan 11 		| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf). Scientific American 1994. | Reid |
-| Jan 16    	| Treude & Storey.[Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds](https://doi.org/10.1145/1806799.1806854). ICSE 2010. | Patrick |
-| Jan 18    	| Lavallee & Robillard. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dl.acm.org/citation.cfm?id=2818837). ICSE 2015. | Kristian |
-| Jan 23    	| <ol><li>Begel & Simon. [Struggles of new college graduates in their first software development job](http://research.microsoft.com/pubs/75113/sigcse-begel-2008.pdf). SIGCSE 2008.</li><li>Ko et. al. [Information Needs in Collocated Software Development Teams](dl.acm.org/citation.cfm?id=1248867). ICSE 2007.</li></ol> | <ol><li>Dheeraj</li><li>Reid</li></ol> |
-| Jan 25    	| Hartmann et. al. [What Would Other Programmers Do? Suggesting Solutions to Error Messages](https://pdfs.semanticscholar.org/17c9/8e98046bff6bbda658cb666f95da10fbb1f9.pdf). CHI 2010.  | Hongru |
-| Jan 30    	| 5 minute project pitches  | Everyone | 
-| Feb 1    	| <ol><li>Bird et. al. [Does distributed development affect software quality? An empirical case study of Windows Vista](//doi.org/10.1109/ICSE.2009.5070550). ICSE 2009.</li><li>Teasley et. al. [Rapid Software Development through Team Collocation](http://ieeexplore.ieee.org/document/1019481/). TSE 2002.</li></ol> | <ol><li>Anna</li><li>Lucas</li></ol> |
-| Feb 6    	| Boshernitsan et. al. [Aligning development tools with the way programmers think about code changes](https://dl.acm.org/citation.cfm?id=1240715). CHI 2007. | May  |
-| Feb 8    	| <ol><li>Kersten & Murphy. [Using task context to improve programmer productivity](https://doi.org/10.1145/1181775.1181777). FSE 2006.</li><li>Murphy-Hill & Murphy. [Recommendation Delivery. Recommendation Systems in Software Engineering](https://people.engr.ncsu.edu/ermurph3/papers/RSSE_Chapter.pdf). 2013.</li></ol> | <ol><li>Jan</li><li>Siyuan</li></ol>  |
-| Feb 13    	| de Alwis & Murphy. [Answering Conceptual Queries with Ferret](http://ieeexplore.ieee.org/document/4814113/). ICSE 2008. | Matthew |
-| Feb 15    	| Muşlu et. al. [Speculative Analysis of Integrated Development Environment Recommendations](https://doi.org/10.1145/2398857.2384665). OOPSLA 2012. | Puneet  |
-| Feb 20    	| Reading Week | &nbsp; |
-| Feb 22    	| Reading Week | &nbsp; |
-| Feb 27    	| <ol><li>Endrikat et. al. [How do API documentation and static typing affect API usability?](https://doi.org/10.1145/2568225.2568299) ICSE 2014.</li><li>Rigby & Bird. [Convergent Software Peer Review Practices.](https://doi.org/10.1145/2491411.2491444) FSE 2013.</li></ol> | <ol><li>Haotian</li><li>Michael</li></ol> |
-| Mar 1    	| Ying & Robillard. [Selection and Presentation Practices for Code Example Summarization](https://dl.acm.org/citation.cfm?id=2635877). FSE 2014. | Gleb  |
-| Mar 6    	| Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.7471&rep=rep1&type=pdf) ICSE 2013. | Renato  |
-| Mar 8    	| Bettenburg et. al. [What Makes a Good Bug Report?](http://thomas-zimmermann.com/publications/files/bettenburg-fse-2008.pdf) FSE 2008. | Muhammad |
-| Mar 13    	| Artzi et. al. [ReCrash: Making software failures reproducible by preserving object states](https://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf). ECOOP 2008. | Nico |
-| Mar 15    	| Herzig et. al. [The Art of Testing Less without Sacrificing Quality](http://dl.acm.org/citation.cfm?id=2818815). ICSE 2015. | Sam |
-| Mar 20    	| TBD | TBD |
-| Mar 22    	| TBD | TBD |
-| Mar 27    	| TBD | TBD |
-| Mar 29    	| TBD | TBD |
-| Apr 3    	| In class project presentations. Reviews due. | &nbsp; |
-| Apr 5    	| In class PC Meeting | &nbsp; |
--->
-
-<!--
-## Assessment
-* Seminar: 15%
-* Seminar Paper Reviews: 15%
-* Class Participation: 15%
-* Project: 40% (Due Nov 24 @ Noon)
-* Project reviews: 15% (Due Dec 1 @ Noon)
--->
 
 ## Course Format
 
@@ -250,3 +153,96 @@ You are permitted to use AI-based tools in this course. No restrictions are plac
 Everyone involved with CPSC 507 is responsible for understanding and abiding by UBC's [Respectful Environment Statement](http://www.hr.ubc.ca/respectful-environment/).
 
 The Statement of Principle of UBC's Respectful Environment Statement is "The best possible environment for working, learning and living is one in which respect, civility, diversity, opportunity and inclusion are valued. Everyone at the University of British Columbia is expected to conduct themselves in a manner that upholds these principles in all communications and interactions with fellow UBC community members and the public in all University-related settings."
+
+
+
+<!--
+2024
+| Sept 10    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.                                                                                                                                                                                                | Reid                    |
+| Sept 10 	| Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992.                                                                                                                                            | Reid                    |
+| Sept 12   	| Ernst et. al. Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt. FSE 2015                                                                                                                                                                                        | Kyle                    |
+| Sept 17       | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                                                                                                                                                                  | Kyle                    |
+| Sept 19       | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE 2015                                                                                        | Zahin                   |
+| Sept 24       | Herzig et. al. [The Art of Testing Less without Sacrificing Quality](https://doi.org/10.1109/ICSE.2015.66). ICSE 2015.                                                                                                                                                                     | Phoebe                  |
+| Sept 26       | Focused Project Proposal Prep (No Lecture)                                                                                                                                                                                                                                                 | TBD                     |
+| Oct 1         | Galhotra et. al. [Fairness testing: testing software for discrimination](https://doi.org/10.1145/3106237.3106277). FSE 2018.                                                                                                                                                               | Angie                   |
+| Oct 3         | Project Pitches & Discussion                                                                                                                                                                                                                                                               | All                     |
+| Oct 8         | Zhang et. al. [AutoCodeRover: Autonomous Program Improvement](https://arxiv.org/pdf/2404.05427). Arxiv 2024.                                                                                                                                                                               | Gauransh                |
+| Oct 10         | Bird et. al. [Expectations, Outcomes, and Challenges of Modern Code Review](https://doi.org/10.1109/ICSE.2013.6606617). ICSE 2013.                                                                                                                                                         | Angie                   |
+| Oct 15        | 1-1 Project Discussions                                                                                                                                                                                                                                                                    | Everyone (schedule TBD) |
+| Oct 17        | Zhang et. al. [Interactive Code Review for Systematic Changes](https://doi.org/10.1109/ICSE.2015.33). ICSE 2015.                                                                                                                                                                           | Phoebe                  |
+| Oct 22        | Endres et. al. [Can Large Language Models Transform Natural Language Intent into Formal Method Postconditions?](https://arxiv.org/pdf/2310.01831). Arxiv 2024.                                                                                                                             | Gauransh                |
+| Oct 24        | Breu et. al. [Information needs in bug reports: improving cooperation between developers and users](https://doi.org/10.1145/1718918.1718973). CSCW 2010.                                                                                                                                   | Zahin                   |
+| Oct 29        | Gupta et. al. [Growlithe: A Developer-Centric Compliance Tool for Serverless Applications](https://cirrus.ece.ubc.ca/papers/sp25_growlithe.pdf). SP 2025.                                                                                                                                  | Angie                   |
+| Oct 31        | Zhang. [Detecting Code Comment Inconsistencies using LLM and Program Analysis](https://doi.org/10.1145/3663529.3664458). FSE 2024. & Stulova et. al. [Towards Detecting Inconsistent Comments in Java Source Code Automatically](https://doi.org/10.1109/SCAM51674.2020.00012). SCAM 2020. | Zahin & Phoebe          |
+| Nov 5         | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dl.acm.org/doi/10.5555/2486788.2486877). ICSE 2013.                                                                                                                                        | Kyle                    |
+| Nov 7         | Manotas et. al. [An Empirical Study of Practitioners’ Perspectives on Green Software Engineering](https://doi.org/10.1145/2884781.2884810). ICSE 2016.                                                                                                                                     | Gauransh                |
+| Nov 12        | Cancelled: Reading Week           		                                                                                                                                                                                                                                                       | N/A                     |
+| Nov 14        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
+| Nov 19        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
+| Nov 21        | Focused Project Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
+| Nov 26   	| <ol><li>Tandon. PyMetER: Python Method-Level Energy Repair.</li><li>DeMarco. Evaluating Design of Privacy Automation and Discussion from Code.</li></ol>                     		                                                                                                            | Everyone                |
+| Nov 28   	| <ol><li>Chin. Do We Actually Need Source Code Comments?</li><li>Xu &amp; Wahab. DoctorPy: LLM-Driven IDE Extension Identifying Function-level Documentation Inconsistencies in Python.</li></ol>                     		                                                                    | Everyone                |
+| Dec 3         | Project Review Prep (No Lecture)           	                                                                                                                                                                                                                                              | N/A                     |
+| Dec 5   	| Program Committee Meeting         		                                                                                                                                                                                                                                                   | Everyone                |
+-->
+
+<!--
+2022
+| Sept 15   	| Carolyn B. Seaman. Qualitative Methods in Empirical Studies of Software Engineering. TSE 1999. | Reid   |
+| Sept 15	| Card sort activity (No reading) | Reid | 
+| Sept 20   	| Jonathan Sillito, Gail C. Murphy and Kris De Volder. Asking and Answering Questions during a Programming Change Task. IEEE Transactions on Software Engineering. 2008. 			                       | Aisha   |
+| Sept 20   	| Martin P. Robillard, Wesley Coelho, and Gail C. Murphy. How Effective Developers Investigate Source Code: An Exploratory Study. TSE 2004. 			                       | Marie   |
+| Sept 22   	| Sina Shamshiri, René Just, José M. Rojas, Gordon Fraser, Phil McMinn, and Andrea Arcuri. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE. 2015. 			                       | Tao   |
+| Sept 27   	| Kim Herzig, Michaela Greiler, Jacek Czerwonka, Brendan Murphy. The Art of Testing Less without Sacrificing Quality. ICSE 2015. 			                       | Tarcisio   |
+| Sept 29   	| Annie T. T. Ying, Martin P. Robillard. Selection and presentation practices for code example summarization. FSE 2014. 			                       | Akumah   |
+| Oct 4   	| Project Pitches 			       | Everyone   |
+| Oct 6   	| 2 papers: Edsger W. Dijkstra. Go to Statement Considered Harmful. CACM, 1968. Cory Kapser and Michael W. Godfrey. “Cloning Considered Harmful” Considered Harmful. WCRE 2006. | Jingxuan   |
+| Oct 11   	| Emerson Murphy-Hill, Chris Parnin, Andrew P. Black. How we refactor, and how we know it. ICSE 2009. 			                       | Rui   |
+| Oct 13   	| Emerson Murphy-Hill and Andrew P. Black. Breaking the Barriers to Successful Refactoring: Observations and Tools for Extract Method. ICSE 2008. 			                       | Madonna   |
+| Oct 18   	| David Röthlisberger et. al. Exploiting Dynamic Information in IDEs Improves Speed and Correctness of Software Maintenance Tasks. TSE 2011. | Shizuko   |
+| Oct 20   	| Cancelled 			                       | Cancelled   |
+| Oct 25   	| Shay Artzi, Sunghun Kim, and Michael D. Ernst. ReCrash: Making software failures reproducible by preserving object states. ECOOP 2008. 			                       | Jifeng    |
+| Oct 27   	| Don Dillman et. al. Internet, Phone, Mail, and Mixed-Mode Surveys: The Tailored Design Method. Ch. 4 (focus) & 5 (supplemental). (Ch 1 & 2 are also interesting) [[UBC Library]](https://ebookcentral.proquest.com/lib/ubc/reader.action?docID=1762797) [[CMU Materials]](https://github.com/bvasiles/empirical-methods/blob/master/pages/sep27-surveys.md)			                       | Reid   |
+| Nov 1   	| Project Consultations | Reid   |
+| Nov 3   	| Project Consultations | Reid   |
+| Nov 8   	| Project Consultations			| Reid   |
+| Nov 10   	| Project Consultations                 | Reid   |
+| Nov 15   	| Cancelled 			               | Cancelled   |
+| Nov 17   	| Enrico Fregnan et. al. First Come First Served: The Impact of File Position on Code Review. FSE 2022. | Nico   |
+| Nov 22   	| Bird et. al. Does distributed development affect software quality? An empirical case study of Windows Vista. ICSE 2009. 			                       | Reid   |
+-->
+
+<!--
+2018
+| Date      	| Paper						                    | Presenter |
+| :--       	|:--                                          | :--       |
+| Jan 4   	| Course Intro 			                       | Reid   |
+| Jan 9    	| Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer 1987.  | Reid |
+| Jan 11 		| Gibbs. [Software's Chronic Crisis](http://selab.csuohio.edu/~nsridhar/teaching/fall06/eec521/readings/Gibbs-scc.pdf). Scientific American 1994. | Reid |
+| Jan 16    	| Treude & Storey.[Awareness 2.0: staying aware of projects, developers and tasks using dashboards and feeds](https://doi.org/10.1145/1806799.1806854). ICSE 2010. | Patrick |
+| Jan 18    	| Lavallee & Robillard. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dl.acm.org/citation.cfm?id=2818837). ICSE 2015. | Kristian |
+| Jan 23    	| <ol><li>Begel & Simon. [Struggles of new college graduates in their first software development job](http://research.microsoft.com/pubs/75113/sigcse-begel-2008.pdf). SIGCSE 2008.</li><li>Ko et. al. [Information Needs in Collocated Software Development Teams](dl.acm.org/citation.cfm?id=1248867). ICSE 2007.</li></ol> | <ol><li>Dheeraj</li><li>Reid</li></ol> |
+| Jan 25    	| Hartmann et. al. [What Would Other Programmers Do? Suggesting Solutions to Error Messages](https://pdfs.semanticscholar.org/17c9/8e98046bff6bbda658cb666f95da10fbb1f9.pdf). CHI 2010.  | Hongru |
+| Jan 30    	| 5 minute project pitches  | Everyone | 
+| Feb 1    	| <ol><li>Bird et. al. [Does distributed development affect software quality? An empirical case study of Windows Vista](//doi.org/10.1109/ICSE.2009.5070550). ICSE 2009.</li><li>Teasley et. al. [Rapid Software Development through Team Collocation](http://ieeexplore.ieee.org/document/1019481/). TSE 2002.</li></ol> | <ol><li>Anna</li><li>Lucas</li></ol> |
+| Feb 6    	| Boshernitsan et. al. [Aligning development tools with the way programmers think about code changes](https://dl.acm.org/citation.cfm?id=1240715). CHI 2007. | May  |
+| Feb 8    	| <ol><li>Kersten & Murphy. [Using task context to improve programmer productivity](https://doi.org/10.1145/1181775.1181777). FSE 2006.</li><li>Murphy-Hill & Murphy. [Recommendation Delivery. Recommendation Systems in Software Engineering](https://people.engr.ncsu.edu/ermurph3/papers/RSSE_Chapter.pdf). 2013.</li></ol> | <ol><li>Jan</li><li>Siyuan</li></ol>  |
+| Feb 13    	| de Alwis & Murphy. [Answering Conceptual Queries with Ferret](http://ieeexplore.ieee.org/document/4814113/). ICSE 2008. | Matthew |
+| Feb 15    	| Muşlu et. al. [Speculative Analysis of Integrated Development Environment Recommendations](https://doi.org/10.1145/2398857.2384665). OOPSLA 2012. | Puneet  |
+| Feb 20    	| Reading Week | &nbsp; |
+| Feb 22    	| Reading Week | &nbsp; |
+| Feb 27    	| <ol><li>Endrikat et. al. [How do API documentation and static typing affect API usability?](https://doi.org/10.1145/2568225.2568299) ICSE 2014.</li><li>Rigby & Bird. [Convergent Software Peer Review Practices.](https://doi.org/10.1145/2491411.2491444) FSE 2013.</li></ol> | <ol><li>Haotian</li><li>Michael</li></ol> |
+| Mar 1    	| Ying & Robillard. [Selection and Presentation Practices for Code Example Summarization](https://dl.acm.org/citation.cfm?id=2635877). FSE 2014. | Gleb  |
+| Mar 6    	| Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.384.7471&rep=rep1&type=pdf) ICSE 2013. | Renato  |
+| Mar 8    	| Bettenburg et. al. [What Makes a Good Bug Report?](http://thomas-zimmermann.com/publications/files/bettenburg-fse-2008.pdf) FSE 2008. | Muhammad |
+| Mar 13    	| Artzi et. al. [ReCrash: Making software failures reproducible by preserving object states](https://homes.cs.washington.edu/~mernst/pubs/reproduce-failures-ecoop2008.pdf). ECOOP 2008. | Nico |
+| Mar 15    	| Herzig et. al. [The Art of Testing Less without Sacrificing Quality](http://dl.acm.org/citation.cfm?id=2818815). ICSE 2015. | Sam |
+| Mar 20    	| TBD | TBD |
+| Mar 22    	| TBD | TBD |
+| Mar 27    	| TBD | TBD |
+| Mar 29    	| TBD | TBD |
+| Apr 3    	| In class project presentations. Reviews due. | &nbsp; |
+| Apr 5    	| In class PC Meeting | &nbsp; |
+-->
+
