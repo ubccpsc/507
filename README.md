@@ -1,14 +1,14 @@
 <img src="slides/507logoA.png" width="256px" alt="CPSC 507 Advanced Software Engineering">
 
-# UBC CPSC 507 - Advanced Software Engineering
+# UBC CPSC 507 - Human Aspects of Software Engineering
 
-Sept 3, 2025 -> Dec 3, 2025 (```2025W1```).
+Sept 9, 2026 -> Dec 2, 2026 (```2026W1```).
 
-Wednesdays 1400-1630 in FORW 519.
+Wednesdays 1400-1630 in TBD.
 
-<!--
+
 ### **NOTE: Attending the first class and submitting your paper selections by the deadline is required to pass the course. If you cannot do this, please get in touch with the instructor before the first class / paper submission deadline**
--->
+
 
 # Overview
  
@@ -43,35 +43,13 @@ The best way to get in touch with me is via email. Office hours are by appointme
 
 | Date        | Paper						           | Presenter |
 |:------------|:---------------------------------------|:----------|
-| Sept 3  	  | Course Intro 			                       | Reid      |
-| Sept 10     | Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
-| Sept 10 	  | Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
-| Sept 17     | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dx.doi.org/10.1109/ICSE.2013.6606613). ICSE, 2013. | Zung |
-| Sept 17     | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE, 2015. | Jenny |
-| Sept 24     | Yang et. al. [On the Evaluation of Large Language Models in Unit Test Generation](https://dx.doi.org/10.1145/3691620.3695529). ASE, 2024. | Partha       |
-| Sept 24     | Shamshiri et. al. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges](https://dx.doi.org/10.1109/ASE.2015.86). ASE, 2015. | Zung |
-| Oct 1       | 5 minute project pitches (no slides required, but you can have some if you want) | Everyone |
-| Oct 1       | Seaman. [Qualitative Methods in Empirical Studies of Software Engineering](https://dx.doi.org/10.1109/32.799955). TSE 1999. | Alice |
-| Oct 1       | Siegmund et. al. [Views on Internal and External Validity in Empirical Software Engineering](https://dx.doi.org/10.1109/ICSE.2015.24). ICSE, 2015. | Sarah |
-| Oct 8       | Cancelled (Reid Away) 			                | N/A       |
-| Oct 15      | Endrikat et. al. [How do API documentation and static typing affect API usability?](https://dx.doi.org/10.1145/2568225.2568299). ICSE, 2014. | Alan       |
-| Oct 15      | Guo et. al. [Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows](https://dx.doi.org/10.1145/1806799.1806871). ICSE, 2010. | Partha |
-| Oct 22      | Al-Kaswan et. al. [Code Red! On the Harmfulness of Applying Off-the-Shelf Large Language Models to Programming Tasks](https://dx.doi.org/10.1145/3729380). FSE, 2025. | Tawkat |
-| Oct 22      | Sens et. al. [A Large-Scale Study of Model Integration in ML-Enabled Software Systems](https://dx.doi.org/10.1109/ICSE55347.2025.00185). ICSE 2025.	| Ayanfe |
-| Oct 29      | Storey.	[Theories, Methods, and Tools in Program Comprehension: Past, Present, and Future](https://dx.doi.org/10.1109/WPC.2005.38). IWPC, 2005. | Sarah |
-| Oct 29      | Ying et. al. [Selection and presentation practices for code example summarization.](https://dx.doi.org/10.1145/2635868.2635877). FSE, 2014. | Cheng |
-| Nov 5       | Focused Project Prep (No Lecture) 			    | N/A       |
-| Nov 12      | Cancelled: Reading Week  		                | N/A       |
-| Nov 19      | Li et. al. [What Makes a Great Software Engineer?](https://dx.doi.org/10.1109/ICSE.2015.335). ICSE, 2015. | Alice |
-| Nov 19      | Sillito et. al. [Questions Programmers Ask During Software Evolution Tasks](https://dx.doi.org/10.1145/1181775.1181779). FSE, 2006. | Alan |
-| Nov 26      | Project Presentations 			                | Everyone  |
-| Dec 3       | Presentations & Program Committee Meeting       | Everyone  |
+| Sept 9  	  | Course Intro 			               | Reid      |
 
 ## Course Format
 
 The main components of this course are described below:
 
-### Seminar (15%; Paper choices due Sept 8 @ noon)
+### Seminar (15%; Paper choices due Sept 15 @ noon)
 
 Each student will present one or two papers during the term and will lead a discussion of that paper. The presentation should last 20-30 minutes; discussions typically range 30-40 minutes. You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1oKbKsSTw91Dntuc52Pn7WpFW8GvaO2O8K0mvSDvqR9I/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. 
 
@@ -154,7 +132,31 @@ Everyone involved with CPSC 507 is responsible for understanding and abiding by 
 
 The Statement of Principle of UBC's Respectful Environment Statement is "The best possible environment for working, learning and living is one in which respect, civility, diversity, opportunity and inclusion are valued. Everyone at the University of British Columbia is expected to conduct themselves in a manner that upholds these principles in all communications and interactions with fellow UBC community members and the public in all University-related settings."
 
-
+<!--
+2025
+| Sept 10     | Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
+| Sept 10 	  | Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
+| Sept 17     | Johnson et. al. [Why don't software developers use static analysis tools to find bugs?](https://dx.doi.org/10.1109/ICSE.2013.6606613). ICSE, 2013. | Zung |
+| Sept 17     | Lavallee et. al. [Why Good Developers Write Bad Code: An Observational Case Study of the Impacts of Organizational Factors on Software Quality](https://dx.doi.org/10.1109/ICSE.2015.83). ICSE, 2015. | Jenny |
+| Sept 24     | Yang et. al. [On the Evaluation of Large Language Models in Unit Test Generation](https://dx.doi.org/10.1145/3691620.3695529). ASE, 2024. | Partha       |
+| Sept 24     | Shamshiri et. al. [Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges](https://dx.doi.org/10.1109/ASE.2015.86). ASE, 2015. | Zung |
+| Oct 1       | 5 minute project pitches (no slides required, but you can have some if you want) | Everyone |
+| Oct 1       | Seaman. [Qualitative Methods in Empirical Studies of Software Engineering](https://dx.doi.org/10.1109/32.799955). TSE 1999. | Alice |
+| Oct 1       | Siegmund et. al. [Views on Internal and External Validity in Empirical Software Engineering](https://dx.doi.org/10.1109/ICSE.2015.24). ICSE, 2015. | Sarah |
+| Oct 8       | Cancelled (Reid Away) 			                | N/A       |
+| Oct 15      | Endrikat et. al. [How do API documentation and static typing affect API usability?](https://dx.doi.org/10.1145/2568225.2568299). ICSE, 2014. | Alan       |
+| Oct 15      | Guo et. al. [Characterizing and Predicting Which Bugs Get Fixed: An Empirical Study of Microsoft Windows](https://dx.doi.org/10.1145/1806799.1806871). ICSE, 2010. | Partha |
+| Oct 22      | Al-Kaswan et. al. [Code Red! On the Harmfulness of Applying Off-the-Shelf Large Language Models to Programming Tasks](https://dx.doi.org/10.1145/3729380). FSE, 2025. | Tawkat |
+| Oct 22      | Sens et. al. [A Large-Scale Study of Model Integration in ML-Enabled Software Systems](https://dx.doi.org/10.1109/ICSE55347.2025.00185). ICSE 2025.	| Ayanfe |
+| Oct 29      | Storey.	[Theories, Methods, and Tools in Program Comprehension: Past, Present, and Future](https://dx.doi.org/10.1109/WPC.2005.38). IWPC, 2005. | Sarah |
+| Oct 29      | Ying et. al. [Selection and presentation practices for code example summarization.](https://dx.doi.org/10.1145/2635868.2635877). FSE, 2014. | Cheng |
+| Nov 5       | Focused Project Prep (No Lecture) 			    | N/A       |
+| Nov 12      | Cancelled: Reading Week  		                | N/A       |
+| Nov 19      | Li et. al. [What Makes a Great Software Engineer?](https://dx.doi.org/10.1109/ICSE.2015.335). ICSE, 2015. | Alice |
+| Nov 19      | Sillito et. al. [Questions Programmers Ask During Software Evolution Tasks](https://dx.doi.org/10.1145/1181775.1181779). FSE, 2006. | Alan |
+| Nov 26      | Project Presentations 			                | Everyone  |
+| Dec 3       | Presentations & Program Committee Meeting       | Everyone  | 
+-->
 
 <!--
 2024
