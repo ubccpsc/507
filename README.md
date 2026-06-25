@@ -54,8 +54,8 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Nov 4  	  | TBD 			               | TBD      |
 | Nov 11  	  | CANCELLED (Reading Week)       | N/A      |
 | Nov 18  	  | TBD 			               | TBD      |
-| Nov 25  	  | TBD 			               | TBD      |
-| Dec 2  	  | TBD 			               | TBD      |
+| Nov 25  	  | Project Presentations          | Everyone |
+| Dec 2  	  | In Class PC Meeting            | Everyone |
 
 ## Course Format
 
