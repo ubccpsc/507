@@ -44,6 +44,18 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Date        | Paper						           | Presenter |
 |:------------|:---------------------------------------|:----------|
 | Sept 9  	  | Course Intro 			               | Reid      |
+| Sept 16  	  | TBD 			               | TBD      |
+| Sept 23  	  | TBD 			               | TBD      |
+| Sept 30  	  | CANCELLED (TRC) 			   | N/A      |
+| Oct 7  	  | TBD 			               | TBD      |
+| Oct 14  	  | TBD 			               | TBD      |
+| Oct 21  	  | TBD 			               | TBD      |
+| Oct 28  	  | TBD 			               | TBD      |
+| Nov 4  	  | TBD 			               | TBD      |
+| Nov 11  	  | CANCELLED (Reading Week)       | TBD      |
+| Nov 18  	  | TBD 			               | TBD      |
+| Nov 25  	  | TBD 			               | TBD      |
+| Dec 2  	  | TBD 			               | TBD      |
 
 ## Course Format
 
