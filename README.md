@@ -52,7 +52,7 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Oct 21  	  | TBD 			               | TBD      |
 | Oct 28  	  | TBD 			               | TBD      |
 | Nov 4  	  | TBD 			               | TBD      |
-| Nov 11  	  | CANCELLED (Reading Week)       | TBD      |
+| Nov 11  	  | CANCELLED (Reading Week)       | N/A      |
 | Nov 18  	  | TBD 			               | TBD      |
 | Nov 25  	  | TBD 			               | TBD      |
 | Dec 2  	  | TBD 			               | TBD      |
