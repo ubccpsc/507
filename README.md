@@ -31,7 +31,7 @@ Mindmap from the first lecture:
 					
 ## Contact
 
-The best way to get in touch with me is via email. Office hours are by appointment, but after class will generally be a good time.
+The best way to get in touch with me is via email. Office hours are by appointment, but I am broadly available during the term.
 
 ## Schedule
 
