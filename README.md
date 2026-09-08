@@ -4,11 +4,7 @@
 
 Sept 9, 2026 -> Dec 2, 2026 (```2026W1```).
 
-Wednesdays 1400-1630 in TBD.
-
-
-### **NOTE: Attending the first class and submitting your paper selections by the deadline is required to pass the course. If you cannot do this, please get in touch with the instructor before the first class / paper submission deadline**
-
+Wednesdays 1400-1630 in [SWNG 306](https://go.ubc.ca/maps/UBCV/SWNG).
 
 # Overview
  
