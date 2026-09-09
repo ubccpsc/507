@@ -10,16 +10,14 @@ Wednesdays 1400-1630 in [SWNG 306](https://go.ubc.ca/maps/UBCV/SWNG).
 
 Software is a human product. Developers are intrinsic to software development; as systems scale in size and complexity, the challenges that developers must overcome rapidly increase. The integration of AI into software development workflows has made writing code much cheaper in recent years; understanding, reviewing, and maintaining it has not. The theme of this Advanced Software Engineering course will be 'Human Aspects of Software Engineering'. We will examine why creating software is a hard problem and how these problems have been addressed and evaluated both in research and practice, including how the answers change when much of the code under development was generated rather than written. We will focus on development-based activities (rather than planning or requirements-based activities). Much of the empirical work we will read predates these tools, so part of our task will be to consider which of its findings still hold or how their emphasis, especially for human engineers, has shifted. The course will be seminar-based and will involve weekly reading and discussion. The project will involve building a software development tool, or running a study, to address a problem you have faced writing software yourself; this will likely involve a large amount of programming. This course is offered by the [Department of Computer Science](http://www.cs.ubc.ca/) at the [University of British Columbia](http://ubc.ca).
 
-<!-- Lectures are held every Tuesday and Thursday from 1000 to 1130 in ORCH 4068. My office hours are by appointment but will be held in [ICICS 309](https://ssc.adm.ubc.ca/classroomservices/function/viewlocation?userEvent=ShowLocation&buildingID=ICCS&roomID=309). Official scheduling details can be found in Workday. -->
-
 The course will be adjusted according to your feedback, interests, and experience. This is an overview of the kinds of topics we could cover:
 
-* software evolution
-* program comprehension
-* software visualization
-* development team processes
-* software development tools and environments
-* quantitative &amp; qualitative evaluation of software engineering research
+* Software evolution
+* Program comprehension
+* Software visualization
+* Development team processes
+* Software development tools and environments
+* Quantitative &amp; qualitative evaluation of software engineering research
 
 <!-- Mindmap from the [first lecture](mindmap.png). -->
 
@@ -59,7 +57,7 @@ The main components of this course are described below:
 
 ### Seminar (15%; Paper choices due Sept 15 @ noon)
 
-Each student will present one or two papers during the term and will lead a discussion of that paper. The presentation should last 20-30 minutes; discussions typically range 30-40 minutes. You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1oKbKsSTw91Dntuc52Pn7WpFW8GvaO2O8K0mvSDvqR9I/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. 
+Each student will present one or two papers during the term and will lead a discussion of that paper. The presentation should last 20-30 minutes; discussions typically range 30-40 minutes. You will get to select the papers you want to present from the course. While a [paper list](paperList.md) is available if you need ideas, you are also free to suggest your own choices as long as they are in scope for the course. Please suggest three or four papers and enter the details in the following [Paper Choice Spreadsheet](https://docs.google.com/spreadsheets/d/1Bd5s_LfYuj3n30s0BaDHy2KJnh80QL18G0QQWxOaHgo/edit?usp=sharing). I will generate a cohesive class schedule once everyone has selected their papers. You will likely only have to present two papers this term, but the additional options will make it easer to come up with a good schedule. 
 
 ### Class Participation (15%; Every class)
 
@@ -76,15 +74,15 @@ While reading the papers you should be able to answer the following five questio
 1. How could this research be extended?
 1. How could this research be applied in practice?
 
-Each week, you will also submit a review for each of the papers being presented that week at 2000 the day before class ([Paper Review Form](https://forms.gle/hfMKABHrPsZRbaDs7)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
+Each week, you will also submit a review for each of the papers being presented that week at 2000 the day before class ([Paper Review Form](https://forms.gle/MHxffkJs9T5PmPP9A)). The summary should be 300-500 words long. The discussion questions above (or the ones we talked about in the first class) can be used to help structure your review.
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-### Project Proposal (v1 Due Sept 29 @ noon; v2 Due Oct 22 @ noon)
+### Project Proposal (v1 Due Sept 29 @ noon; v2 Due Oct 20 @ noon)
 
 The project forms an integral part of this course. The projects can be completed in groups of up to three. The intent of the project is to identify a real development shortcoming faced by engineers and create a tool to improve this problem.
 							
-Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. **This first version will be due on Sept 29 @ noon via email.** Each proposal will receive feedback and will present a 5 minute presentation to the class for their project idea on **Oct 4**. Version 2 of the proposal should be submitted on **Oct 22 @ noon via email**. NOTE: You are still free to abandon your project and join a different one after the presentation, as long as you join a new group before the final proposal is submitted.
+Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. **This first version will be due on Sept 29 @ noon via email.** Each proposal will receive feedback and will present a 5 minute presentation to the class for their project idea on **Oct 7**. Version 2 of the proposal should be submitted on **Oct 22 @ noon via email**. NOTE: You are still free to abandon your project and join a different one after the presentation, as long as you join a new group before the final proposal is submitted.
 
 Here are a few projects students have completed in past years to get a flavour of their domain and complexity:
 
@@ -102,7 +100,7 @@ Here are a few projects students have completed in past years to get a flavour o
 
 * **Project presentation.** Each team will give a 15-minute conference style talk about their project in class. Since you only have 15 minutes (including questions) you will need to prioritize the work you did in the paper to fit the time limit (the 15 minute cap will be strictly enforced). With the late deadline, most people probably will not have read the paper, but will have access to it. Paper presentation order will be the reverse of the EasyChair submission order. **This will happen on Nov 26.**
 
-### Project Reviews (15%; Due Dec 2 @ noon)
+### Project Reviews (15%; Due Dec 1 @ noon)
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
@@ -121,7 +119,6 @@ A conference review always contains the following elements (you should include e
 ### Late Submissions
 
 Late submissions (for the project, paper reviews, and project reviews) cannot be accepted.
-
 
 ## Academic Conduct
 
