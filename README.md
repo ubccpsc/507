@@ -6,6 +6,8 @@ Sept 9, 2026 -> Dec 2, 2026 (```2026W1```).
 
 Wednesdays 1400-1630 in [SWNG 306](https://go.ubc.ca/maps/UBCV/SWNG).
 
+## Don't worry about the paper reviews or paper selection for this week, just come to class and we'll talk about the shape of the term!
+
 # Overview
 
 Software is a human product. Developers are intrinsic to software development; as systems scale in size and complexity, the challenges that developers must overcome rapidly increase. The integration of AI into software development workflows has made writing code much cheaper in recent years; understanding, reviewing, and maintaining it has not. The theme of this Advanced Software Engineering course will be 'Human Aspects of Software Engineering'. We will examine why creating software is a hard problem and how these problems have been addressed and evaluated both in research and practice, including how the answers change when much of the code under development was generated rather than written. We will focus on development-based activities (rather than planning or requirements-based activities). Much of the empirical work we will read predates these tools, so part of our task will be to consider which of its findings still hold or how their emphasis, especially for human engineers, has shifted. The course will be seminar-based and will involve weekly reading and discussion. The project will involve building a software development tool, or running a study, to address a problem you have faced writing software yourself; this will likely involve a large amount of programming. This course is offered by the [Department of Computer Science](http://www.cs.ubc.ca/) at the [University of British Columbia](http://ubc.ca).
