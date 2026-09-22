@@ -69,7 +69,7 @@ This is a seminar-based class that depends on your active participation to be su
 
 ### Paper Reviews (15%; Due each week before class)
 
-While reading the papers you should be able to answer the following five questions:
+While reading the papers you should be able to answer the following five:
 
 1. What were the primary contributions of the paper as the author sees it?
 1. What were the main contributions of the paper as you (the reader) see it?
