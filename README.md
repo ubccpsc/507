@@ -42,9 +42,10 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 9  	  | Course Intro 			               | Reid      |
 | Sept 16     | Brooks. [No Silver Bullet](http://dx.doi.org/10.1109/MC.1987.1663532). IEEE Computer, 1987.  | Reid |
 | Sept 16 	  | Gibbs. [Software's Chronic Crisis](https://homepages.dcc.ufmg.br/~rodolfo/es-1-09/gibbs94SoftwareChronicCrisis.pdf). Scientific American, 1992. | Reid |
-| Sept 23  	  | TBD 			               | TBD      |
-| Sept 30  	  | CANCELLED (TRC) 			   | N/A      |
-| Oct 7  	  | TBD 			               | TBD      |
+| Sept 23     | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                     	| Muhammad |
+| Sept 20     | Robillard et. al. [How Effective Developers Investigate Source Code: An Exploratory Study](https://doi.org/10.1109/TSE.2004.101). TSE 2004. 	| John |
+| Sept 30  	  | CANCELLED (TRC) 			   	| N/A      |
+| Oct 7  	  | Activity (Class starts at 1515)	| TBD      |
 | Oct 14  	  | TBD 			               | TBD      |
 | Oct 21  	  | TBD 			               | TBD      |
 | Oct 28  	  | TBD 			               | TBD      |
