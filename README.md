@@ -46,14 +46,14 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 23     | Robillard et. al. [How Effective Developers Investigate Source Code: An Exploratory Study](https://doi.org/10.1109/TSE.2004.101). TSE 2004. 	| John |
 | Sept 30  	  | CANCELLED (TRC) 			   	| N/A      |
 | Oct 7  	  | Activity (Class starts at 1515)	| TBD      |
-| Oct 14  	  | TBD 			               | TBD      |
-| Oct 21  	  | TBD 			               | TBD      |
-| Oct 28  	  | TBD 			               | TBD      |
-| Nov 4  	  | TBD 			               | TBD      |
-| Nov 11  	  | CANCELLED (Reading Week)       | N/A      |
-| Nov 18  	  | TBD 			               | TBD      |
-| Nov 25  	  | Project Presentations          | Everyone |
-| Dec 2  	  | In Class PC Meeting            | Everyone |
+| Oct 14  	  | Papers TBD 		                | TBD      |
+| Oct 21  	  | 1:1 Project Proposal Meetings   | TBD      |
+| Oct 28  	  | Project Pitches + Paper TBD     | TBD      |
+| Nov 4  	  | Papers TBD 		                | TBD      |
+| Nov 11  	  | CANCELLED (Reading Week)        | N/A      |
+| Nov 18  	  | Papers TBD 		                | TBD      |
+| Nov 25  	  | Project Presentations           | Everyone |
+| Dec 2  	  | In Class PC Meeting             | Everyone |
 
 ## Course Format
 
