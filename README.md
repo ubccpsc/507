@@ -45,10 +45,10 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 23     | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                     	| Muhammad |
 | Sept 23     | Robillard et. al. [How Effective Developers Investigate Source Code: An Exploratory Study](https://doi.org/10.1109/TSE.2004.101). TSE 2004. 	| John |
 | Sept 30  	  | CANCELLED (TRC) 			   	| N/A      |
-| Oct 7  	  | Activity (Class starts at 1515)	| TBD      |
-| Oct 14  	  | Papers TBD 		                | TBD      |
-| Oct 21  	  | 1:1 Project Proposal Meetings   | TBD      |
-| Oct 28  	  | Project Pitches + Paper TBD     | TBD      |
+| Oct 7  	  | 1:1 Project Proposals (1515 TBD, 1530 TBD, 1545 TBD, 1600 TBD, 1615 TBD, 1630 TBD)	| **ICCS-306**       |
+| Oct 14  	  | Project Pitches + Paper TBD     | TBD      |
+| Oct 21  	  | Papers TBD                      | TBD      |
+| Oct 28  	  | Papers TBD				        | TBD      |
 | Nov 4  	  | Papers TBD 		                | TBD      |
 | Nov 11  	  | CANCELLED (Reading Week)        | N/A      |
 | Nov 18  	  | Papers TBD 		                | TBD      |
@@ -82,11 +82,12 @@ Each week, you will also submit a review for each of the papers being presented 
 
 While presenters should keep these questions in mind, the audience in particular should think about them specifically while they are reading the paper. 
 
-### Project Proposal (v1 Due Sept 29 @ noon; v2 Due Oct 20 @ noon)
+### Project Proposal (1:1 Discussion, Oct 7 in class. Proposal Due Oct 13 @ noon)
 
 The project forms an integral part of this course. The projects can be completed in groups of up to three. The intent of the project is to identify a real development shortcoming faced by engineers and create a tool to improve this problem.
 							
-Before you undertake your project you will need to submit a proposal for approval. The proposal should be short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>). The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. **This first version will be due on Sept 29 @ noon via email.** Each proposal will receive feedback and will present a 5 minute presentation to the class for their project idea on **Oct 7**. Version 2 of the proposal should be submitted on **Oct 22 @ noon via email**. NOTE: You are still free to abandon your project and join a different one after the presentation, as long as you join a new group before the final proposal is submitted.
+We will meet for a short 15 minute discussion on Oct 7 to talk about your idea and get any clarifications you might have. The schedule for this meeting will be listed above. Based on our discussion, you should write a short (max 1 page PDF in <a href="http://www.acm.org/sigs/publications/proceedings-templates">ACM format</a>) proposal for the project. The proposal should include a problem statement, the motivation for the project, and set of objectives you aim to accomplish. I will read these and provide comments. The proposal is not for marks but _must_ be completed in order to pass the course. **This will be due on Oct 13 @ noon via email.** The next class you will make a brief 5 minute presentation to the class for their project idea on **Oct 14** detailing the motivation for the project and what you hope to achieve. <!-- Version 2 of the proposal should be submitted on **Oct 22 @ noon via email**.--> NOTE: After the project pitches are done you are free to join with others to work on a group project, just let me know by email!
+<!-- You are still free to abandon your project and join a different one after the presentation, as long as you join a new group before the final proposal is submitted.-->
 
 Here are a few projects students have completed in past years to get a flavour of their domain and complexity:
 
