@@ -45,13 +45,18 @@ The best way to get in touch with me is via email. Office hours are by appointme
 | Sept 23     | Ko et. al. [Information Needs in Collocated Software Development Teams](https://doi.org/10.1109/ICSE.2007.45). ICSE 2007.                     	| Muhammad |
 | Sept 23     | Robillard et. al. [How Effective Developers Investigate Source Code: An Exploratory Study](https://doi.org/10.1109/TSE.2004.101). TSE 2004. 	| John |
 | Sept 30  	  | CANCELLED (TRC) 			   	| N/A      |
-| Oct 7  	  | 1:1 Project Proposals (1515 TBD, 1530 TBD, 1545 TBD, 1600 TBD, 1615 TBD, 1630 TBD)	| **ICCS-306**       |
-| Oct 14  	  | Project Pitches + Paper TBD     | TBD      |
-| Oct 21  	  | Papers TBD                      | TBD      |
-| Oct 28  	  | Papers TBD				        | TBD      |
-| Nov 4  	  | Papers TBD 		                | TBD      |
+| Oct 7  	  | 1:1 Project Proposals (1515 John, 1530 Karen, 1545 Muhammad, 1600 Ahmed, 1615 Chester, 1630 Himansu)	| **ICCS-306**       |
+| Oct 14  	  | Project Pitches | Everyone      |
+| Oct 14  	  | Dijkstra. Go to statement considered harmful. CACM, 1968.     | Chester      |
+| Oct 21  	  | Martin-Lopez et. al. More Code, Less Understanding? On the Impact of AI Assistants on Developers’ Productivity and Code Ownership. TSE, 2026. | Karen |
+| Oct 21  	  | Sandoval et. al. Lost at C: A User Study on the Security Implications of Large Language Model Code Assistants. 2023. | Himansu      |
+| Oct 28  	  | Hossain & Dwyer. TOGLL: Correct and Strong Test Oracle Generation with LLMs. ICSE, 2025. | Ahmed |
+| Oct 28  	  | Ruan et. al. SpecRover: Code Intent Extraction via LLMs. ICSE, 2025. | Muhammad   |
+| Nov 4  	  | Shamshiri et. al. Do Automatically Generated Unit Tests Find Real Faults? An Empirical Study of Effectiveness and Challenges. ASE, 2015. | John |
+| Nov 4      | Muslu et. al Transition from Centralized to Decentralized Version Control Systems: A Case Study on Reasons, Barriers, and Outcomes. ICSE, 2014. | Chester |
 | Nov 11  	  | CANCELLED (Reading Week)        | N/A      |
-| Nov 18  	  | Papers TBD 		                | TBD      |
+| Nov 18  	  | Fritz et. al. A degree-of-knowledge model to capture source code familiarity. ICSE, 2010. | Karen      |
+| Nov 18  	  | Barke et. al. Grounded Copilot: How Programmers Interact with Code-Generating Models. OOPSLA, 2023. | Himansu | 
 | Nov 25  	  | Project Presentations           | Everyone |
 | Dec 2  	  | In Class PC Meeting             | Everyone |
 
