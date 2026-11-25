@@ -119,10 +119,10 @@ The course will conclude with a formal Program Committee (PC) meeting. All proje
 A conference review always contains the following elements (you should include each of these components):
 
 * A paragraph or two summarizing what you took away from the paper. This helps the authors understand what _you_ understood the paper to be about, which is helpful for learning how the paper does/does not accurately convey what you expected.
-* 2-4 strengths of the work.
-* 2-4 weaknesses of the work.
-* A paragraph describing the novelty and impact of the work. In the context of a course project, this often ends up examining how clearly the work is motivated and how the paper matches the motivation.
-* A detailed review of the approach and its evaluation. This comprises the bulk of the review.
+* 2-4 explicit strengths of the work.
+* 2-4 explicit weaknesses of the work.
+* A comprehensive paragraph describing the novelty and impact of the work. In the context of a course project, this often ends up examining how clearly the work is motivated and how the paper matches the motivation.
+* A detailed review of the approach and its evaluation. This comprises the bulk of the review and is typically 6-10 paragraphs long.
 
 **The final paper reviews for all assigned papers must all be submitted using EasyChair.** [EasyChair Link](https://easychair.org/conferences/?conf=cpsc5072025)
 
