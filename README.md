@@ -114,7 +114,7 @@ Here are a few projects students have completed in past years to get a flavour o
 
 The project is the primary artifact of the course; the outcome of all projects will be a research paper. In the last week of the class we will formally review all the papers from the course projects (using standard program committee review forms) and have a PC meeting describing the strengths and weaknesses of each paper. The reviews you produce will comprise 15% of your final mark.
 
-The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 6 reviews from class members (I will review every paper). Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). A [differentiated review](slides/differentiatedReview.pdf) is provided for your consideration to help provide an example of good reviews for technical work. 
+The course will conclude with a formal Program Committee (PC) meeting. All projects will be submitted via a EasyChair (a conference management system). Each paper will receive at least 6 reviews from class members (I will review every paper). Michael Ernst has compiled a series of informative links for creating [effective reviews](http://www.cs.washington.edu/homes/mernst/advice/review-technical-paper.html). A [differentiated review](https://github.com/ubccpsc/507/blob/2024sept/slides/differentiatedReview.pdf) is provided for your consideration to help provide an example of good reviews for technical work. 
 
 A conference review always contains the following elements (you should include each of these components):
 
